@@ -1,0 +1,255 @@
+[
+  {
+    "data": {
+      "text": "\n1367 L'Eurite, societe anonyme, a Bruxelles. Acte constitutif. Par-devant Me Hilaire Groensteen, notaire a Laeken.\nSont comparus:\nM. Jean Parentani, directeur d'usine, et son epouse qu'il assiste et autorise, dame Celine Baudoux, demeurant ensemble a Bruxelles, avenue des Courses, n 37.\n"
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8638870358467102,
+        "result": [
+          {
+            "id": "94818e97",
+            "type": "labels",
+            "value": {
+              "start": 1,
+              "end": 5,
+              "text": "1367",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8762015104293823
+          },
+          {
+            "id": "1a321b96",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 31,
+              "text": "societe anonyme",
+              "labels": [
+                "ORGANIZATION"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5870721340179443
+          },
+          {
+            "id": "dcd50818",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 31,
+              "text": "societe anonyme",
+              "labels": [
+                "LEGAL_STRUCTURE"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6005704998970032
+          },
+          {
+            "id": "4c413347",
+            "type": "labels",
+            "value": {
+              "start": 46,
+              "end": 62,
+              "text": "Acte constitutif",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9537531733512878
+          },
+          {
+            "id": "c46a6a7a",
+            "type": "labels",
+            "value": {
+              "start": 78,
+              "end": 96,
+              "text": "Hilaire Groensteen",
+              "labels": [
+                "PERSON"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9383396506309509
+          },
+          {
+            "id": "917c708c",
+            "type": "labels",
+            "value": {
+              "start": 215,
+              "end": 229,
+              "text": "Celine Baudoux",
+              "labels": [
+                "PERSON"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9239786267280579
+          },
+          {
+            "id": "8a856199",
+            "type": "labels",
+            "value": {
+              "start": 134,
+              "end": 148,
+              "text": "Jean Parentani",
+              "labels": [
+                "PERSON"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8462709188461304
+          },
+          {
+            "id": "13ba7fbe",
+            "type": "labels",
+            "value": {
+              "start": 75,
+              "end": 77,
+              "text": "Me",
+              "labels": [
+                "HONORIFICS"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.826697826385498
+          },
+          {
+            "id": "9ee72f59",
+            "type": "labels",
+            "value": {
+              "start": 131,
+              "end": 133,
+              "text": "M.",
+              "labels": [
+                "HONORIFICS"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6201156377792358
+          },
+          {
+            "id": "e2d9df44",
+            "type": "labels",
+            "value": {
+              "start": 98,
+              "end": 105,
+              "text": "notaire",
+              "labels": [
+                "PROFESSION"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.925948977470398
+          },
+          {
+            "id": "bac79f53",
+            "type": "labels",
+            "value": {
+              "start": 150,
+              "end": 167,
+              "text": "directeur d'usine",
+              "labels": [
+                "CORPORATE_TITLE"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.922136127948761
+          },
+          {
+            "id": "3ad77599",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 44,
+              "text": "Bruxelles",
+              "labels": [
+                "CITY"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9995367527008057
+          },
+          {
+            "id": "88f2a02d",
+            "type": "labels",
+            "value": {
+              "start": 252,
+              "end": 261,
+              "text": "Bruxelles",
+              "labels": [
+                "CITY"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9992061257362366
+          },
+          {
+            "id": "d37b5290",
+            "type": "labels",
+            "value": {
+              "start": 108,
+              "end": 114,
+              "text": "Laeken",
+              "labels": [
+                "CITY"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9970818161964417
+          },
+          {
+            "id": "4027cf94",
+            "type": "labels",
+            "value": {
+              "start": 263,
+              "end": 287,
+              "text": "avenue des Courses, n 37",
+              "labels": [
+                "ADDRESS"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9413957595825195
+          }
+        ]
+      }
+    ]
+  }
+]
