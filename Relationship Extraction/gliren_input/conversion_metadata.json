@@ -1,0 +1,30 @@
+{
+  "source_file": "example_text.txt",
+  "ls_annotations_file": "example_text_LS_entities.json",
+  "schema_file": "../gliner_schema_template.json",
+  "conversion_timestamp": "2026-02-04T16:12:41.528405",
+  "text_length": 3688,
+  "num_entities": 79,
+  "entity_types_found": [
+    "LEGAL_PROCEDURE",
+    "PERSON",
+    "LEGAL_STRUCTURE",
+    "DATE",
+    "SHARE_QUANTITY",
+    "CAPITAL_TYPE",
+    "MISSION_STATEMENT",
+    "REGISTERED_OFFICE",
+    "CITY",
+    "ADDRESS",
+    "ARCHIVAL_REFERENCE",
+    "PROFESSION",
+    "SHARE_TYPE",
+    "ORGANIZATION",
+    "CORPORATE_TITLE",
+    "HONORIFICS"
+  ],
+  "output_files": {
+    "json": "gliren_input\\example_text_gliren_input.json",
+    "jsonl": "gliren_input\\example_text_gliren_input.jsonl"
+  }
+}

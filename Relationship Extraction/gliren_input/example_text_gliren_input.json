@@ -1,0 +1,740 @@
+{
+  "text": "Se sont réunis en assemblée générale extraordinaire tous les actionnaires de la société anonyme établie à Anvers sous la dénomination de « Caucasian Manganèse C° Ltd », constituée par acte devant le notaire Leclef, soussigné, en date du vingt et un octobre mil neuf cent et sept, publié aux annexes du Moniteur belge du six novembre mil neuf cent et sept, sous le numéro 5970.\n\nArt. 70. La société peut s'affilier à des sociétés similaires pour en retirer tout le bien qu'elle pourra, tant au point de vue commercial qu'au point de vue de la bonne direction et de la marche des institutions. En un mot, pour tout ce qui tend à l'amélioration matérielle et morale de la classe ouvrière.\n\nDissolution, liquidation.\n\nL'assemblée est présidée par M. l'écuyer Alexandre van der Vrecken, colonel d'artillerie en retraite à Louvain.\n\nArt. 71. In case of dissolution, the realization of the social assets and the liquidation of the company will be carried out by the administration board and the auditors then in office.\n\nIl nomme comme secrétaire M. Joseph de Cordes, ingénieur, demeurant à Anvers, rue Haringrode, 106.\n\nEn cas de perte des trois quarts du capital social, la liquidation aura lieu de plein droit.\n\nL'assemblée désigne comme scrutateurs MM. Louis Cricquillon, administrateur délégué du Comptoir commercial anversois, demeurant à Anvers, 67, avenue des Arts, et Ferdinand De Bruyn, candidat-notaire, demeurant à Schooten.\n\nModifications aux statuts.\n\nArt. 72. Les statuts ne pourront être modifiés que par une assemblée générale convoquée à cet effet. Aucune modification ne sera admise que si l'assemblée réunit les deux tiers des voix des membres présents.\n\nM. le président constate d'abord que l'assemblée a été régulièrement convoquée.\n\nFait en séance du 4 avril 1909.\n\nA l'appui de cette constatation, il dépose sur le bureau les numéros du Moniteur belge du premier et des dix-onze mai dernier, du Journal de Bruxelles du premier et du dix mai dernier, de la Métropole d'Anvers du deux et du dix mai dernier, et du journal La Feuille de Tiflis, se publiant à Tiflis, du dix-huit et du vingt-huit avril dernier.\n\nLe conseil d'administration: Ph. Dufrasne, président; Alfred Toubeau, secrétaire; Timothée Fievez, trésorier; Louis Richard, Emile Bouchez, A. Lembour, P.-J. Masse, Louis Motte, A. Laurent.\n\nLes commissaires: Hilaire Motte, Etienne Lemaire.\n\nEnregistré gratis à Boussu, le 22 juin 1909, volume 47, folio 21, case 5. Six rôles sans renvoi. Le receveur, (signé) Dambrin.\n\nChacun de ces numéros contient convocation à la présente assemblée ainsi que l'ordre du jour.\n\nOnze aandeelhouders zijn aanwezig of vertegenwoordigd, bezittende samen zes honderd en acht aandelen, waardoor zes honderd en acht stemmen worden toegekend.\n\n(Déposé au greffe du tribunal de commerce de Mons le 24 juin 1909.)\n\nLes noms, prénoms, professions et domicile des actionnaires sont consignés dans la liste de présence signée par eux, laquelle liste restera annexée aux présentes après reconnaissance et paraphe pour être présentée en même temps à la formalité de l'enregistrement avec les procurations.\n\n(Sans frais.)\n\n4147. — Filature et Filteries réunies, société anonyme, à Alost. — Réélection de deux administrateurs et d'un commissaire. — Tirage d'obligations.\n\nM. le président constate que le dépôt des actions a été fait conformément aux dispositions des statuts.\n\nCes constatations faites et reconnues par l'assemblée, M. le président donne lecture de l'ordre du jour portant entre autres:\n\nExtrait du procès-verbal de l'assemblée générale ordinaire tenue à Alost le 15 juin 1909, sous la présidence de M. A. Verbeke et M. Ch. Cumont fils remplissant les fonctions de secrétaire.",
+  "entities": [
+    {
+      "id": "ent_0",
+      "type": "DATE",
+      "start": 1767,
+      "end": 1779,
+      "text": "4 avril 1909",
+      "confidence": 0,
+      "ls_id": "14647458"
+    },
+    {
+      "id": "ent_1",
+      "type": "DATE",
+      "start": 2399,
+      "end": 2411,
+      "text": "22 juin 1909",
+      "confidence": 0,
+      "ls_id": "062e0b22"
+    },
+    {
+      "id": "ent_2",
+      "type": "DATE",
+      "start": 3576,
+      "end": 3588,
+      "text": "15 juin 1909",
+      "confidence": 0,
+      "ls_id": "3009e1a5"
+    },
+    {
+      "id": "ent_3",
+      "type": "DATE",
+      "start": 2802,
+      "end": 2814,
+      "text": "24 juin 1909",
+      "confidence": 0,
+      "ls_id": "d05b3264"
+    },
+    {
+      "id": "ent_4",
+      "type": "DATE",
+      "start": 320,
+      "end": 354,
+      "text": "six novembre mil neuf cent et sept",
+      "confidence": 0,
+      "ls_id": "918d830b"
+    },
+    {
+      "id": "ent_5",
+      "type": "DATE",
+      "start": 1950,
+      "end": 1965,
+      "text": "dix mai dernier",
+      "confidence": 0,
+      "ls_id": "8412fc43"
+    },
+    {
+      "id": "ent_6",
+      "type": "ORGANIZATION",
+      "start": 139,
+      "end": 165,
+      "text": "Caucasian Manganèse C° Ltd",
+      "confidence": 0,
+      "ls_id": "4540d872"
+    },
+    {
+      "id": "ent_7",
+      "type": "LEGAL_STRUCTURE",
+      "start": 3159,
+      "end": 3174,
+      "text": "société anonyme",
+      "confidence": 0,
+      "ls_id": "0f19b1f0"
+    },
+    {
+      "id": "ent_8",
+      "type": "LEGAL_STRUCTURE",
+      "start": 80,
+      "end": 95,
+      "text": "société anonyme",
+      "confidence": 0,
+      "ls_id": "a98757f9"
+    },
+    {
+      "id": "ent_9",
+      "type": "MISSION_STATEMENT",
+      "start": 3128,
+      "end": 3149,
+      "text": "Filature et Filteries",
+      "confidence": 0,
+      "ls_id": "4239dac0"
+    },
+    {
+      "id": "ent_10",
+      "type": "LEGAL_PROCEDURE",
+      "start": 700,
+      "end": 711,
+      "text": "liquidation",
+      "confidence": 0,
+      "ls_id": "a459ec0c"
+    },
+    {
+      "id": "ent_11",
+      "type": "LEGAL_PROCEDURE",
+      "start": 1169,
+      "end": 1180,
+      "text": "liquidation",
+      "confidence": 0,
+      "ls_id": "ccb9019d"
+    },
+    {
+      "id": "ent_12",
+      "type": "LEGAL_PROCEDURE",
+      "start": 687,
+      "end": 698,
+      "text": "Dissolution",
+      "confidence": 0,
+      "ls_id": "046207e9"
+    },
+    {
+      "id": "ent_13",
+      "type": "LEGAL_PROCEDURE",
+      "start": 905,
+      "end": 916,
+      "text": "liquidation",
+      "confidence": 0,
+      "ls_id": "ed4e8546"
+    },
+    {
+      "id": "ent_14",
+      "type": "LEGAL_PROCEDURE",
+      "start": 847,
+      "end": 858,
+      "text": "dissolution",
+      "confidence": 0,
+      "ls_id": "0baa5011"
+    },
+    {
+      "id": "ent_15",
+      "type": "LEGAL_PROCEDURE",
+      "start": 3245,
+      "end": 3265,
+      "text": "Tirage d'obligations",
+      "confidence": 0,
+      "ls_id": "5b5a4530"
+    },
+    {
+      "id": "ent_16",
+      "type": "REGISTERED_OFFICE",
+      "start": 1832,
+      "end": 1838,
+      "text": "bureau",
+      "confidence": 0,
+      "ls_id": "cd988893"
+    },
+    {
+      "id": "ent_17",
+      "type": "PERSON",
+      "start": 2350,
+      "end": 2365,
+      "text": "Etienne Lemaire",
+      "confidence": 0,
+      "ls_id": "465a626e"
+    },
+    {
+      "id": "ent_18",
+      "type": "PERSON",
+      "start": 2251,
+      "end": 2264,
+      "text": "Emile Bouchez",
+      "confidence": 0,
+      "ls_id": "17e46d60"
+    },
+    {
+      "id": "ent_19",
+      "type": "PERSON",
+      "start": 2304,
+      "end": 2314,
+      "text": "A. Laurent",
+      "confidence": 0,
+      "ls_id": "6282af9c"
+    },
+    {
+      "id": "ent_20",
+      "type": "PERSON",
+      "start": 2266,
+      "end": 2276,
+      "text": "A. Lembour",
+      "confidence": 0,
+      "ls_id": "dc98f9b8"
+    },
+    {
+      "id": "ent_21",
+      "type": "PERSON",
+      "start": 1370,
+      "end": 1388,
+      "text": "Ferdinand De Bruyn",
+      "confidence": 0,
+      "ls_id": "3d909a63"
+    },
+    {
+      "id": "ent_22",
+      "type": "PERSON",
+      "start": 2335,
+      "end": 2348,
+      "text": "Hilaire Motte",
+      "confidence": 0,
+      "ls_id": "09df6e7b"
+    },
+    {
+      "id": "ent_23",
+      "type": "PERSON",
+      "start": 2180,
+      "end": 2194,
+      "text": "Alfred Toubeau",
+      "confidence": 0,
+      "ls_id": "108d103a"
+    },
+    {
+      "id": "ent_24",
+      "type": "PERSON",
+      "start": 2208,
+      "end": 2223,
+      "text": "Timothée Fievez",
+      "confidence": 0,
+      "ls_id": "de840242"
+    },
+    {
+      "id": "ent_25",
+      "type": "PERSON",
+      "start": 2291,
+      "end": 2302,
+      "text": "Louis Motte",
+      "confidence": 0,
+      "ls_id": "c37402b3"
+    },
+    {
+      "id": "ent_26",
+      "type": "PERSON",
+      "start": 1250,
+      "end": 1267,
+      "text": "Louis Cricquillon",
+      "confidence": 0,
+      "ls_id": "72e9c34c"
+    },
+    {
+      "id": "ent_27",
+      "type": "PERSON",
+      "start": 2236,
+      "end": 2249,
+      "text": "Louis Richard",
+      "confidence": 0,
+      "ls_id": "41e2c6f1"
+    },
+    {
+      "id": "ent_28",
+      "type": "PERSON",
+      "start": 755,
+      "end": 780,
+      "text": "Alexandre van der Vrecken",
+      "confidence": 0,
+      "ls_id": "86f2f885"
+    },
+    {
+      "id": "ent_29",
+      "type": "PERSON",
+      "start": 1043,
+      "end": 1059,
+      "text": "Joseph de Cordes",
+      "confidence": 0,
+      "ls_id": "afc5516b"
+    },
+    {
+      "id": "ent_30",
+      "type": "PERSON",
+      "start": 2155,
+      "end": 2167,
+      "text": "Ph. Dufrasne",
+      "confidence": 0,
+      "ls_id": "5a5eab1b"
+    },
+    {
+      "id": "ent_31",
+      "type": "PERSON",
+      "start": 2278,
+      "end": 2289,
+      "text": "P.-J. Masse",
+      "confidence": 0,
+      "ls_id": "6479a95f"
+    },
+    {
+      "id": "ent_32",
+      "type": "PERSON",
+      "start": 3615,
+      "end": 3625,
+      "text": "A. Verbeke",
+      "confidence": 0,
+      "ls_id": "1dee4f79"
+    },
+    {
+      "id": "ent_33",
+      "type": "PERSON",
+      "start": 2486,
+      "end": 2493,
+      "text": "Dambrin",
+      "confidence": 0,
+      "ls_id": "0dc5f603"
+    },
+    {
+      "id": "ent_34",
+      "type": "PERSON",
+      "start": 3632,
+      "end": 3647,
+      "text": "Ch. Cumont fils",
+      "confidence": 0,
+      "ls_id": "1dfb9ece"
+    },
+    {
+      "id": "ent_35",
+      "type": "HONORIFICS",
+      "start": 3268,
+      "end": 3270,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "dd70d285"
+    },
+    {
+      "id": "ent_36",
+      "type": "HONORIFICS",
+      "start": 3612,
+      "end": 3614,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "b23a7fe7"
+    },
+    {
+      "id": "ent_37",
+      "type": "HONORIFICS",
+      "start": 1040,
+      "end": 1042,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "f1714682"
+    },
+    {
+      "id": "ent_38",
+      "type": "HONORIFICS",
+      "start": 3428,
+      "end": 3430,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "41705e80"
+    },
+    {
+      "id": "ent_39",
+      "type": "HONORIFICS",
+      "start": 3629,
+      "end": 3631,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "20202cd6"
+    },
+    {
+      "id": "ent_40",
+      "type": "HONORIFICS",
+      "start": 743,
+      "end": 745,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "e8dcd259"
+    },
+    {
+      "id": "ent_41",
+      "type": "HONORIFICS",
+      "start": 1668,
+      "end": 1670,
+      "text": "M.",
+      "confidence": 0,
+      "ls_id": "988984e0"
+    },
+    {
+      "id": "ent_42",
+      "type": "HONORIFICS",
+      "start": 3274,
+      "end": 3283,
+      "text": "président",
+      "confidence": 0,
+      "ls_id": "3b6a9996"
+    },
+    {
+      "id": "ent_43",
+      "type": "HONORIFICS",
+      "start": 1674,
+      "end": 1683,
+      "text": "président",
+      "confidence": 0,
+      "ls_id": "47aa410b"
+    },
+    {
+      "id": "ent_44",
+      "type": "HONORIFICS",
+      "start": 3434,
+      "end": 3443,
+      "text": "président",
+      "confidence": 0,
+      "ls_id": "c6d08143"
+    },
+    {
+      "id": "ent_45",
+      "type": "PROFESSION",
+      "start": 1061,
+      "end": 1070,
+      "text": "ingénieur",
+      "confidence": 0,
+      "ls_id": "7662a1f4"
+    },
+    {
+      "id": "ent_46",
+      "type": "PROFESSION",
+      "start": 1390,
+      "end": 1406,
+      "text": "candidat-notaire",
+      "confidence": 0,
+      "ls_id": "c86c0378"
+    },
+    {
+      "id": "ent_47",
+      "type": "PROFESSION",
+      "start": 2225,
+      "end": 2234,
+      "text": "trésorier",
+      "confidence": 0,
+      "ls_id": "b68586a3"
+    },
+    {
+      "id": "ent_48",
+      "type": "PROFESSION",
+      "start": 782,
+      "end": 802,
+      "text": "colonel d'artillerie",
+      "confidence": 0,
+      "ls_id": "4751d0fd"
+    },
+    {
+      "id": "ent_49",
+      "type": "CORPORATE_TITLE",
+      "start": 1390,
+      "end": 1406,
+      "text": "candidat-notaire",
+      "confidence": 0,
+      "ls_id": "54f4b590"
+    },
+    {
+      "id": "ent_50",
+      "type": "CORPORATE_TITLE",
+      "start": 782,
+      "end": 802,
+      "text": "colonel d'artillerie",
+      "confidence": 0,
+      "ls_id": "ac5e966e"
+    },
+    {
+      "id": "ent_51",
+      "type": "CORPORATE_TITLE",
+      "start": 2225,
+      "end": 2234,
+      "text": "trésorier",
+      "confidence": 0,
+      "ls_id": "d40f5de4"
+    },
+    {
+      "id": "ent_52",
+      "type": "CORPORATE_TITLE",
+      "start": 1269,
+      "end": 1291,
+      "text": "administrateur délégué",
+      "confidence": 0,
+      "ls_id": "56f5191c"
+    },
+    {
+      "id": "ent_53",
+      "type": "CORPORATE_TITLE",
+      "start": 2169,
+      "end": 2178,
+      "text": "président",
+      "confidence": 0,
+      "ls_id": "5ee0921f"
+    },
+    {
+      "id": "ent_54",
+      "type": "CORPORATE_TITLE",
+      "start": 3677,
+      "end": 3687,
+      "text": "secrétaire",
+      "confidence": 0,
+      "ls_id": "e149a174"
+    },
+    {
+      "id": "ent_55",
+      "type": "CORPORATE_TITLE",
+      "start": 2196,
+      "end": 2206,
+      "text": "secrétaire",
+      "confidence": 0,
+      "ls_id": "c73f22dd"
+    },
+    {
+      "id": "ent_56",
+      "type": "CORPORATE_TITLE",
+      "start": 1029,
+      "end": 1039,
+      "text": "secrétaire",
+      "confidence": 0,
+      "ls_id": "50f497fb"
+    },
+    {
+      "id": "ent_57",
+      "type": "SHARE_QUANTITY",
+      "start": 2663,
+      "end": 2691,
+      "text": "zes honderd en acht aandelen",
+      "confidence": 0,
+      "ls_id": "2bb18d0c"
+    },
+    {
+      "id": "ent_58",
+      "type": "SHARE_TYPE",
+      "start": 2683,
+      "end": 2691,
+      "text": "aandelen",
+      "confidence": 0,
+      "ls_id": "ee9cd499"
+    },
+    {
+      "id": "ent_59",
+      "type": "CAPITAL_TYPE",
+      "start": 1150,
+      "end": 1164,
+      "text": "capital social",
+      "confidence": 0,
+      "ls_id": "e9f3d6bb"
+    },
+    {
+      "id": "ent_60",
+      "type": "CITY",
+      "start": 106,
+      "end": 112,
+      "text": "Anvers",
+      "confidence": 0,
+      "ls_id": "3ae127bb"
+    },
+    {
+      "id": "ent_61",
+      "type": "CITY",
+      "start": 1985,
+      "end": 1991,
+      "text": "Anvers",
+      "confidence": 0,
+      "ls_id": "f092cd69"
+    },
+    {
+      "id": "ent_62",
+      "type": "CITY",
+      "start": 1420,
+      "end": 1428,
+      "text": "Schooten",
+      "confidence": 0,
+      "ls_id": "396563d8"
+    },
+    {
+      "id": "ent_63",
+      "type": "CITY",
+      "start": 1338,
+      "end": 1344,
+      "text": "Anvers",
+      "confidence": 0,
+      "ls_id": "75d9638d"
+    },
+    {
+      "id": "ent_64",
+      "type": "CITY",
+      "start": 1084,
+      "end": 1090,
+      "text": "Anvers",
+      "confidence": 0,
+      "ls_id": "d9124fb7"
+    },
+    {
+      "id": "ent_65",
+      "type": "CITY",
+      "start": 2073,
+      "end": 2079,
+      "text": "Tiflis",
+      "confidence": 0,
+      "ls_id": "56caf653"
+    },
+    {
+      "id": "ent_66",
+      "type": "CITY",
+      "start": 3178,
+      "end": 3183,
+      "text": "Alost",
+      "confidence": 0,
+      "ls_id": "c9c54962"
+    },
+    {
+      "id": "ent_67",
+      "type": "CITY",
+      "start": 3567,
+      "end": 3572,
+      "text": "Alost",
+      "confidence": 0,
+      "ls_id": "643d5e23"
+    },
+    {
+      "id": "ent_68",
+      "type": "CITY",
+      "start": 2051,
+      "end": 2057,
+      "text": "Tiflis",
+      "confidence": 0,
+      "ls_id": "39a4ccbb"
+    },
+    {
+      "id": "ent_69",
+      "type": "CITY",
+      "start": 817,
+      "end": 824,
+      "text": "Louvain",
+      "confidence": 0,
+      "ls_id": "5f69d917"
+    },
+    {
+      "id": "ent_70",
+      "type": "CITY",
+      "start": 2794,
+      "end": 2798,
+      "text": "Mons",
+      "confidence": 0,
+      "ls_id": "42fdead5"
+    },
+    {
+      "id": "ent_71",
+      "type": "CITY",
+      "start": 1923,
+      "end": 1932,
+      "text": "Bruxelles",
+      "confidence": 0,
+      "ls_id": "9bbb867e"
+    },
+    {
+      "id": "ent_72",
+      "type": "CITY",
+      "start": 2388,
+      "end": 2394,
+      "text": "Boussu",
+      "confidence": 0,
+      "ls_id": "11c03b34"
+    },
+    {
+      "id": "ent_73",
+      "type": "ADDRESS",
+      "start": 1092,
+      "end": 1111,
+      "text": "rue Haringrode, 106",
+      "confidence": 0,
+      "ls_id": "5e1d105f"
+    },
+    {
+      "id": "ent_74",
+      "type": "ADDRESS",
+      "start": 1346,
+      "end": 1365,
+      "text": "67, avenue des Arts",
+      "confidence": 0,
+      "ls_id": "cb34f743"
+    },
+    {
+      "id": "ent_75",
+      "type": "ARCHIVAL_REFERENCE",
+      "start": 2413,
+      "end": 2440,
+      "text": "volume 47, folio 21, case 5",
+      "confidence": 0,
+      "ls_id": "8cfe14b2"
+    },
+    {
+      "id": "ent_76",
+      "type": "ARCHIVAL_REFERENCE",
+      "start": 3120,
+      "end": 3124,
+      "text": "4147",
+      "confidence": 0,
+      "ls_id": "58ea4fc6"
+    },
+    {
+      "id": "ent_77",
+      "type": "ARCHIVAL_REFERENCE",
+      "start": 1912,
+      "end": 1932,
+      "text": "Journal de Bruxelles",
+      "confidence": 0,
+      "ls_id": "4a488bb4"
+    },
+    {
+      "id": "ent_78",
+      "type": "ARCHIVAL_REFERENCE",
+      "start": 1973,
+      "end": 1991,
+      "text": "Métropole d'Anvers",
+      "confidence": 0,
+      "ls_id": "9a639a67"
+    }
+  ],
+  "metadata": {
+    "source": "Label Studio",
+    "task_id": 3472,
+    "annotation_id": 937,
+    "num_entities": 79,
+    "entity_types": [
+      "LEGAL_PROCEDURE",
+      "PERSON",
+      "LEGAL_STRUCTURE",
+      "DATE",
+      "SHARE_QUANTITY",
+      "CAPITAL_TYPE",
+      "MISSION_STATEMENT",
+      "REGISTERED_OFFICE",
+      "CITY",
+      "ADDRESS",
+      "ARCHIVAL_REFERENCE",
+      "PROFESSION",
+      "SHARE_TYPE",
+      "ORGANIZATION",
+      "CORPORATE_TITLE",
+      "HONORIFICS"
+    ]
+  }
+}

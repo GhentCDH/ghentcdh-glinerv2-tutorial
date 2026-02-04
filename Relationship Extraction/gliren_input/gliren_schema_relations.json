@@ -1,0 +1,81 @@
+{
+  "glirel_labels": {
+    "HAS_OCCUPATION": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["OCCUPATION"]
+    },
+    "SERVES_AS": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["CORPORATE_TITLE"]
+    },
+    "HOLDS_TITLE": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["HONORIFICS"]
+    },
+    "RESIDES_AT": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["ADDRESS"]
+    },
+    "RESIDES_IN": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["GPE"]
+    },
+    "OWNS_SHARES": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["SHARES"]
+    },
+    "REPRESENTS": {
+      "allowed_head": ["PERSON"],
+      "allowed_tail": ["PERSON"]
+    },
+    "IS_BASED_AT": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["ADDRESS"]
+    },
+    "STRUCTURED_AS": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["LEGAL_STRUCTURE"]
+    },
+    "SERVES_PURPOSE": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["MISSION_STATEMENT"]
+    },
+    "LASTS_FOR": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["DURATION"]
+    },
+    "MANAGES_CAPITAL": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["CAPITAL"]
+    },
+    "DISCUSSES_TOPIC": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["LEGAL_PROCEDURE"]
+    },
+    "HAS_HEADQUARTERS": {
+      "allowed_head": ["ORGANIZATION"],
+      "allowed_tail": ["REGISTERED_OFFICE"]
+    },
+    "OPERATES_IN": {
+      "allowed_head": ["REGISTERED_OFFICE"],
+      "allowed_tail": ["GPE"]
+    },
+    "DEPOSITED": {
+      "allowed_head": ["DEED"],
+      "allowed_tail": ["DATE"]
+    },
+    "REGISTERED": {
+      "allowed_head": ["DEED"],
+      "allowed_tail": ["DATE"]
+    },
+    "PUBLISHED": {
+      "allowed_head": ["DEED"],
+      "allowed_tail": ["DATE"]
+    },
+    "CLASSIFIED_AS": {
+      "allowed_head": ["DEED"],
+      "allowed_tail": ["DEED_NUMBER", "ROLE_NUMBER"]
+    },
+    "no relation": {}
+  }
+}
