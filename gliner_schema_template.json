@@ -8,8 +8,16 @@
       "description": "Date expression, can be written in various incomplete formats (e.g., '15 mars 1920', 'le trois avril mil neuf cent dix')",
       "threshold": 0.6
     },
+    "DEED": {
+      "description": "Type of legal deed or document (e.g., acte de constitution, acte de dissolution, acte de modification)",
+      "threshold": 0.5
+    },
     "ORGANIZATION": {
       "description": "Full or abbreviated name of an organization (e.g., Société Générale)",
+      "threshold": 0.5
+    },
+    "GOVERNING_BODY": {
+      "description": "Administrative or decision-making body of an organization (e.g., conseil d'administration, assemblée générale, comité de direction)",
       "threshold": 0.5
     },
     "LEGAL_STRUCTURE": {
