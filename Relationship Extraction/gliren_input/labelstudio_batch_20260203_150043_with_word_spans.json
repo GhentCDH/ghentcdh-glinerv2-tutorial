@@ -1,0 +1,3271 @@
+[
+  {
+    "data": {
+      "text": "L'assemblée, après délibération, fixe à cinq le nombre des administrateurs et, à l'unanimité, appelle à ces fonctions MM. Van den Brande, Van In, Bauwens, Lambin et Sutens.\n\nsoixante mille francs, y souscrire en mon nom deux actions de cinq cents francs chacune, faire sur ces actions les versements statutaires.\n\nAssister à l'assemblée générale qui se tiendra après la constitution de la société, à l'effet de nommer les membres du conseil d'administration.\n\nLa séance continue.\n\nAux effets ci-dessus, passer et signer tous actes et procès-verbaux, substituer en tout ou en partie des présents pouvoirs et, en général, faire tout ce qui sera utile ou nécessaire.\n\nDont procès-verbal fait et dressé à Lierre, en l’étude, en présence de Gérard Helsen, employé, et Jean-François Van den Dries, concierge ; tous deux demeurant à Lierre, témoins requis.\n\nBruxelles, le 10 juin 1909.\n\nAprès lecture, les parties signent avec les témoins et le notaire.\n\nApprouvé l'écriture ci-dessus, (signé) AUG. CAVAILLER.\n\n(Signé) Florimond Sutens, Aug. Bauwens, Ach. Van In, I. Hellemans, Jules Franck, J. Taeymans, F. Vernelen, Fr. Van den Brande, E. Lambin, Arthur Kahn, Eug. Hellemans, G. Torfs, G. Helsen, J.-Fr. Van den Dries, Fl. Van Cauwenbergh.\n\nEnregistré un rôle sans renvoi, à Lierre, le 16 juin 1909, volume 52, folio 2, case 8. Reçu 2 fr. 40 c. Le receveur, (signé) A. Bersez.\n\nEnregistré un rôle sans renvoi, à Lierre, le 16 juin 1909, volume 351, folio 45, case 14. Reçu 2 fr. 40 c. Le receveur, (signé) A. Bersez.\n\n4. Je soussigné, Ernest Siberdt, à Anvers, rue du Verger, numéro 90, donne, par les présentes, pouvoir à M. Florimond Sutens, agent de change, rue de l'Ecole, numéro 9, à Lierre, de me représenter à l'acte de constitution de la société anonyme « Auto-Bank », à passer devant le notaire Van Cauwenbergh, à Lierre, au capital de soixante mille francs, y souscrire en mon nom deux actions de cinq cents francs chacune, faire sur ces actions les versements statutaires.\n\nPour copie conforme délivrée aux fins de publication conformément à la loi.\n\nVAN CAUWENBERGH.\n\n(Déposé au greffe du tribunal de première instance, faisant fonctions de tribunal de commerce, de Malines le 23 juin 1909.)\n\nAssister à l'assemblée générale qui se tiendra après la constitution de la société à l'effet de nommer les membres du conseil d'administration.\n\n(320 lig.)\n\nAux effets ci-dessus, passer et signer tous actes et procès-verbaux, substituer en tout ou en partie des présents pouvoirs et, en général, faire tout ce qui sera utile et nécessaire."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8491631969809532,
+        "result": [
+          {
+            "id": "ed1a92df",
+            "type": "labels",
+            "value": {
+              "start": 1418,
+              "end": 1430,
+              "text": "16 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 228,
+              "word_end": 230
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9917552471160889
+          },
+          {
+            "id": "daf83e21",
+            "type": "labels",
+            "value": {
+              "start": 1281,
+              "end": 1293,
+              "text": "16 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 201,
+              "word_end": 203
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9891515970230103
+          },
+          {
+            "id": "ce4417b6",
+            "type": "labels",
+            "value": {
+              "start": 2184,
+              "end": 2196,
+              "text": "23 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 357,
+              "word_end": 359
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9809260368347168
+          },
+          {
+            "id": "037b9752",
+            "type": "labels",
+            "value": {
+              "start": 865,
+              "end": 877,
+              "text": "10 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 136,
+              "word_end": 138
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9454671144485474
+          },
+          {
+            "id": "5cbd9b95",
+            "type": "labels",
+            "value": {
+              "start": 1759,
+              "end": 1768,
+              "text": "Auto-Bank",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 290,
+              "word_end": 290
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.860744833946228
+          },
+          {
+            "id": "6b0c7bd9",
+            "type": "labels",
+            "value": {
+              "start": 1741,
+              "end": 1756,
+              "text": "société anonyme",
+              "labels": [
+                "LEGAL_STRUCTURE"
+              ],
+              "word_start": 287,
+              "word_end": 288
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.750738263130188
+          },
+          {
+            "id": "14d894e5",
+            "type": "labels",
+            "value": {
+              "start": 1722,
+              "end": 1734,
+              "text": "constitution",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 284,
+              "word_end": 284
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9055083990097046
+          },
+          {
+            "id": "b7013541",
+            "type": "labels",
+            "value": {
+              "start": 370,
+              "end": 382,
+              "text": "constitution",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 59,
+              "word_end": 59
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8962051868438721
+          },
+          {
+            "id": "94ed6bc0",
+            "type": "labels",
+            "value": {
+              "start": 2256,
+              "end": 2268,
+              "text": "constitution",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 369,
+              "word_end": 369
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8751594424247742
+          },
+          {
+            "id": "c9a399c7",
+            "type": "labels",
+            "value": {
+              "start": 1818,
+              "end": 1824,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 300,
+              "word_end": 300
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6381407976150513
+          },
+          {
+            "id": "ba4bb108",
+            "type": "labels",
+            "value": {
+              "start": 1270,
+              "end": 1276,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 199,
+              "word_end": 199
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6274439692497253
+          },
+          {
+            "id": "3800f5ae",
+            "type": "labels",
+            "value": {
+              "start": 826,
+              "end": 832,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 131,
+              "word_end": 131
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6011000871658325
+          },
+          {
+            "id": "5383fbcb",
+            "type": "labels",
+            "value": {
+              "start": 701,
+              "end": 707,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 111,
+              "word_end": 111
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.584723711013794
+          },
+          {
+            "id": "be2cb390",
+            "type": "labels",
+            "value": {
+              "start": 1407,
+              "end": 1413,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 226,
+              "word_end": 226
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5514045357704163
+          },
+          {
+            "id": "a9cdad8b",
+            "type": "labels",
+            "value": {
+              "start": 1684,
+              "end": 1690,
+              "text": "Lierre",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 277,
+              "word_end": 277
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5504724979400635
+          },
+          {
+            "id": "1f3a785d",
+            "type": "labels",
+            "value": {
+              "start": 1142,
+              "end": 1153,
+              "text": "Arthur Kahn",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 178,
+              "word_end": 179
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9945360422134399
+          },
+          {
+            "id": "25a84383",
+            "type": "labels",
+            "value": {
+              "start": 1071,
+              "end": 1083,
+              "text": "Jules Franck",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 166,
+              "word_end": 167
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9892265200614929
+          },
+          {
+            "id": "dfac36ac",
+            "type": "labels",
+            "value": {
+              "start": 1098,
+              "end": 1109,
+              "text": "F. Vernelen",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 170,
+              "word_end": 171
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.988440990447998
+          },
+          {
+            "id": "d7ade4f0",
+            "type": "labels",
+            "value": {
+              "start": 1085,
+              "end": 1096,
+              "text": "J. Taeymans",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 168,
+              "word_end": 169
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9782218933105469
+          },
+          {
+            "id": "cd89adee",
+            "type": "labels",
+            "value": {
+              "start": 1171,
+              "end": 1179,
+              "text": "G. Torfs",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 182,
+              "word_end": 183
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9726114869117737
+          },
+          {
+            "id": "99cfed82",
+            "type": "labels",
+            "value": {
+              "start": 763,
+              "end": 790,
+              "text": "Jean-François Van den Dries",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 121,
+              "word_end": 124
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9677556753158569
+          },
+          {
+            "id": "67955081",
+            "type": "labels",
+            "value": {
+              "start": 155,
+              "end": 161,
+              "text": "Lambin",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 25,
+              "word_end": 25
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9662503600120544
+          },
+          {
+            "id": "5b24d7b3",
+            "type": "labels",
+            "value": {
+              "start": 1530,
+              "end": 1544,
+              "text": "Ernest Siberdt",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 250,
+              "word_end": 251
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9657712578773499
+          },
+          {
+            "id": "dcdff738",
+            "type": "labels",
+            "value": {
+              "start": 138,
+              "end": 144,
+              "text": "Van In",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 22,
+              "word_end": 23
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.964333176612854
+          },
+          {
+            "id": "5353c4ed",
+            "type": "labels",
+            "value": {
+              "start": 736,
+              "end": 749,
+              "text": "Gérard Helsen",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 117,
+              "word_end": 118
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9641653895378113
+          },
+          {
+            "id": "de9be8fb",
+            "type": "labels",
+            "value": {
+              "start": 146,
+              "end": 153,
+              "text": "Bauwens",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 24,
+              "word_end": 24
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9631381630897522
+          },
+          {
+            "id": "bca29ad5",
+            "type": "labels",
+            "value": {
+              "start": 1049,
+              "end": 1055,
+              "text": "Van In",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 162,
+              "word_end": 163
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9613792896270752
+          },
+          {
+            "id": "eb20e7fb",
+            "type": "labels",
+            "value": {
+              "start": 1035,
+              "end": 1042,
+              "text": "Bauwens",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 160,
+              "word_end": 160
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9480170011520386
+          },
+          {
+            "id": "97984684",
+            "type": "labels",
+            "value": {
+              "start": 1621,
+              "end": 1637,
+              "text": "Florimond Sutens",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 266,
+              "word_end": 267
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9447507262229919
+          },
+          {
+            "id": "c4ad4b3c",
+            "type": "labels",
+            "value": {
+              "start": 1057,
+              "end": 1069,
+              "text": "I. Hellemans",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 164,
+              "word_end": 165
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9413322806358337
+          },
+          {
+            "id": "aa5f2b80",
+            "type": "labels",
+            "value": {
+              "start": 1799,
+              "end": 1814,
+              "text": "Van Cauwenbergh",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 297,
+              "word_end": 298
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9357542395591736
+          },
+          {
+            "id": "2a6ee8bc",
+            "type": "labels",
+            "value": {
+              "start": 987,
+              "end": 1001,
+              "text": "AUG. CAVAILLER",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 154,
+              "word_end": 155
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9345349073410034
+          },
+          {
+            "id": "7fcdac83",
+            "type": "labels",
+            "value": {
+              "start": 1115,
+              "end": 1129,
+              "text": "Van den Brande",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 173,
+              "word_end": 175
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9335274696350098
+          },
+          {
+            "id": "7309fa5e",
+            "type": "labels",
+            "value": {
+              "start": 1022,
+              "end": 1028,
+              "text": "Sutens",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 158,
+              "word_end": 158
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9330249428749084
+          },
+          {
+            "id": "c5a0cdad",
+            "type": "labels",
+            "value": {
+              "start": 1361,
+              "end": 1370,
+              "text": "A. Bersez",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 218,
+              "word_end": 219
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9290974140167236
+          },
+          {
+            "id": "9d3c2219",
+            "type": "labels",
+            "value": {
+              "start": 122,
+              "end": 136,
+              "text": "Van den Brande",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 19,
+              "word_end": 21
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9191446900367737
+          },
+          {
+            "id": "57afb6e5",
+            "type": "labels",
+            "value": {
+              "start": 1218,
+              "end": 1233,
+              "text": "Van Cauwenbergh",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 191,
+              "word_end": 192
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9133545160293579
+          },
+          {
+            "id": "58fed550",
+            "type": "labels",
+            "value": {
+              "start": 1131,
+              "end": 1140,
+              "text": "E. Lambin",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 176,
+              "word_end": 177
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.900939404964447
+          },
+          {
+            "id": "dc139454",
+            "type": "labels",
+            "value": {
+              "start": 165,
+              "end": 171,
+              "text": "Sutens",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 27,
+              "word_end": 27
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9007518887519836
+          },
+          {
+            "id": "98c26129",
+            "type": "labels",
+            "value": {
+              "start": 1501,
+              "end": 1510,
+              "text": "A. Bersez",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 245,
+              "word_end": 246
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8991447687149048
+          },
+          {
+            "id": "78aadd09",
+            "type": "labels",
+            "value": {
+              "start": 2057,
+              "end": 2072,
+              "text": "VAN CAUWENBERGH",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 338,
+              "word_end": 339
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8691068291664124
+          },
+          {
+            "id": "35f38e0f",
+            "type": "labels",
+            "value": {
+              "start": 1181,
+              "end": 1190,
+              "text": "G. Helsen",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 184,
+              "word_end": 185
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8443832397460938
+          },
+          {
+            "id": "00f5d165",
+            "type": "labels",
+            "value": {
+              "start": 1199,
+              "end": 1212,
+              "text": "Van den Dries",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 187,
+              "word_end": 189
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8124379515647888
+          },
+          {
+            "id": "6aaf166f",
+            "type": "labels",
+            "value": {
+              "start": 1695,
+              "end": 1697,
+              "text": "me",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 279,
+              "word_end": 279
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9415776133537292
+          },
+          {
+            "id": "fa5df1df",
+            "type": "labels",
+            "value": {
+              "start": 138,
+              "end": 144,
+              "text": "Van In",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 22,
+              "word_end": 23
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6341493129730225
+          },
+          {
+            "id": "894d2615",
+            "type": "labels",
+            "value": {
+              "start": 751,
+              "end": 758,
+              "text": "employé",
+              "labels": [
+                "PROFESSION"
+              ],
+              "word_start": 119,
+              "word_end": 119
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9685265421867371
+          },
+          {
+            "id": "724acb43",
+            "type": "labels",
+            "value": {
+              "start": 1639,
+              "end": 1654,
+              "text": "agent de change",
+              "labels": [
+                "PROFESSION"
+              ],
+              "word_start": 268,
+              "word_end": 270
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.962470293045044
+          },
+          {
+            "id": "ce739286",
+            "type": "labels",
+            "value": {
+              "start": 792,
+              "end": 801,
+              "text": "concierge",
+              "labels": [
+                "PROFESSION"
+              ],
+              "word_start": 125,
+              "word_end": 125
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9549767971038818
+          },
+          {
+            "id": "83dec388",
+            "type": "labels",
+            "value": {
+              "start": 220,
+              "end": 232,
+              "text": "deux actions",
+              "labels": [
+                "SHARE_QUANTITY"
+              ],
+              "word_start": 36,
+              "word_end": 37
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6772403120994568
+          },
+          {
+            "id": "45ed38c5",
+            "type": "labels",
+            "value": {
+              "start": 1886,
+              "end": 1898,
+              "text": "deux actions",
+              "labels": [
+                "SHARE_QUANTITY"
+              ],
+              "word_start": 312,
+              "word_end": 313
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6387733221054077
+          },
+          {
+            "id": "632f0be9",
+            "type": "labels",
+            "value": {
+              "start": 1891,
+              "end": 1898,
+              "text": "actions",
+              "labels": [
+                "SHARE_TYPE"
+              ],
+              "word_start": 313,
+              "word_end": 313
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5730212926864624
+          },
+          {
+            "id": "e359f161",
+            "type": "labels",
+            "value": {
+              "start": 225,
+              "end": 232,
+              "text": "actions",
+              "labels": [
+                "SHARE_TYPE"
+              ],
+              "word_start": 37,
+              "word_end": 37
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5623394846916199
+          },
+          {
+            "id": "34e53fb9",
+            "type": "labels",
+            "value": {
+              "start": 174,
+              "end": 195,
+              "text": "soixante mille francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 28,
+              "word_end": 30
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8686860799789429
+          },
+          {
+            "id": "cdf0233a",
+            "type": "labels",
+            "value": {
+              "start": 1840,
+              "end": 1861,
+              "text": "soixante mille francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 304,
+              "word_end": 306
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8073503971099854
+          },
+          {
+            "id": "a6439cb9",
+            "type": "labels",
+            "value": {
+              "start": 1902,
+              "end": 1919,
+              "text": "cinq cents francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 315,
+              "word_end": 317
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7736358046531677
+          },
+          {
+            "id": "24f00145",
+            "type": "labels",
+            "value": {
+              "start": 236,
+              "end": 253,
+              "text": "cinq cents francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 39,
+              "word_end": 41
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7716120481491089
+          },
+          {
+            "id": "f7dc0113",
+            "type": "labels",
+            "value": {
+              "start": 1548,
+              "end": 1554,
+              "text": "Anvers",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 253,
+              "word_end": 253
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9984647035598755
+          },
+          {
+            "id": "db01521f",
+            "type": "labels",
+            "value": {
+              "start": 851,
+              "end": 860,
+              "text": "Bruxelles",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 134,
+              "word_end": 134
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9951254725456238
+          },
+          {
+            "id": "517812c2",
+            "type": "labels",
+            "value": {
+              "start": 2173,
+              "end": 2180,
+              "text": "Malines",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 355,
+              "word_end": 355
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7185285091400146
+          },
+          {
+            "id": "c91e1606",
+            "type": "labels",
+            "value": {
+              "start": 1556,
+              "end": 1580,
+              "text": "rue du Verger, numéro 90",
+              "labels": [
+                "ADDRESS"
+              ],
+              "word_start": 254,
+              "word_end": 258
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.847449541091919
+          },
+          {
+            "id": "adb2c01c",
+            "type": "labels",
+            "value": {
+              "start": 1656,
+              "end": 1680,
+              "text": "rue de l'Ecole, numéro 9",
+              "labels": [
+                "ADDRESS"
+              ],
+              "word_start": 271,
+              "word_end": 275
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7787846326828003
+          },
+          {
+            "id": "226f2aa2",
+            "type": "labels",
+            "value": {
+              "start": 1432,
+              "end": 1442,
+              "text": "volume 351",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 231,
+              "word_end": 232
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6785815358161926
+          },
+          {
+            "id": "cc745a81",
+            "type": "labels",
+            "value": {
+              "start": 1295,
+              "end": 1321,
+              "text": "volume 52, folio 2, case 8",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 204,
+              "word_end": 209
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6522383689880371
+          },
+          {
+            "id": "6d27e6c6",
+            "type": "labels",
+            "value": {
+              "start": 2346,
+              "end": 2354,
+              "text": "320 lig.",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 382,
+              "word_end": 383
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5588383078575134
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Total des actions privilégiées cent quarante-trois et des actions ordinaires deux cents, formant la totalité des actions encore existantes, ainsi que les comparants le déclarent, donnant droit les premiers à cent quarante-trois voix et les secondes à cent voix, soit ensemble deux cent quarante-trois voix.\n\n4166. — Alfred Raiser et Cie, société en commandite simple, à Liège. — Constitution.\n\nD'un acte sous seing privé, signé à Liège, le 14 juin 1909, et enregistré le 16 juin 1909, à Liège, volume 123, folio 41, case 6, au droit de sept francs, il résulte qu'une société en commandite simple a été formée entre M. Alfred Raiser, ingénieur, domicilié à Liège, et M. X..., sous les conditions suivantes:\n\nLes comparants exposent que la présente assemblée générale extraordinaire a été convoquée régulièrement.\n\nLes actionnaires présents possédant ensemble la totalité du capital social, l'assemblée constate qu'elle peut valablement délibérer sur les objets à l'ordre du jour ci-après stipulés:\n\nI. La raison sociale est Alfred Raiser et Cie\n\nL'assemblée est présidée par M. Georges Bosson, président de la société. Le président désigne M. Germaux pour remplir les fonctions de secrétaire. MM. Doneux et Pirard pour remplir les fonctions de scrutateurs.\n\nII. La société a pour objet la construction et la vente d'instruments de précision et de machines-outils.\n\nIII. Le siège de la société est à Liège, avenue de l’Observatoire numéro 58.\n\nLe président donne lecture de l'ordre du jour ainsi conçu:\n\nIV. La durée de la société est fixée à dix ans, prenant cours le 15 juin 1909, pour finir le 14 juin 1919.\n\n1° Proposition de fusion.\n\n2° Eventuellement mise en liquidation de la société.\n\nV. M. Alfred Raiser, associé commandité, aura seul la signature sociale et la gestion de la société.\n\n3° Nomination de liquidateurs; pouvoirs à leur donner.\n\n4° Apport à une nouvelle société de l'actif en tout ou en partie par souscription ou autrement.\n\nVI. The amount of the capital contribution is 10,000 francs fully paid by Mr. X...\n\nLe président expose à l'assemblée les raisons qui ont amené le conseil d'administration à soumettre à l'assemblée générale les propositions portées à l'ordre du jour.\n\nPour extrait conforme:\nALFRED RAISER, ing.\n\nAprès échange de vues, les questions sont mises aux voix.\n\n(Déposé au greffe du tribunal de commerce de Liège le 25 juin 1909.)\n\nUnanimously, the assembly decides to merge under the conditions stated in the report of the board of directors.\n\n(=25 lig.)\n\nEn conséquence et par le même vote, l'assemblée décide la mise en liquidation de la société Maison de Change Fontaine et Cie, nomme comme liquidateurs MM. Fontaine et Pirard, et leur donne les pouvoirs prévus aux articles cent quatorze et cent quinze de la loi sur les sociétés, la présente délibération valant l'autorisation spéciale de l'article cent quinze, les autorisant spécialement à continuer les opérations commerciales de la société."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8719653082343767,
+        "result": [
+          {
+            "id": "182f4a18",
+            "type": "labels",
+            "value": {
+              "start": 440,
+              "end": 452,
+              "text": "14 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 69,
+              "word_end": 71
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9759902358055115
+          },
+          {
+            "id": "c6b8d7ec",
+            "type": "labels",
+            "value": {
+              "start": 2355,
+              "end": 2367,
+              "text": "25 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 379,
+              "word_end": 381
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9668757319450378
+          },
+          {
+            "id": "d2f6ef01",
+            "type": "labels",
+            "value": {
+              "start": 471,
+              "end": 483,
+              "text": "16 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 75,
+              "word_end": 77
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9614643454551697
+          },
+          {
+            "id": "f12dfb2c",
+            "type": "labels",
+            "value": {
+              "start": 1567,
+              "end": 1579,
+              "text": "15 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 250,
+              "word_end": 252
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9588183760643005
+          },
+          {
+            "id": "fc54d41b",
+            "type": "labels",
+            "value": {
+              "start": 1595,
+              "end": 1607,
+              "text": "14 juin 1919",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 256,
+              "word_end": 258
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9524474740028381
+          },
+          {
+            "id": "0f3d2a90",
+            "type": "labels",
+            "value": {
+              "start": 2588,
+              "end": 2620,
+              "text": "Maison de Change Fontaine et Cie",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 418,
+              "word_end": 423
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9660865664482117
+          },
+          {
+            "id": "99cf1b33",
+            "type": "labels",
+            "value": {
+              "start": 1023,
+              "end": 1043,
+              "text": "Alfred Raiser et Cie",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 159,
+              "word_end": 162
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9473373889923096
+          },
+          {
+            "id": "97e64c77",
+            "type": "labels",
+            "value": {
+              "start": 316,
+              "end": 336,
+              "text": "Alfred Raiser et Cie",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 48,
+              "word_end": 51
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.944674551486969
+          },
+          {
+            "id": "d9658e75",
+            "type": "labels",
+            "value": {
+              "start": 338,
+              "end": 366,
+              "text": "société en commandite simple",
+              "labels": [
+                "LEGAL_STRUCTURE"
+              ],
+              "word_start": 52,
+              "word_end": 55
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8086256384849548
+          },
+          {
+            "id": "604cc215",
+            "type": "labels",
+            "value": {
+              "start": 567,
+              "end": 595,
+              "text": "société en commandite simple",
+              "labels": [
+                "LEGAL_STRUCTURE"
+              ],
+              "word_start": 94,
+              "word_end": 97
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7567576766014099
+          },
+          {
+            "id": "90070387",
+            "type": "labels",
+            "value": {
+              "start": 1541,
+              "end": 1548,
+              "text": "dix ans",
+              "labels": [
+                "DURATION"
+              ],
+              "word_start": 245,
+              "word_end": 246
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.982501745223999
+          },
+          {
+            "id": "fa35442d",
+            "type": "labels",
+            "value": {
+              "start": 2562,
+              "end": 2573,
+              "text": "liquidation",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 414,
+              "word_end": 414
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.935535192489624
+          },
+          {
+            "id": "0a06ef03",
+            "type": "labels",
+            "value": {
+              "start": 1663,
+              "end": 1674,
+              "text": "liquidation",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 267,
+              "word_end": 267
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9242427945137024
+          },
+          {
+            "id": "d2fd3671",
+            "type": "labels",
+            "value": {
+              "start": 379,
+              "end": 391,
+              "text": "Constitution",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 59,
+              "word_end": 59
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9079613089561462
+          },
+          {
+            "id": "42e10a33",
+            "type": "labels",
+            "value": {
+              "start": 316,
+              "end": 329,
+              "text": "Alfred Raiser",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 48,
+              "word_end": 49
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9973924160003662
+          },
+          {
+            "id": "a7e83bde",
+            "type": "labels",
+            "value": {
+              "start": 1023,
+              "end": 1036,
+              "text": "Alfred Raiser",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 159,
+              "word_end": 160
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9972469806671143
+          },
+          {
+            "id": "ced1618e",
+            "type": "labels",
+            "value": {
+              "start": 2221,
+              "end": 2234,
+              "text": "ALFRED RAISER",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 356,
+              "word_end": 357
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9958576560020447
+          },
+          {
+            "id": "1565ef31",
+            "type": "labels",
+            "value": {
+              "start": 1697,
+              "end": 1710,
+              "text": "Alfred Raiser",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 273,
+              "word_end": 274
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9934924244880676
+          },
+          {
+            "id": "6afba063",
+            "type": "labels",
+            "value": {
+              "start": 618,
+              "end": 631,
+              "text": "Alfred Raiser",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 103,
+              "word_end": 104
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9923954010009766
+          },
+          {
+            "id": "321d4847",
+            "type": "labels",
+            "value": {
+              "start": 1206,
+              "end": 1212,
+              "text": "Pirard",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 188,
+              "word_end": 188
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9699695706367493
+          },
+          {
+            "id": "6be46035",
+            "type": "labels",
+            "value": {
+              "start": 2663,
+              "end": 2669,
+              "text": "Pirard",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 430,
+              "word_end": 430
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9481995701789856
+          },
+          {
+            "id": "d8fddc88",
+            "type": "labels",
+            "value": {
+              "start": 1077,
+              "end": 1091,
+              "text": "Georges Bosson",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 168,
+              "word_end": 169
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8657637238502502
+          },
+          {
+            "id": "20b062cd",
+            "type": "labels",
+            "value": {
+              "start": 1139,
+              "end": 1149,
+              "text": "M. Germaux",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 177,
+              "word_end": 178
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8530625104904175
+          },
+          {
+            "id": "c36949fe",
+            "type": "labels",
+            "value": {
+              "start": 1192,
+              "end": 1202,
+              "text": "MM. Doneux",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 185,
+              "word_end": 186
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7506672739982605
+          },
+          {
+            "id": "f6abeecc",
+            "type": "labels",
+            "value": {
+              "start": 669,
+              "end": 673,
+              "text": "X...",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 111,
+              "word_end": 111
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.749679684638977
+          },
+          {
+            "id": "a3b90735",
+            "type": "labels",
+            "value": {
+              "start": 2024,
+              "end": 2028,
+              "text": "X...",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 327,
+              "word_end": 327
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6762718558311462
+          },
+          {
+            "id": "c7055b5f",
+            "type": "labels",
+            "value": {
+              "start": 2605,
+              "end": 2613,
+              "text": "Fontaine",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 421,
+              "word_end": 421
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6654186844825745
+          },
+          {
+            "id": "542da401",
+            "type": "labels",
+            "value": {
+              "start": 2647,
+              "end": 2659,
+              "text": "MM. Fontaine",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 427,
+              "word_end": 428
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6097664833068848
+          },
+          {
+            "id": "897c8d40",
+            "type": "labels",
+            "value": {
+              "start": 1139,
+              "end": 1141,
+              "text": "M.",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 177,
+              "word_end": 177
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.830601692199707
+          },
+          {
+            "id": "a75e8594",
+            "type": "labels",
+            "value": {
+              "start": 267,
+              "end": 275,
+              "text": "ensemble",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 41,
+              "word_end": 41
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8091814517974854
+          },
+          {
+            "id": "3bd42db7",
+            "type": "labels",
+            "value": {
+              "start": 666,
+              "end": 668,
+              "text": "M.",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 110,
+              "word_end": 110
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7870140671730042
+          },
+          {
+            "id": "ddafe6f3",
+            "type": "labels",
+            "value": {
+              "start": 1074,
+              "end": 1076,
+              "text": "M.",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 167,
+              "word_end": 167
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7665319442749023
+          },
+          {
+            "id": "e1a03d86",
+            "type": "labels",
+            "value": {
+              "start": 633,
+              "end": 642,
+              "text": "ingénieur",
+              "labels": [
+                "PROFESSION"
+              ],
+              "word_start": 105,
+              "word_end": 105
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9867748022079468
+          },
+          {
+            "id": "6a691578",
+            "type": "labels",
+            "value": {
+              "start": 1180,
+              "end": 1190,
+              "text": "secrétaire",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 184,
+              "word_end": 184
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8517506122589111
+          },
+          {
+            "id": "d24ca5ee",
+            "type": "labels",
+            "value": {
+              "start": 1093,
+              "end": 1102,
+              "text": "président",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 170,
+              "word_end": 170
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7991902828216553
+          },
+          {
+            "id": "6dedfc10",
+            "type": "labels",
+            "value": {
+              "start": 1243,
+              "end": 1254,
+              "text": "scrutateurs",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 194,
+              "word_end": 194
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.795930027961731
+          },
+          {
+            "id": "3dcf7d0e",
+            "type": "labels",
+            "value": {
+              "start": 2033,
+              "end": 2042,
+              "text": "président",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 329,
+              "word_end": 329
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7389337420463562
+          },
+          {
+            "id": "dbf6f6a1",
+            "type": "labels",
+            "value": {
+              "start": 1121,
+              "end": 1130,
+              "text": "président",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 175,
+              "word_end": 175
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7200754880905151
+          },
+          {
+            "id": "5d234d20",
+            "type": "labels",
+            "value": {
+              "start": 1445,
+              "end": 1454,
+              "text": "président",
+              "labels": [
+                "CORPORATE_TITLE"
+              ],
+              "word_start": 227,
+              "word_end": 227
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7153401970863342
+          },
+          {
+            "id": "3e429726",
+            "type": "labels",
+            "value": {
+              "start": 77,
+              "end": 87,
+              "text": "deux cents",
+              "labels": [
+                "SHARE_QUANTITY"
+              ],
+              "word_start": 11,
+              "word_end": 12
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.907353937625885
+          },
+          {
+            "id": "969c1c82",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 50,
+              "text": "cent quarante-trois",
+              "labels": [
+                "SHARE_QUANTITY"
+              ],
+              "word_start": 5,
+              "word_end": 6
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6302739381790161
+          },
+          {
+            "id": "4d68218d",
+            "type": "labels",
+            "value": {
+              "start": 58,
+              "end": 76,
+              "text": "actions ordinaires",
+              "labels": [
+                "SHARE_TYPE"
+              ],
+              "word_start": 9,
+              "word_end": 10
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5235300660133362
+          },
+          {
+            "id": "410b0cb2",
+            "type": "labels",
+            "value": {
+              "start": 536,
+              "end": 547,
+              "text": "sept francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 89,
+              "word_end": 90
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9234496355056763
+          },
+          {
+            "id": "e25c2b1e",
+            "type": "labels",
+            "value": {
+              "start": 1992,
+              "end": 2005,
+              "text": "10,000 francs",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 321,
+              "word_end": 322
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8323106169700623
+          },
+          {
+            "id": "7ac546b0",
+            "type": "labels",
+            "value": {
+              "start": 873,
+              "end": 887,
+              "text": "capital social",
+              "labels": [
+                "CAPITAL_TYPE"
+              ],
+              "word_start": 137,
+              "word_end": 138
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9650287628173828
+          },
+          {
+            "id": "24acc4c5",
+            "type": "labels",
+            "value": {
+              "start": 370,
+              "end": 375,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 57,
+              "word_end": 57
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9997163414955139
+          },
+          {
+            "id": "0ae82c1f",
+            "type": "labels",
+            "value": {
+              "start": 656,
+              "end": 661,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 108,
+              "word_end": 108
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9996539354324341
+          },
+          {
+            "id": "52066ae3",
+            "type": "labels",
+            "value": {
+              "start": 430,
+              "end": 435,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 67,
+              "word_end": 67
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9996019005775452
+          },
+          {
+            "id": "fa261b3f",
+            "type": "labels",
+            "value": {
+              "start": 2346,
+              "end": 2351,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 377,
+              "word_end": 377
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9993541836738586
+          },
+          {
+            "id": "2aa5d48a",
+            "type": "labels",
+            "value": {
+              "start": 487,
+              "end": 492,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 79,
+              "word_end": 79
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9992327690124512
+          },
+          {
+            "id": "4b4bce30",
+            "type": "labels",
+            "value": {
+              "start": 1398,
+              "end": 1403,
+              "text": "Liège",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 220,
+              "word_end": 220
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9989562034606934
+          },
+          {
+            "id": "0d6df545",
+            "type": "labels",
+            "value": {
+              "start": 1405,
+              "end": 1439,
+              "text": "avenue de l’Observatoire numéro 58",
+              "labels": [
+                "ADDRESS"
+              ],
+              "word_start": 221,
+              "word_end": 225
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9047252535820007
+          },
+          {
+            "id": "6a430fb2",
+            "type": "labels",
+            "value": {
+              "start": 494,
+              "end": 522,
+              "text": "volume 123, folio 41, case 6",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 80,
+              "word_end": 85
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.675146222114563
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Jacob; Martens, Arnold; Schepers, Alfons; Luyten, Martin; Loos, Leonard, en Max. Catharina.\n\nEnregistré à Namur par le receveur des A. C., le 25 juin 1909, volume 125, folio 20, case 2. Contenant un rôle et sans renvoi. Reçu 2 fr. 40 c. (Signé) Chevalier.\n\nHet verslag der commissarissen is opgesteld als volgt\n\nWij ondergetekenden Indekeu, P.-J. en Van Dyck, A., benoemd tot commissarissen der Spaar- en Leengilde van Meeuwen, in vereffening, verklaren alles te hebben nagezien en hebben bevonden dat de vereffenaar zich goed van zijne plicht heeft gekweten, en alles wat de maatschappij betreft heel goed en juist in regel is.\n\n3 Je soussigné, Wartique, Isidore, receveur communal d'Auvelais, possesseur de dix actions de la Société anonyme de Produits chimiques d'Auvelais, donne pouvoir, par la présente, à M. Félix Protin, ingénieur à Auvelais, de me représenter à l'assemblée générale ordinaire et à l'assemblée générale extraordinaire de la Société anonyme de Produits chimiques d'Auvelais, qui se tiendront le 15 juin 1909, à l'Hôtel de Hollande, place de la Station, à Namur, la première à onze heures, la seconde dès l'issue de la première, de même qu'à l'assemblée générale extraordinaire ultérieure qui serait provoquée si la seconde ci-dessus n'était pas en nombre; d'y voter en mon nom sur tous les objets inscrits à l'ordre du jour.\n\nTen bewijze waarvan wij het tegenwoordig verslag hebben opgemaakt\n\nen ontlasting hebben gegeven aan den vereffenaar.\n\nMeeuwen, den 19n Juni 1909.\n\nDe commissarissen:\n\nINDEKEU, P.-J.\n\nArn. Van Dyck.\n\nNa gedane voorlezing, wordt dit verslag aangenomen en wordt er bijgevolg ontlasting gegeven aan den vereffenaar.\n\nAuvelais, le 14 juin 1909.\n\nGedaan de Meeuwen, dag en uur als boven aangeduid.\n\nBon pour pouvoirs, (signé) J. WARTIQUE.\n\nEnregistré à Nîmur, par le receveur des A. C., le 25 juin 1909, volume 123, folio 20, case 3. Contenant un rôle et sans renvoi. Reçu 2 fr. 40 c. (Signé) Chevalier.\n\nDe vereffenaar, A. VAN GRUNDERBEECK.\n\n(Nedergelegd ter griffie der rechtbank van eersten aanleg, dd. handelsrechtbank, te Tongeren den 26 Juni 1909.)\n\nPour copie conforme délivrée sur papier libre pour être publiée au Moniteur des actes de sociétés.\n\n(Sans frais.)\n\nG. STERPIN.\n\n(Déposé au greffe du tribunal de commerce de Namur le 26 juin 1909.)"
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8853733983304766,
+        "result": [
+          {
+            "id": "06fa40f9",
+            "type": "labels",
+            "value": {
+              "start": 1833,
+              "end": 1845,
+              "text": "25 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 290,
+              "word_end": 292
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9938001036643982
+          },
+          {
+            "id": "557144cf",
+            "type": "labels",
+            "value": {
+              "start": 2281,
+              "end": 2293,
+              "text": "26 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 363,
+              "word_end": 365
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9918145537376404
+          },
+          {
+            "id": "8035ca1e",
+            "type": "labels",
+            "value": {
+              "start": 142,
+              "end": 154,
+              "text": "25 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 23,
+              "word_end": 25
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9901612997055054
+          },
+          {
+            "id": "d2dc5a66",
+            "type": "labels",
+            "value": {
+              "start": 2083,
+              "end": 2095,
+              "text": "26 Juni 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 330,
+              "word_end": 332
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9801791310310364
+          },
+          {
+            "id": "2d7f8812",
+            "type": "labels",
+            "value": {
+              "start": 1018,
+              "end": 1030,
+              "text": "15 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 159,
+              "word_end": 161
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.973805844783783
+          },
+          {
+            "id": "6d59b183",
+            "type": "labels",
+            "value": {
+              "start": 1675,
+              "end": 1687,
+              "text": "14 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 262,
+              "word_end": 264
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8937950730323792
+          },
+          {
+            "id": "4239a0a9",
+            "type": "labels",
+            "value": {
+              "start": 727,
+              "end": 775,
+              "text": "Société anonyme de Produits chimiques d'Auvelais",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 117,
+              "word_end": 122
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9415214657783508
+          },
+          {
+            "id": "4fe6067e",
+            "type": "labels",
+            "value": {
+              "start": 948,
+              "end": 996,
+              "text": "Société anonyme de Produits chimiques d'Auvelais",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 149,
+              "word_end": 154
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9412413239479065
+          },
+          {
+            "id": "6ec731f3",
+            "type": "labels",
+            "value": {
+              "start": 431,
+              "end": 442,
+              "text": "vereffening",
+              "labels": [
+                "LEGAL_PROCEDURE"
+              ],
+              "word_start": 71,
+              "word_end": 71
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7764208316802979
+          },
+          {
+            "id": "c834d069",
+            "type": "labels",
+            "value": {
+              "start": 1810,
+              "end": 1828,
+              "text": "receveur des A. C.",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 285,
+              "word_end": 288
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.954289972782135
+          },
+          {
+            "id": "d4a00ad2",
+            "type": "labels",
+            "value": {
+              "start": 119,
+              "end": 137,
+              "text": "receveur des A. C.",
+              "labels": [
+                "REGISTERED_OFFICE"
+              ],
+              "word_start": 18,
+              "word_end": 21
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9534307718276978
+          },
+          {
+            "id": "ad02ca9a",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "Jacob",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 1,
+              "word_end": 1
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.946902334690094
+          },
+          {
+            "id": "f08cf8c1",
+            "type": "labels",
+            "value": {
+              "start": 811,
+              "end": 826,
+              "text": "M. Félix Protin",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 129,
+              "word_end": 131
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9444887638092041
+          },
+          {
+            "id": "ded40a20",
+            "type": "labels",
+            "value": {
+              "start": 2214,
+              "end": 2224,
+              "text": "G. STERPIN",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 351,
+              "word_end": 352
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.931657612323761
+          },
+          {
+            "id": "59c99397",
+            "type": "labels",
+            "value": {
+              "start": 76,
+              "end": 90,
+              "text": "Max. Catharina",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 11,
+              "word_end": 12
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9306240677833557
+          },
+          {
+            "id": "3450c08a",
+            "type": "labels",
+            "value": {
+              "start": 1772,
+              "end": 1780,
+              "text": "WARTIQUE",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 279,
+              "word_end": 279
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8585861921310425
+          },
+          {
+            "id": "5016fa44",
+            "type": "labels",
+            "value": {
+              "start": 1964,
+              "end": 1983,
+              "text": "A. VAN GRUNDERBEECK",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 314,
+              "word_end": 316
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8391891121864319
+          },
+          {
+            "id": "51f1c427",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 48,
+              "text": "Luyten",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 6,
+              "word_end": 6
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8340588808059692
+          },
+          {
+            "id": "78ae38ac",
+            "type": "labels",
+            "value": {
+              "start": 656,
+              "end": 663,
+              "text": "Isidore",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 107,
+              "word_end": 107
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8227951526641846
+          },
+          {
+            "id": "3ca93208",
+            "type": "labels",
+            "value": {
+              "start": 646,
+              "end": 654,
+              "text": "Wartique",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 106,
+              "word_end": 106
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8068051338195801
+          },
+          {
+            "id": "9bc5063e",
+            "type": "labels",
+            "value": {
+              "start": 332,
+              "end": 339,
+              "text": "Indekeu",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 55,
+              "word_end": 55
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7993907332420349
+          },
+          {
+            "id": "32884b6c",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 40,
+              "text": "Schepers, Alfons",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 4,
+              "word_end": 5
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7917032837867737
+          },
+          {
+            "id": "7556a04d",
+            "type": "labels",
+            "value": {
+              "start": 58,
+              "end": 62,
+              "text": "Loos",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 8,
+              "word_end": 8
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7653176784515381
+          },
+          {
+            "id": "9b57f416",
+            "type": "labels",
+            "value": {
+              "start": 1516,
+              "end": 1523,
+              "text": "INDEKEU",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 239,
+              "word_end": 239
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.693070113658905
+          },
+          {
+            "id": "41b446f5",
+            "type": "labels",
+            "value": {
+              "start": 245,
+              "end": 254,
+              "text": "Chevalier",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 44,
+              "word_end": 44
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.925032377243042
+          },
+          {
+            "id": "7226a628",
+            "type": "labels",
+            "value": {
+              "start": 1936,
+              "end": 1945,
+              "text": "Chevalier",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 311,
+              "word_end": 311
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9177933931350708
+          },
+          {
+            "id": "5a785a50",
+            "type": "labels",
+            "value": {
+              "start": 853,
+              "end": 855,
+              "text": "me",
+              "labels": [
+                "HONORIFICS"
+              ],
+              "word_start": 136,
+              "word_end": 136
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9000065326690674
+          },
+          {
+            "id": "94a1673d",
+            "type": "labels",
+            "value": {
+              "start": 828,
+              "end": 837,
+              "text": "ingénieur",
+              "labels": [
+                "PROFESSION"
+              ],
+              "word_start": 132,
+              "word_end": 132
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.947025716304779
+          },
+          {
+            "id": "ff9d83ce",
+            "type": "labels",
+            "value": {
+              "start": 709,
+              "end": 720,
+              "text": "dix actions",
+              "labels": [
+                "SHARE_QUANTITY"
+              ],
+              "word_start": 113,
+              "word_end": 114
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8037768006324768
+          },
+          {
+            "id": "6d0a520e",
+            "type": "labels",
+            "value": {
+              "start": 1078,
+              "end": 1083,
+              "text": "Namur",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 171,
+              "word_end": 171
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.998880922794342
+          },
+          {
+            "id": "79534d78",
+            "type": "labels",
+            "value": {
+              "start": 106,
+              "end": 111,
+              "text": "Namur",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 15,
+              "word_end": 15
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9988415837287903
+          },
+          {
+            "id": "602a4603",
+            "type": "labels",
+            "value": {
+              "start": 2272,
+              "end": 2277,
+              "text": "Namur",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 361,
+              "word_end": 361
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9980973601341248
+          },
+          {
+            "id": "7d4cf7d0",
+            "type": "labels",
+            "value": {
+              "start": 685,
+              "end": 693,
+              "text": "Auvelais",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 110,
+              "word_end": 110
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9933115243911743
+          },
+          {
+            "id": "c3cb3d15",
+            "type": "labels",
+            "value": {
+              "start": 840,
+              "end": 848,
+              "text": "Auvelais",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 134,
+              "word_end": 134
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9907834529876709
+          },
+          {
+            "id": "9225a2db",
+            "type": "labels",
+            "value": {
+              "start": 767,
+              "end": 775,
+              "text": "Auvelais",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 122,
+              "word_end": 122
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9872547388076782
+          },
+          {
+            "id": "12df6e84",
+            "type": "labels",
+            "value": {
+              "start": 1662,
+              "end": 1670,
+              "text": "Auvelais",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 260,
+              "word_end": 260
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9863142967224121
+          },
+          {
+            "id": "e1b0423a",
+            "type": "labels",
+            "value": {
+              "start": 988,
+              "end": 996,
+              "text": "Auvelais",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 154,
+              "word_end": 154
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9855982661247253
+          },
+          {
+            "id": "df357406",
+            "type": "labels",
+            "value": {
+              "start": 1796,
+              "end": 1801,
+              "text": "Nîmur",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 282,
+              "word_end": 282
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9849011301994324
+          },
+          {
+            "id": "820ba4ca",
+            "type": "labels",
+            "value": {
+              "start": 2070,
+              "end": 2078,
+              "text": "Tongeren",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 328,
+              "word_end": 328
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.981365442276001
+          },
+          {
+            "id": "0fa82f0e",
+            "type": "labels",
+            "value": {
+              "start": 1055,
+              "end": 1074,
+              "text": "place de la Station",
+              "labels": [
+                "ADDRESS"
+              ],
+              "word_start": 166,
+              "word_end": 169
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7744622230529785
+          },
+          {
+            "id": "7fd62492",
+            "type": "labels",
+            "value": {
+              "start": 1036,
+              "end": 1053,
+              "text": "Hôtel de Hollande",
+              "labels": [
+                "BUILDING_NAME"
+              ],
+              "word_start": 163,
+              "word_end": 165
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9792669415473938
+          },
+          {
+            "id": "22df2dba",
+            "type": "labels",
+            "value": {
+              "start": 1847,
+              "end": 1857,
+              "text": "volume 123",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 293,
+              "word_end": 294
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.817791223526001
+          },
+          {
+            "id": "5aa9d1ab",
+            "type": "labels",
+            "value": {
+              "start": 156,
+              "end": 166,
+              "text": "volume 125",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 26,
+              "word_end": 27
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5700991749763489
+          },
+          {
+            "id": "e064aeb4",
+            "type": "labels",
+            "value": {
+              "start": 1859,
+              "end": 1867,
+              "text": "folio 20",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 295,
+              "word_end": 296
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5207049250602722
+          },
+          {
+            "id": "add8da2a",
+            "type": "labels",
+            "value": {
+              "start": 168,
+              "end": 176,
+              "text": "folio 20",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 28,
+              "word_end": 29
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.42544546723365784
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Bij akte onder handteekening in date drie en twintigsten Juni negentien honderd negen, dragende de volgende melding van registratie: « Geregistreerd drie bladen ééne verzending, te Oostende, den vier en twintigsten Juni 1909, boek 84, blad 95, vak 3. Ontvangen negen frank veertig centiemen. De ontvanger, (geteekend) Quinot ».\n\nA Morlanwelz, le .. juin 1900 neuf.\n\nIs er gesticht geweest tussen de heeren:\n\nApprouvé l'écriture et bon pour pouvciirs, JULES HENRY."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.7540441921779087,
+        "result": [
+          {
+            "id": "4db299b8",
+            "type": "labels",
+            "value": {
+              "start": 37,
+              "end": 85,
+              "text": "drie en twintigsten Juni negentien honderd negen",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 7,
+              "word_end": 13
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8252928853034973
+          },
+          {
+            "id": "0e9c1a1f",
+            "type": "labels",
+            "value": {
+              "start": 191,
+              "end": 224,
+              "text": "den vier en twintigsten Juni 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 28,
+              "word_end": 33
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6600148677825928
+          },
+          {
+            "id": "ff048b15",
+            "type": "labels",
+            "value": {
+              "start": 343,
+              "end": 363,
+              "text": "le .. juin 1900 neuf",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 52,
+              "word_end": 56
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6268807053565979
+          },
+          {
+            "id": "36276bc4",
+            "type": "labels",
+            "value": {
+              "start": 451,
+              "end": 462,
+              "text": "JULES HENRY",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 70,
+              "word_end": 71
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9234669804573059
+          },
+          {
+            "id": "ae81fc4f",
+            "type": "labels",
+            "value": {
+              "start": 318,
+              "end": 324,
+              "text": "Quinot",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 48,
+              "word_end": 48
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7214168906211853
+          },
+          {
+            "id": "f369ec24",
+            "type": "labels",
+            "value": {
+              "start": 261,
+              "end": 290,
+              "text": "negen frank veertig centiemen",
+              "labels": [
+                "SHARE_VALUE"
+              ],
+              "word_start": 41,
+              "word_end": 44
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8505052328109741
+          },
+          {
+            "id": "0c4dac4c",
+            "type": "labels",
+            "value": {
+              "start": 331,
+              "end": 341,
+              "text": "Morlanwelz",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 51,
+              "word_end": 51
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.670731782913208
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Allen wonende te Gent.\n\nEene bijzondere maatschappij in gezamenlijken naam voor het vervaardigen en verkoopen van gepolijste cementvloeren.\n\n(Déposé au greffe du tribunal de Charleroi le 28 juin 1909.)\n\n(35 lig.)\n\nOnder de firma Gebroeders Heynderycx & Cie (J. A. T.), en hebbende haren zetel te Gent.\n\nVoor den tijd van tien jaren in te gaan met de dagtekening van den akt.\nDe heeren Antoine Van Caillie en Josef Heynderycx, en ieder van hun, zullen alleen het maatschappelijk handteeken hebben."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8766856723361545,
+        "result": [
+          {
+            "id": "16a897de",
+            "type": "labels",
+            "value": {
+              "start": 187,
+              "end": 199,
+              "text": "28 juin 1909",
+              "labels": [
+                "DATE"
+              ],
+              "word_start": 27,
+              "word_end": 29
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9638077616691589
+          },
+          {
+            "id": "44ac6f03",
+            "type": "labels",
+            "value": {
+              "start": 229,
+              "end": 256,
+              "text": "Gebroeders Heynderycx & Cie",
+              "labels": [
+                "ORGANIZATION"
+              ],
+              "word_start": 35,
+              "word_end": 38
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8993926048278809
+          },
+          {
+            "id": "8269b63d",
+            "type": "labels",
+            "value": {
+              "start": 321,
+              "end": 331,
+              "text": "tien jaren",
+              "labels": [
+                "DURATION"
+              ],
+              "word_start": 52,
+              "word_end": 53
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9788627624511719
+          },
+          {
+            "id": "ad2ad28c",
+            "type": "labels",
+            "value": {
+              "start": 408,
+              "end": 424,
+              "text": "Josef Heynderycx",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 69,
+              "word_end": 70
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9895328283309937
+          },
+          {
+            "id": "d69eb739",
+            "type": "labels",
+            "value": {
+              "start": 385,
+              "end": 404,
+              "text": "Antoine Van Caillie",
+              "labels": [
+                "PERSON"
+              ],
+              "word_start": 65,
+              "word_end": 67
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9745611548423767
+          },
+          {
+            "id": "ed773b0a",
+            "type": "labels",
+            "value": {
+              "start": 296,
+              "end": 300,
+              "text": "Gent",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 47,
+              "word_end": 47
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9991686344146729
+          },
+          {
+            "id": "838e0012",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 21,
+              "text": "Gent",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 4,
+              "word_end": 4
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9991017580032349
+          },
+          {
+            "id": "051f39e3",
+            "type": "labels",
+            "value": {
+              "start": 174,
+              "end": 183,
+              "text": "Charleroi",
+              "labels": [
+                "CITY"
+              ],
+              "word_start": 25,
+              "word_end": 25
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6473662257194519
+          },
+          {
+            "id": "6161a51a",
+            "type": "labels",
+            "value": {
+              "start": 204,
+              "end": 211,
+              "text": "35 lig.",
+              "labels": [
+                "ARCHIVAL_REFERENCE"
+              ],
+              "word_start": 30,
+              "word_end": 31
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.438377320766449
+          }
+        ]
+      }
+    ]
+  }
+]
