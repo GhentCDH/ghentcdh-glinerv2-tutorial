@@ -44,7 +44,7 @@
       "description": "Registry, archive, or filing reference (e.g., 'volume 12, folio 45', 'registre du commerce n° 1234', 'dossier 567')",
       "threshold": 0.5
     },
-    "person_name": {
+    "person": {
       "description": "Full name of a person including first and last names (e.g., 'Jean Dupont', 'Marie Curie', 'Pierre-Auguste Martin')",
       "threshold": 0.5
     },
