@@ -4,94 +4,171 @@
   "description": "Entity and relation extraction schema for historical French company documents",
   "model_version": "fastino/gliner2-multi-v1",
   "entities": {
-    "DATE": {
-      "description": "Date expression, can be written in various incomplete formats (e.g., '15 mars 1920', 'le trois avril mil neuf cent dix')",
-      "threshold": 0.6
-    },
-    "DEED": {
-      "description": "Type of legal deed or document (e.g., acte de constitution, acte de dissolution, acte de modification)",
+    "date": {
+      "description": "Date expression in various formats (e.g., '15 mars 1920', 'le trois avril mil neuf cent dix', '1920')",
       "threshold": 0.5
     },
-    "ORGANIZATION": {
-      "description": "Full or abbreviated name of an organization (e.g., Société Générale)",
+    "time_period": {
+      "description": "Duration or term expressed in time units (e.g., '99 ans', 'perpétuité', 'trois mois')",
       "threshold": 0.5
     },
-    "GOVERNING_BODY": {
-      "description": "Administrative or decision-making body of an organization (e.g., conseil d'administration, assemblée générale, comité de direction)",
+    "organization_name": {
+      "description": "Full or abbreviated name of a company, society, or institution (e.g., 'Société Générale', 'S.A. Métallurgique')",
       "threshold": 0.5
     },
-    "LEGAL_STRUCTURE": {
-      "description": "Legal structure of an organization (e.g., société anonyme, société coopérative, société en nom collectif)",
+    "corporate_body": {
+      "description": "Administrative or decision-making body within an organization (e.g., 'conseil d'administration', 'assemblée générale', 'comité de direction')",
       "threshold": 0.5
     },
-    "MISSION_STATEMENT": {
-      "description": "Business purpose, activity or mission of an organization (e.g., mining, textile trade, banking and credit)",
+    "legal_structure": {
+      "description": "Legal structure or type of an organization (e.g., société anonyme, société coopérative, société en nom collectif)",
       "threshold": 0.5
     },
-    "DURATION": {
-      "description": "Duration or term (e.g., '99 ans', 'perpétuité')",
+    "business_activity": {
+      "description": "Business purpose, mission, or commercial activity (e.g., 'exploitation minière', 'commerce de textiles', 'opérations bancaires et de crédit')",
       "threshold": 0.5
     },
-    "LEGAL_PROCEDURE": {
-      "description": "Legal procedure or action (e.g., 'constitution', 'dissolution', 'liquidation', 'représentation', 'registration au registre du commerce')",
+    "office_type": {
+      "description": "Type of organizational location or headquarters (e.g., 'siège social', 'siège administratif', 'bureau principal')",
       "threshold": 0.5
     },
-    "REGISTERED_OFFICE": {
-      "description": "Type of registered location for an organization (e.g., corporate office, siège social, siège administratif)",
+    "legal_act": {
+      "description": "Type of legal procedure, action, or deed (e.g., 'acte', 'constitution', 'dissolution', 'liquidation', 'modification des statuts', 'enregistrement au registre du commerce')",
       "threshold": 0.5
     },
-    "PERSON": {
-      "description": "Person first and last names (e.g., Jean Dupont, Marie Curie)",
-      "threshold": 0.6
-    },
-    "HONORIFICS": {
-      "description": "Expressions used to address or refer to a person according to social role, status, or level of formality (e.g., m., me, vve, veuve).",
-      "threshold": 0.6
-    },
-    "PROFESSION": {
-      "description": "Profession independent of organizational mandate (e.g., négociant, rentier, ingénieur)",
+    "deed_number": {
+      "description": "Reference number or identifier for a legal deed (e.g., 'n° 5442', 'n° 2612 de 1920', 'acte 1234')",
       "threshold": 0.5
     },
-    "CORPORATE_TITLE": {
-      "description": "titles given to individuals within a business or organization depending on the role they have and which also portray the duties and responsibilities within that specific role (e.g., président, administrateur, directeur, scrutateur)",
-      "threshold": 0.7
-    },
-    "SHARE_QUANTITY": {
-      "description": "Number of shares or parts (e.g., '2 000 actions', '500 parts sociales')",
+    "archive_reference": {
+      "description": "Registry, archive, or filing reference (e.g., 'volume 12, folio 45', 'registre du commerce n° 1234', 'dossier 567')",
       "threshold": 0.5
     },
-    "SHARE_TYPE": {
-      "description": "Type or form of shares (e.g., au porteur, nominatives)",
+    "person_name": {
+      "description": "Full name of a person including first and last names (e.g., 'Jean Dupont', 'Marie Curie', 'Pierre-Auguste Martin')",
       "threshold": 0.5
     },
-    "SHARE_VALUE": {
-      "description": "Value per share or part",
+    "honorific_title": {
+      "description": "Social title, honorific, or form of address (e.g., 'monsieur', 'm.', 'madame', 'me', 'veuve', 'vve')",
       "threshold": 0.5
     },
-    "CAPITAL_TYPE": {
-      "description": "Type of share capital (e.g., capital social, capital libéré, capital souscrit)",
+    "occupation": {
+      "description": "Personal profession or trade independent of corporate role (e.g., 'négociant', 'rentier', 'ingénieur', 'avocat')",
       "threshold": 0.5
     },
-    "COUNTRY": {
-      "description": "Country name",
+    "corporate_position": {
+      "description": "Official title or role within an organization (e.g., 'président', 'administrateur', 'directeur', 'scrutateur', 'commissaire')",
       "threshold": 0.5
     },
-    "CITY": {
-      "description": "City or commune name",
+    "number_of_shares": {
+      "description": "Number of shares or parts (e.g., '2 000 actions', '500 parts sociales', 'mille actions')",
       "threshold": 0.5
     },
-    "ADDRESS": {
-      "description": "street address including street number and name (e.g., numéro 10 rue de la Paix)",
+    "share_class": {
+      "description": "Type, form, or class of shares (e.g., 'actions au porteur', 'actions nominatives', 'parts privilégiées')",
       "threshold": 0.5
     },
-    "BUILDING_NAME": {
-      "description": "Name of building, property, or landmark",
+    "share_nominal_value": {
+      "description": "Par value or nominal value per share (e.g., '500 francs', 'cent francs par action')",
       "threshold": 0.5
     },
-    "ARCHIVAL_REFERENCE": {
-      "description": "Registry or archive reference (e.g., volume, folio, case, number)",
-      "threshold": 0.3,
-      "examples": ["volume 12, folio 45", "registre du commerce n° 1234", "dossier 567"]
+    "capital_category": {
+      "description": "Classification of share capital (e.g., 'capital social', 'capital libéré', 'capital souscrit', 'capital autorisé')",
+      "threshold": 0.5
+    },
+    "country": {
+      "description": "Name of a country or nation (e.g., 'Belgique', 'France', 'Congo')",
+      "threshold": 0.5
+    },
+    "city": {
+      "description": "Name of a city, town, or commune (e.g., 'Bruxelles', 'Paris', 'Anvers')",
+      "threshold": 0.5
+    },
+    "street_address": {
+      "description": "Complete street address with number and street name (e.g., 'numéro 10 rue de la Paix', '25 avenue Louise')",
+      "threshold": 0.5
+    },
+    "building_name": {
+      "description": "Name of a building, property, estate, or landmark (e.g., 'Hôtel Métropole', 'Palais de Justice', 'Château de Laeken')",
+      "threshold": 0.5
+    }
+  },
+  "relations": {
+    "has_profession": {
+      "description": "Links a person to their profession or occupation",
+      "threshold": 0.1
+    },
+    "holds_corporate_position": {
+      "description": "Indicates that a person holds a corporate title or position within an organization",
+      "threshold": 0.1
+    },
+    "has_honorific_title": {
+      "description": "Links a person to their honorific or social title",
+      "threshold": 0.1
+    },
+    "resides_at_address": {
+      "description": "Indicates a person's specific residence address",
+      "threshold": 0.1
+    },
+    "resides_in_location": {
+      "description": "Indicates the city, region, or country where a person lives",
+      "threshold": 0.1
+    },
+    "owns_shares": {
+      "description": "Links a person to shares they own",
+      "threshold": 0.1
+    },
+    "represents": {
+      "description": "Indicates a person or an organization represents themselves as proxy for another person or organization",
+      "threshold": 0.1
+    },
+    "headquartered_at": {
+      "description": "Links an organization to its registered office address or headquarters location",
+      "threshold": 0.1
+    },
+    "has_legal_structure": {
+      "description": "Specifies an organization's legal structure or corporate form",
+      "threshold": 0.1
+    },
+    "has_business_purpose": {
+      "description": "Links an organization to its mission statement or business activity",
+      "threshold": 0.1
+    },
+    "has_duration": {
+      "description": "Specifies the duration or term of an organization, mandate, or agreement",
+      "threshold": 0.1
+    },
+    "has_capital": {
+      "description": "Links an organization to its share capital or capital structure",
+      "threshold": 0.1
+    },
+    "subject_to_procedure": {
+      "description": "Links an organization or deed to a legal procedure being performed",
+      "threshold": 0.1
+    },
+    "operates_in_location": {
+      "description": "Indicates the geographic location where an organization or office operates",
+      "threshold": 0.1
+    },
+    "dated": {
+      "description": "Links a meeting, deed, or event to its date",
+      "threshold": 0.1
+    },
+    "has_deposition_date": {
+      "description": "Links a deed to the date it was officially deposited at a registry or archive",
+      "threshold": 0.1
+    },
+    "has_registration_date": {
+      "description": "Links a deed to the date it was officially registered",
+      "threshold": 0.1
+    },
+    "has_publication_date": {
+      "description": "Links a deed to the date it was officially published in a gazette or registry",
+      "threshold": 0.1
+    },
+    "has_reference_number": {
+      "description": "Links a deed to its reference number or classification",
+      "threshold": 0.1
     }
   }
 }
