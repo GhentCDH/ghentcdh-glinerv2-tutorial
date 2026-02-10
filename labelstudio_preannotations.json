@@ -6,247 +6,295 @@
     "predictions": [
       {
         "model_version": "gliner2-multi-v1",
-        "score": 0.8638870358467102,
+        "score": 0.8915628492832184,
         "result": [
           {
-            "id": "94818e97",
+            "id": "4df4fc95",
             "type": "labels",
             "value": {
               "start": 1,
               "end": 5,
               "text": "1367",
               "labels": [
-                "DATE"
+                "date"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.8762015104293823
+            "score": 0.9884060621261597
           },
           {
-            "id": "1a321b96",
+            "id": "d878df6c",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 14,
+              "text": "L'Eurite",
+              "labels": [
+                "organization_name"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7802845239639282
+          },
+          {
+            "id": "3627a05e",
             "type": "labels",
             "value": {
               "start": 16,
               "end": 31,
               "text": "societe anonyme",
               "labels": [
-                "ORGANIZATION"
+                "organization_name"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.5870721340179443
+            "score": 0.6212355494499207
           },
           {
-            "id": "dcd50818",
+            "id": "18463dff",
             "type": "labels",
             "value": {
               "start": 16,
               "end": 31,
               "text": "societe anonyme",
               "labels": [
-                "LEGAL_STRUCTURE"
+                "legal_structure"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.6005704998970032
+            "score": 0.7489597201347351
           },
           {
-            "id": "4c413347",
+            "id": "23e1bfc9",
+            "type": "labels",
+            "value": {
+              "start": 241,
+              "end": 249,
+              "text": "ensemble",
+              "labels": [
+                "office_type"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5459290146827698
+          },
+          {
+            "id": "46b7d9a3",
             "type": "labels",
             "value": {
               "start": 46,
               "end": 62,
               "text": "Acte constitutif",
               "labels": [
-                "LEGAL_PROCEDURE"
+                "legal_act"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9537531733512878
+            "score": 0.9756327271461487
           },
           {
-            "id": "c46a6a7a",
+            "id": "55d681ca",
             "type": "labels",
             "value": {
               "start": 78,
               "end": 96,
               "text": "Hilaire Groensteen",
               "labels": [
-                "PERSON"
+                "person"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9383396506309509
+            "score": 0.9860155582427979
           },
           {
-            "id": "917c708c",
+            "id": "155e450e",
             "type": "labels",
             "value": {
-              "start": 215,
+              "start": 210,
               "end": 229,
-              "text": "Celine Baudoux",
+              "text": "dame Celine Baudoux",
               "labels": [
-                "PERSON"
+                "person"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9239786267280579
+            "score": 0.8773437142372131
           },
           {
-            "id": "8a856199",
+            "id": "fad46b83",
             "type": "labels",
             "value": {
               "start": 134,
               "end": 148,
               "text": "Jean Parentani",
               "labels": [
-                "PERSON"
+                "person"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.8462709188461304
+            "score": 0.8549695611000061
           },
           {
-            "id": "13ba7fbe",
+            "id": "0fde2218",
             "type": "labels",
             "value": {
               "start": 75,
               "end": 77,
               "text": "Me",
               "labels": [
-                "HONORIFICS"
+                "honorific_title"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.826697826385498
+            "score": 0.984862744808197
           },
           {
-            "id": "9ee72f59",
+            "id": "6ac17a91",
+            "type": "labels",
+            "value": {
+              "start": 210,
+              "end": 214,
+              "text": "dame",
+              "labels": [
+                "honorific_title"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9776861667633057
+          },
+          {
+            "id": "4eabdb06",
             "type": "labels",
             "value": {
               "start": 131,
               "end": 133,
               "text": "M.",
               "labels": [
-                "HONORIFICS"
+                "honorific_title"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.6201156377792358
+            "score": 0.8672842383384705
           },
           {
-            "id": "e2d9df44",
+            "id": "29d10950",
             "type": "labels",
             "value": {
               "start": 98,
               "end": 105,
               "text": "notaire",
               "labels": [
-                "PROFESSION"
+                "occupation"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.925948977470398
+            "score": 0.9665693640708923
           },
           {
-            "id": "bac79f53",
+            "id": "f73214f1",
             "type": "labels",
             "value": {
               "start": 150,
               "end": 167,
               "text": "directeur d'usine",
               "labels": [
-                "CORPORATE_TITLE"
+                "corporate_position"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.922136127948761
+            "score": 0.9011643528938293
           },
           {
-            "id": "3ad77599",
+            "id": "30d76735",
             "type": "labels",
             "value": {
               "start": 35,
               "end": 44,
               "text": "Bruxelles",
               "labels": [
-                "CITY"
+                "city"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9995367527008057
+            "score": 0.999785840511322
           },
           {
-            "id": "88f2a02d",
+            "id": "b5c16cc8",
             "type": "labels",
             "value": {
               "start": 252,
               "end": 261,
               "text": "Bruxelles",
               "labels": [
-                "CITY"
+                "city"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9992061257362366
+            "score": 0.9993603825569153
           },
           {
-            "id": "d37b5290",
+            "id": "305d3ac0",
             "type": "labels",
             "value": {
               "start": 108,
               "end": 114,
               "text": "Laeken",
               "labels": [
-                "CITY"
+                "city"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9970818161964417
+            "score": 0.9990361928939819
           },
           {
-            "id": "4027cf94",
+            "id": "713d8c5e",
             "type": "labels",
             "value": {
               "start": 263,
               "end": 287,
               "text": "avenue des Courses, n 37",
               "labels": [
-                "ADDRESS"
+                "street_address"
               ]
             },
             "from_name": "label",
             "to_name": "text",
             "origin": "prediction",
-            "score": 0.9413957595825195
+            "score": 0.9736055731773376
           }
         ]
       }

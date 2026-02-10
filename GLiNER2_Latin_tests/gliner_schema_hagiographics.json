@@ -1,0 +1,32 @@
+{
+  "schema_name": "Hagiographic Entity Schema",
+  "schema_version": "1.0",
+  "description": "Entity extraction schema for historical and hagiographic texts, distinguishing persons, groups, institutions, places, objects, and divine entities.",
+  "model_version": "fastino/gliner2-multi-v1",
+  "entities": {
+    "person": {
+      "description": "Individual human actors mentioned in the narrative, including saints. May include attributes such as role, social background, or gender.This can also include pronouns such as 'is' or 'ille' and conjugations of these",
+      "threshold": 0.5
+    },
+    "group": {
+      "description": "Collective human or divine actors explicitly referred to as groups (e.g., monastic community, royal court, 'the people', angels). Groups may optionally list known members.",
+      "threshold": 0.5
+    },
+    "institution": {
+      "description": "Social or organizational entities such as monasteries, churches, royal palaces, or other structured communities. Treated as collective actors rather than physical locations.",
+      "threshold": 0.5
+    },
+    "place": {
+      "description": "Geographical or physical locations used to situate actions (e.g., cities, villages, rivers, regions, landscapes). Distinct from institutions, which represent social actors.",
+      "threshold": 0.5
+    },
+    "object": {
+      "description": "Material or inanimate items relevant to the narrative or relational network (e.g., relics, books, veils, ointments).",
+      "threshold": 0.5
+    },
+    "divine_entity": {
+      "description": "Unambiguously divine beings such as God, angels, or Mary when functioning as divine agents within the narrative.",
+      "threshold": 0.5
+    }
+  }
+}
