@@ -1,0 +1,39 @@
+{
+  "schema_name": "Hagiographic Entity Schema",
+  "schema_version": "1.0",
+  "description": "Entity extraction schema for historical and hagiographic texts, distinguishing persons, groups, institutions, places, objects, and divine entities.",
+  "model_version": "fastino/gliner2-multi-v1",
+  "entities": {
+    "persona": {
+      "description": "Individui homines actores in narratione commemorati, inter sanctos etiam. Possunt continere proprietates, ut officium, socialem originem, vel sexum. Pronomen quoque ad homines referentia in hunc numerum cadunt.",
+      "threshold": 0.4
+    },
+    "coetus": {
+      "description": "Coetus hominum vel divinorum, qui clare ut turmae vel communitates designantur, ut monasteria, aulae regiae, “populus”, angeli. Si verbum ad personam pluraliter declinatum est, etiam id ut coetus computatur. Etiam vagus sermo de coetu hic pertinet.",
+      "threshold": 0.4
+    },
+    "institutio": {
+      "description": "Communitates structae, ut monasteria, ecclesiae, palatia, aliaeque societates socialiter ordinatae, tractandae ut actores collectivi, non ut loci physici.",
+      "threshold": 0.4
+    },
+    "locus": {
+      "description": "Loci physici vel geographici, in quibus actus narrativi collocantur: urbes, vici, flumina, regiones, loca naturae. Distincti a rebus socialibus.",
+      "threshold": 0.4
+    },
+    "res": {
+      "description": "Res inanimatae vel materiales narrationi pertinentes: reliquiae, libri, velamina, unguenta; res quae moveri vel ab homine adhiberi possunt, sed viventem naturam non habent.",
+      "threshold": 0.4
+    },
+    "entitas divina": {
+      "description": "personae divini, clare divinitatem participant, ut Deus, Iesus, angeli, vel Maria cum divinae agentiae munere in narratione fungitur.",
+      "threshold": 0.4
+    },
+    "titulus textus": {
+      "description": "Tituli librorum, manuscriptorum, vel documentorum, quae in narratione memorantur; exempla: “Biblia”, “Vita Sancti Martini”, “Liber Miraculorum”.",
+      "threshold": 0.4
+    }
+  }
+}
+
+
+

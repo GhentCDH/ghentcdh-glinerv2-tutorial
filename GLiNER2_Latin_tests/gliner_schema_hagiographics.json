@@ -5,11 +5,11 @@
   "model_version": "fastino/gliner2-multi-v1",
   "entities": {
     "person": {
-      "description": "Individual human actors mentioned in the narrative, including saints. May include attributes such as role, social background, or gender.This can also include pronouns such as 'is' or 'ille' and conjugations of these",
+      "description": "Individual human actors mentioned in the narrative, including saints. May include attributes such as role, social background, or gender. This can also include pronouns as they refer to people",
       "threshold": 0.5
     },
     "group": {
-      "description": "Collective human or divine actors explicitly referred to as groups (e.g., monastic community, royal court, 'the people', angels). Groups may optionally list known members.",
+      "description": "Collective human or divine actors referred to as groups (e.g., monastic community, royal court, 'the people', angels). Groups may optionally list known members. It also counts as a group if a word referring to a person or occupation is declined as plural (e.g. virignes, populi, viri, pueri). General references to a group, in vague terms do also count (e.g. 'them all', 'they', 'the inhabitors').",
       "threshold": 0.5
     },
     "institution": {
@@ -17,16 +17,22 @@
       "threshold": 0.5
     },
     "place": {
-      "description": "Geographical or physical locations used to situate actions (e.g., cities, villages, rivers, regions, landscapes). Distinct from institutions, which represent social actors.",
+      "description": "Geographical or physical locations used to situate actions (e.g., cities, villages, rivers, regions, landscapes). Distinct from institutions, which represent social actors. General references to a place are also included.",
       "threshold": 0.5
     },
     "object": {
-      "description": "Material or inanimate items relevant to the narrative or relational network (e.g., relics, books, veils, ointments).",
+      "description": "Material or inanimate items relevant to the narrative or relational network (e.g., relics, books, veils, ointments). A thing that has physical existence and can be moved or used by an person, but is not alive",
       "threshold": 0.5
     },
     "divine_entity": {
-      "description": "Unambiguously divine beings such as God, angels, or Mary when functioning as divine agents within the narrative.",
+      "description": "Unambiguously divine beings such as God, Jesus, angels, or Mary. Also alternative references to divine entities, such as 'the Lord', 'the Savior', or 'the Mother of God' are included. However, saints are not included in this category, they are included in the 'person' category.",
+      "threshold": 0.5
+    },
+    "text_title": {
+      "description": "Titles of texts, manuscripts, or documents mentioned in the narrative (e.g., 'The Bible', 'The Life of Saint Martin', 'The Book of Miracles').",
       "threshold": 0.5
     }
   }
 }
+
+
