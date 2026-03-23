@@ -1,0 +1,4898 @@
+[
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "assemblée",
+            "confidence": 0.8637061715126038,
+            "start": 35,
+            "end": 44
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "résolution",
+            "confidence": 0.9920033812522888,
+            "start": 6,
+            "end": 16
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9976251721382141,
+            "start": 203,
+            "end": 221
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "liquidation",
+            "confidence": 0.9956821203231812,
+            "start": 135,
+            "end": 146
+          },
+          {
+            "text": "dissolution",
+            "confidence": 0.9922798871994019,
+            "start": 20,
+            "end": 31
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "liquidateurs",
+            "confidence": 0.7774162888526917,
+            "start": 177,
+            "end": 189
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "mil neuf cent quatorze",
+            "confidence": 0.998873770236969,
+            "start": 103,
+            "end": 125
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999998927116394,
+            "start": 4581,
+            "end": 4605
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999998927116394,
+            "start": 4842,
+            "end": 4866
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999986886978149,
+            "start": 2089,
+            "end": 2113
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999986886978149,
+            "start": 2990,
+            "end": 3014
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999986886978149,
+            "start": 3107,
+            "end": 3131
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999986886978149,
+            "start": 3923,
+            "end": 3947
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999985694885254,
+            "start": 632,
+            "end": 656
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999985694885254,
+            "start": 1947,
+            "end": 1971
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999985694885254,
+            "start": 5107,
+            "end": 5131
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999985694885254,
+            "start": 6659,
+            "end": 6683
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999983310699463,
+            "start": 1744,
+            "end": 1768
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999996542930603,
+            "start": 7108,
+            "end": 7132
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999692440032959,
+            "start": 4378,
+            "end": 4396
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999648332595825,
+            "start": 562,
+            "end": 580
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.999963641166687,
+            "start": 1511,
+            "end": 1529
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999576807022095,
+            "start": 72,
+            "end": 90
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999567270278931,
+            "start": 4781,
+            "end": 4799
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999402761459351,
+            "start": 1005,
+            "end": 1023
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9997594952583313,
+            "start": 7141,
+            "end": 7159
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "procès-verbaux",
+            "confidence": 0.935987651348114,
+            "start": 4484,
+            "end": 4498
+          },
+          {
+            "text": "procès-verbaux",
+            "confidence": 0.9242886304855347,
+            "start": 3972,
+            "end": 3986
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "directeur",
+            "confidence": 0.888532817363739,
+            "start": 7185,
+            "end": 7194
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8676728010177612,
+            "start": 666,
+            "end": 680
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8454503417015076,
+            "start": 3221,
+            "end": 3235
+          },
+          {
+            "text": "président",
+            "confidence": 0.843641459941864,
+            "start": 1777,
+            "end": 1786
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8308261036872864,
+            "start": 1599,
+            "end": 1613
+          },
+          {
+            "text": "président",
+            "confidence": 0.8110631704330444,
+            "start": 2202,
+            "end": 2211
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8073766827583313,
+            "start": 4552,
+            "end": 4566
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.7979438304901123,
+            "start": 13,
+            "end": 28
+          },
+          {
+            "text": "président",
+            "confidence": 0.7899479866027832,
+            "start": 1826,
+            "end": 1835
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7867144346237183,
+            "start": 3385,
+            "end": 3399
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7766529321670532,
+            "start": 2220,
+            "end": 2234
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.7244257926940918,
+            "start": 957,
+            "end": 972
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6829332709312439,
+            "start": 6333,
+            "end": 6348
+          },
+          {
+            "text": "président",
+            "confidence": 0.6780774593353271,
+            "start": 3853,
+            "end": 3862
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6483449339866638,
+            "start": 2495,
+            "end": 2510
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.647131085395813,
+            "start": 3685,
+            "end": 3700
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.5617129802703857,
+            "start": 463,
+            "end": 478
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [
+          {
+            "text": "actions privilégiées",
+            "confidence": 0.9659103751182556,
+            "start": 3548,
+            "end": 3568
+          },
+          {
+            "text": "parts de fondateur",
+            "confidence": 0.9452891945838928,
+            "start": 3621,
+            "end": 3639
+          },
+          {
+            "text": "actions privilégiées",
+            "confidence": 0.9402917623519897,
+            "start": 5151,
+            "end": 5171
+          },
+          {
+            "text": "actions privilégiées",
+            "confidence": 0.9307125210762024,
+            "start": 5206,
+            "end": 5226
+          },
+          {
+            "text": "parts de fondateur",
+            "confidence": 0.8868952393531799,
+            "start": 743,
+            "end": 761
+          },
+          {
+            "text": "actions privilégiées",
+            "confidence": 0.8857698440551758,
+            "start": 699,
+            "end": 719
+          },
+          {
+            "text": "actions ordinaires",
+            "confidence": 0.6582552194595337,
+            "start": 3595,
+            "end": 3613
+          }
+        ],
+        "share_nominal_value": [],
+        "capital_category": [
+          {
+            "text": "capital social",
+            "confidence": 0.9319883584976196,
+            "start": 4291,
+            "end": 4305
+          }
+        ],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "24 juin 1909",
+            "confidence": 0.9999997615814209,
+            "start": 58,
+            "end": 70
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.9472681283950806,
+            "start": 21,
+            "end": 54
+          }
+        ],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "Déposé",
+            "confidence": 0.8820589184761047,
+            "start": 1,
+            "end": 7
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.999821126461029,
+            "start": 45,
+            "end": 54
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [
+          {
+            "text": "trois ans",
+            "confidence": 0.990374743938446,
+            "start": 179,
+            "end": 188
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999394416809082,
+            "start": 500,
+            "end": 524
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999223947525024,
+            "start": 1919,
+            "end": 1937
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9998694658279419,
+            "start": 663,
+            "end": 687
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9998677968978882,
+            "start": 746,
+            "end": 764
+          },
+          {
+            "text": "conseil",
+            "confidence": 0.5954835414886475,
+            "start": 43,
+            "end": 50
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société",
+            "confidence": 0.9026941061019897,
+            "start": 2438,
+            "end": 2445
+          },
+          {
+            "text": "society",
+            "confidence": 0.8405779600143433,
+            "start": 1465,
+            "end": 1472
+          },
+          {
+            "text": "société",
+            "confidence": 0.8334567546844482,
+            "start": 1773,
+            "end": 1780
+          },
+          {
+            "text": "société",
+            "confidence": 0.683172345161438,
+            "start": 12,
+            "end": 19
+          },
+          {
+            "text": "société",
+            "confidence": 0.6804140210151672,
+            "start": 2643,
+            "end": 2650
+          },
+          {
+            "text": "société",
+            "confidence": 0.5724332332611084,
+            "start": 639,
+            "end": 646
+          }
+        ],
+        "business_activity": [
+          {
+            "text": "exploitation agricole",
+            "confidence": 0.981185257434845,
+            "start": 1617,
+            "end": 1638
+          }
+        ],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "dissolution",
+            "confidence": 0.9138453602790833,
+            "start": 783,
+            "end": 794
+          },
+          {
+            "text": "action résolutoire",
+            "confidence": 0.7032943367958069,
+            "start": 2895,
+            "end": 2913
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [
+          {
+            "text": "capital social",
+            "confidence": 0.9881957769393921,
+            "start": 1058,
+            "end": 1072
+          },
+          {
+            "text": "fonds social",
+            "confidence": 0.9800793528556824,
+            "start": 224,
+            "end": 236
+          },
+          {
+            "text": "capital social",
+            "confidence": 0.9794458746910095,
+            "start": 1893,
+            "end": 1907
+          },
+          {
+            "text": "fonds social",
+            "confidence": 0.9433292150497437,
+            "start": 453,
+            "end": 465
+          }
+        ],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "vingt-quatre février mil neuf cent huit",
+            "confidence": 0.9999997615814209,
+            "start": 256,
+            "end": 295
+          },
+          {
+            "text": "quinze mars mil neuf cent huit",
+            "confidence": 0.9999997615814209,
+            "start": 320,
+            "end": 350
+          },
+          {
+            "text": "vingt-cinq juin mil neuf cent et un",
+            "confidence": 0.9999988079071045,
+            "start": 97,
+            "end": 132
+          },
+          {
+            "text": "vingt-un février mil neuf cent et trois",
+            "confidence": 0.9999951124191284,
+            "start": 134,
+            "end": 173
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "acte",
+            "confidence": 0.988149106502533,
+            "start": 182,
+            "end": 186
+          },
+          {
+            "text": "procès-verbaux",
+            "confidence": 0.9712861180305481,
+            "start": 13,
+            "end": 27
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Arthur Dejardin",
+            "confidence": 0.9992486834526062,
+            "start": 194,
+            "end": 209
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "Mme",
+            "confidence": 0.997605562210083,
+            "start": 190,
+            "end": 193
+          },
+          {
+            "text": ".",
+            "confidence": 0.5131841897964478,
+            "start": 402,
+            "end": 403
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9991851449012756,
+            "start": 211,
+            "end": 218
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "président",
+            "confidence": 0.9990179538726807,
+            "start": 47,
+            "end": 56
+          },
+          {
+            "text": "secrétaire",
+            "confidence": 0.9985986351966858,
+            "start": 61,
+            "end": 71
+          },
+          {
+            "text": "scrutateurs",
+            "confidence": 0.9947841763496399,
+            "start": 79,
+            "end": 90
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [
+          {
+            "text": "cinq ans",
+            "confidence": 0.9560157656669617,
+            "start": 200,
+            "end": 208
+          },
+          {
+            "text": "cinq ans",
+            "confidence": 0.9520233273506165,
+            "start": 397,
+            "end": 405
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9998496770858765,
+            "start": 115,
+            "end": 139
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9998278617858887,
+            "start": 888,
+            "end": 912
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9997891783714294,
+            "start": 1549,
+            "end": 1573
+          },
+          {
+            "text": "general assembly",
+            "confidence": 0.9967695474624634,
+            "start": 1389,
+            "end": 1405
+          },
+          {
+            "text": "assemblée générale spéciale",
+            "confidence": 0.9833675622940063,
+            "start": 986,
+            "end": 1013
+          },
+          {
+            "text": "collège des commissaires",
+            "confidence": 0.9732373356819153,
+            "start": 146,
+            "end": 170
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "constitution",
+            "confidence": 0.9242863059043884,
+            "start": 1076,
+            "end": 1088
+          },
+          {
+            "text": "nommé",
+            "confidence": 0.7570638656616211,
+            "start": 548,
+            "end": 553
+          },
+          {
+            "text": "nommé",
+            "confidence": 0.6891000866889954,
+            "start": 465,
+            "end": 470
+          },
+          {
+            "text": "versement",
+            "confidence": 0.6543575525283813,
+            "start": 680,
+            "end": 689
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Paul Nygh",
+            "confidence": 0.9987831711769104,
+            "start": 524,
+            "end": 533
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9957505464553833,
+            "start": 521,
+            "end": 523
+          },
+          {
+            "text": ".",
+            "confidence": 0.9227726459503174,
+            "start": 1719,
+            "end": 1720
+          },
+          {
+            "text": ".",
+            "confidence": 0.7408032417297363,
+            "start": 1650,
+            "end": 1651
+          },
+          {
+            "text": ".",
+            "confidence": 0.6720860600471497,
+            "start": 1111,
+            "end": 1112
+          },
+          {
+            "text": ".",
+            "confidence": 0.6454166769981384,
+            "start": 405,
+            "end": 406
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9965000152587891,
+            "start": 634,
+            "end": 641
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "commissaire",
+            "confidence": 0.9942101240158081,
+            "start": 493,
+            "end": 504
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.9940624833106995,
+            "start": 227,
+            "end": 242
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.9931737780570984,
+            "start": 951,
+            "end": 966
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.9917672276496887,
+            "start": 158,
+            "end": 170
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.9914964437484741,
+            "start": 250,
+            "end": 262
+          },
+          {
+            "text": "souscripteurs",
+            "confidence": 0.956601619720459,
+            "start": 604,
+            "end": 617
+          },
+          {
+            "text": "actionnaire",
+            "confidence": 0.9392071962356567,
+            "start": 1677,
+            "end": 1688
+          },
+          {
+            "text": "témoins",
+            "confidence": 0.9339240789413452,
+            "start": 649,
+            "end": 656
+          },
+          {
+            "text": "auditors",
+            "confidence": 0.8417255282402039,
+            "start": 1289,
+            "end": 1297
+          },
+          {
+            "text": "administrators",
+            "confidence": 0.8129593729972839,
+            "start": 1266,
+            "end": 1280
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Rotterdam",
+            "confidence": 0.9998257756233215,
+            "start": 537,
+            "end": 546
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [
+          {
+            "text": "cinq ans",
+            "confidence": 0.9426965713500977,
+            "start": 3448,
+            "end": 3456
+          },
+          {
+            "text": "huit jours",
+            "confidence": 0.5252985954284668,
+            "start": 1324,
+            "end": 1334
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996527433395386,
+            "start": 296,
+            "end": 320
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995939135551453,
+            "start": 1408,
+            "end": 1432
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995788931846619,
+            "start": 727,
+            "end": 751
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9995150566101074,
+            "start": 3106,
+            "end": 3124
+          },
+          {
+            "text": "conseil administratif",
+            "confidence": 0.9994947910308838,
+            "start": 505,
+            "end": 526
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.999451220035553,
+            "start": 3632,
+            "end": 3650
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9991583824157715,
+            "start": 1493,
+            "end": 1511
+          },
+          {
+            "text": "assemblées générales",
+            "confidence": 0.9991452693939209,
+            "start": 1096,
+            "end": 1116
+          },
+          {
+            "text": "assemblées générales",
+            "confidence": 0.9987903237342834,
+            "start": 1892,
+            "end": 1912
+          },
+          {
+            "text": "conseil administratif",
+            "confidence": 0.9986336827278137,
+            "start": 3169,
+            "end": 3190
+          },
+          {
+            "text": "assemblées",
+            "confidence": 0.9223833680152893,
+            "start": 1354,
+            "end": 1364
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société",
+            "confidence": 0.8663619756698608,
+            "start": 2188,
+            "end": 2195
+          },
+          {
+            "text": "société",
+            "confidence": 0.5111569166183472,
+            "start": 3513,
+            "end": 3520
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [
+          {
+            "text": "cinq francs",
+            "confidence": 0.6863228678703308,
+            "start": 931,
+            "end": 942
+          }
+        ],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "dix-huit mai mil huit cent septante-trois",
+            "confidence": 0.9998564720153809,
+            "start": 980,
+            "end": 1021
+          },
+          {
+            "text": "vingt-deux mai mil huit cent quatre-vingt-six",
+            "confidence": 0.999841570854187,
+            "start": 1025,
+            "end": 1070
+          },
+          {
+            "text": "mil neuf cent dix",
+            "confidence": 0.999803364276886,
+            "start": 4154,
+            "end": 4171
+          },
+          {
+            "text": "mil neuf cent onze",
+            "confidence": 0.9996370077133179,
+            "start": 1943,
+            "end": 1961
+          },
+          {
+            "text": "dernier jeudi du mois de juillet",
+            "confidence": 0.941041111946106,
+            "start": 4076,
+            "end": 4108
+          }
+        ],
+        "time_period": [
+          {
+            "text": "deux ans",
+            "confidence": 0.919962465763092,
+            "start": 1236,
+            "end": 1244
+          },
+          {
+            "text": "deux ans",
+            "confidence": 0.9054231643676758,
+            "start": 674,
+            "end": 682
+          },
+          {
+            "text": "trois jours",
+            "confidence": 0.7603469491004944,
+            "start": 8923,
+            "end": 8934
+          },
+          {
+            "text": "huit jours",
+            "confidence": 0.7566604614257812,
+            "start": 7738,
+            "end": 7748
+          },
+          {
+            "text": "trente jours",
+            "confidence": 0.7517849802970886,
+            "start": 6874,
+            "end": 6886
+          },
+          {
+            "text": "chaque année",
+            "confidence": 0.555347740650177,
+            "start": 4112,
+            "end": 4124
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9997132420539856,
+            "start": 6137,
+            "end": 6161
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9997004270553589,
+            "start": 8801,
+            "end": 8825
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996888637542725,
+            "start": 3495,
+            "end": 3519
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996843338012695,
+            "start": 2829,
+            "end": 2853
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999671459197998,
+            "start": 3734,
+            "end": 3758
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996697902679443,
+            "start": 2157,
+            "end": 2181
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996511936187744,
+            "start": 1606,
+            "end": 1630
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996412992477417,
+            "start": 7052,
+            "end": 7076
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996389150619507,
+            "start": 4636,
+            "end": 4660
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996153116226196,
+            "start": 6849,
+            "end": 6873
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995474219322205,
+            "start": 433,
+            "end": 457
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995218515396118,
+            "start": 1867,
+            "end": 1891
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995067119598389,
+            "start": 5280,
+            "end": 5304
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9994787573814392,
+            "start": 6546,
+            "end": 6564
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9993911981582642,
+            "start": 5832,
+            "end": 5856
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9992203712463379,
+            "start": 1251,
+            "end": 1269
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9990309476852417,
+            "start": 2383,
+            "end": 2401
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9990135431289673,
+            "start": 7621,
+            "end": 7639
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9989966750144958,
+            "start": 4340,
+            "end": 4358
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9989676475524902,
+            "start": 2312,
+            "end": 2330
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9988896250724792,
+            "start": 690,
+            "end": 708
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9988730549812317,
+            "start": 5702,
+            "end": 5720
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9986704587936401,
+            "start": 410,
+            "end": 428
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9986215829849243,
+            "start": 8093,
+            "end": 8111
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9985830783843994,
+            "start": 3643,
+            "end": 3661
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9985805749893188,
+            "start": 4019,
+            "end": 4037
+          },
+          {
+            "text": "conseil général",
+            "confidence": 0.9983490705490112,
+            "start": 2224,
+            "end": 2239
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9982518553733826,
+            "start": 7272,
+            "end": 7290
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9981777667999268,
+            "start": 5194,
+            "end": 5212
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9981285929679871,
+            "start": 1700,
+            "end": 1718
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9945947527885437,
+            "start": 1911,
+            "end": 1929
+          },
+          {
+            "text": "assemblée",
+            "confidence": 0.9786631464958191,
+            "start": 7776,
+            "end": 7785
+          },
+          {
+            "text": "assemblée",
+            "confidence": 0.9773403406143188,
+            "start": 6904,
+            "end": 6913
+          },
+          {
+            "text": "assemblées générales",
+            "confidence": 0.9752722382545471,
+            "start": 5047,
+            "end": 5067
+          },
+          {
+            "text": "assemblée",
+            "confidence": 0.9709082245826721,
+            "start": 8952,
+            "end": 8961
+          },
+          {
+            "text": "conseil d'administra",
+            "confidence": 0.9536436200141907,
+            "start": 8775,
+            "end": 8795
+          },
+          {
+            "text": "Assemblées générales",
+            "confidence": 0.8920240998268127,
+            "start": 3609,
+            "end": 3629
+          },
+          {
+            "text": "collège des commissaires",
+            "confidence": 0.7382878065109253,
+            "start": 2188,
+            "end": 2212
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [
+          {
+            "text": "siège social",
+            "confidence": 0.9974133372306824,
+            "start": 4186,
+            "end": 4198
+          },
+          {
+            "text": "siège social",
+            "confidence": 0.9973835349082947,
+            "start": 5119,
+            "end": 5131
+          },
+          {
+            "text": "siège social",
+            "confidence": 0.9970899820327759,
+            "start": 8910,
+            "end": 8922
+          },
+          {
+            "text": "siège social",
+            "confidence": 0.9960829019546509,
+            "start": 7789,
+            "end": 7801
+          }
+        ],
+        "legal_act": [
+          {
+            "text": "procès-verbaux",
+            "confidence": 0.9346551895141602,
+            "start": 6378,
+            "end": 6392
+          },
+          {
+            "text": "procès-verbaux",
+            "confidence": 0.9079130291938782,
+            "start": 6186,
+            "end": 6200
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.8531952500343323,
+            "start": 5265,
+            "end": 5276
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.8344064950942993,
+            "start": 3773,
+            "end": 3784
+          },
+          {
+            "text": "convocations",
+            "confidence": 0.7640191912651062,
+            "start": 5685,
+            "end": 5697
+          },
+          {
+            "text": "actions judiciaires",
+            "confidence": 0.7440889477729797,
+            "start": 3396,
+            "end": 3415
+          },
+          {
+            "text": "procurations",
+            "confidence": 0.7409762144088745,
+            "start": 8854,
+            "end": 8866
+          },
+          {
+            "text": "convocations",
+            "confidence": 0.7136232852935791,
+            "start": 5564,
+            "end": 5576
+          },
+          {
+            "text": "convocations",
+            "confidence": 0.6558067798614502,
+            "start": 4314,
+            "end": 4326
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.6539945006370544,
+            "start": 5178,
+            "end": 5189
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.6327120661735535,
+            "start": 4239,
+            "end": 4250
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.5843790769577026,
+            "start": 7861,
+            "end": 7872
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "administrateur",
+            "confidence": 0.8550657629966736,
+            "start": 2558,
+            "end": 2572
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8467344045639038,
+            "start": 1420,
+            "end": 1434
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8334238529205322,
+            "start": 5332,
+            "end": 5346
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.8296003937721252,
+            "start": 4762,
+            "end": 4776
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7810347676277161,
+            "start": 2683,
+            "end": 2697
+          },
+          {
+            "text": "commissaire",
+            "confidence": 0.7650244832038879,
+            "start": 1475,
+            "end": 1486
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7460949420928955,
+            "start": 5026,
+            "end": 5040
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.7367372512817383,
+            "start": 2506,
+            "end": 2521
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.7348413467407227,
+            "start": 643,
+            "end": 655
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7214126586914062,
+            "start": 3572,
+            "end": 3586
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.7211501598358154,
+            "start": 1809,
+            "end": 1824
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.6906655430793762,
+            "start": 1652,
+            "end": 1664
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6880548596382141,
+            "start": 3872,
+            "end": 3887
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6749817728996277,
+            "start": 1133,
+            "end": 1148
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6737282276153564,
+            "start": 2072,
+            "end": 2087
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6669331789016724,
+            "start": 5987,
+            "end": 6002
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.6588659882545471,
+            "start": 1831,
+            "end": 1843
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.6099255681037903,
+            "start": 6006,
+            "end": 6018
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.600172221660614,
+            "start": 2529,
+            "end": 2541
+          },
+          {
+            "text": "administrator",
+            "confidence": 0.5923871397972107,
+            "start": 2810,
+            "end": 2823
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.590889036655426,
+            "start": 2977,
+            "end": 2992
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.5821739435195923,
+            "start": 3980,
+            "end": 3995
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.555743932723999,
+            "start": 880,
+            "end": 892
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.5468897819519043,
+            "start": 5312,
+            "end": 5324
+          },
+          {
+            "text": "président",
+            "confidence": 0.5243588089942932,
+            "start": 2880,
+            "end": 2889
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.522361695766449,
+            "start": 2200,
+            "end": 2212
+          },
+          {
+            "text": "président",
+            "confidence": 0.5065672397613525,
+            "start": 3814,
+            "end": 3823
+          },
+          {
+            "text": "président",
+            "confidence": 0.5045464038848877,
+            "start": 6997,
+            "end": 7006
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [
+          {
+            "text": "Belgique",
+            "confidence": 0.5947941541671753,
+            "start": 4281,
+            "end": 4289
+          }
+        ],
+        "city": [
+          {
+            "text": "Anvers",
+            "confidence": 0.9989345669746399,
+            "start": 5108,
+            "end": 5114
+          },
+          {
+            "text": "Anvers",
+            "confidence": 0.9981657862663269,
+            "start": 4175,
+            "end": 4181
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "dix juin 1909",
+            "confidence": 0.9999971389770508,
+            "start": 71,
+            "end": 84
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "liquidation",
+            "confidence": 0.9898910522460938,
+            "start": 95,
+            "end": 106
+          },
+          {
+            "text": "dissoute",
+            "confidence": 0.7728122472763062,
+            "start": 50,
+            "end": 58
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Frédéric Heller",
+            "confidence": 0.999733030796051,
+            "start": 219,
+            "end": 234
+          },
+          {
+            "text": "Théodore Pittoors",
+            "confidence": 0.9991298317909241,
+            "start": 145,
+            "end": 162
+          },
+          {
+            "text": "Clément Beaupain",
+            "confidence": 0.9963362216949463,
+            "start": 199,
+            "end": 215
+          },
+          {
+            "text": "Lenger",
+            "confidence": 0.5172049403190613,
+            "start": 38,
+            "end": 44
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "MM.",
+            "confidence": 0.98686683177948,
+            "start": 141,
+            "end": 144
+          }
+        ],
+        "occupation": [
+          {
+            "text": "industriel",
+            "confidence": 0.893852174282074,
+            "start": 164,
+            "end": 174
+          },
+          {
+            "text": "industriels",
+            "confidence": 0.6929523348808289,
+            "start": 254,
+            "end": 265
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "associés",
+            "confidence": 0.9736977815628052,
+            "start": 132,
+            "end": 140
+          },
+          {
+            "text": "receveur",
+            "confidence": 0.932815670967102,
+            "start": 29,
+            "end": 37
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9999650716781616,
+            "start": 188,
+            "end": 197
+          },
+          {
+            "text": "Verviers",
+            "confidence": 0.9998137354850769,
+            "start": 280,
+            "end": 288
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "22 juin 1909",
+            "confidence": 1.0,
+            "start": 254,
+            "end": 266
+          },
+          {
+            "text": "21 juin 1909",
+            "confidence": 1.0,
+            "start": 1138,
+            "end": 1150
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "assemblée générale",
+            "confidence": 0.8682699799537659,
+            "start": 404,
+            "end": 422
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société anonyme",
+            "confidence": 0.9877889752388,
+            "start": 162,
+            "end": 177
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "constitution",
+            "confidence": 0.9879416823387146,
+            "start": 478,
+            "end": 490
+          },
+          {
+            "text": "procuration",
+            "confidence": 0.9876377582550049,
+            "start": 65,
+            "end": 76
+          },
+          {
+            "text": "acte",
+            "confidence": 0.9834066033363342,
+            "start": 230,
+            "end": 234
+          },
+          {
+            "text": "constitution",
+            "confidence": 0.9752223491668701,
+            "start": 143,
+            "end": 155
+          },
+          {
+            "text": "acte",
+            "confidence": 0.9737527370452881,
+            "start": 135,
+            "end": 139
+          },
+          {
+            "text": "procuration",
+            "confidence": 0.9696542620658875,
+            "start": 1162,
+            "end": 1173
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Louis Frans",
+            "confidence": 0.9972332119941711,
+            "start": 285,
+            "end": 296
+          },
+          {
+            "text": "H.-Victor Stollwerck",
+            "confidence": 0.9584726095199585,
+            "start": 82,
+            "end": 102
+          },
+          {
+            "text": "Duffel",
+            "confidence": 0.9416265487670898,
+            "start": 1127,
+            "end": 1133
+          },
+          {
+            "text": "E.-J. Morack",
+            "confidence": 0.9337533712387085,
+            "start": 1183,
+            "end": 1195
+          },
+          {
+            "text": "Morack",
+            "confidence": 0.7273213267326355,
+            "start": 14,
+            "end": 20
+          },
+          {
+            "text": "Edmond",
+            "confidence": 0.6150202751159668,
+            "start": 22,
+            "end": 28
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "Me",
+            "confidence": 0.9972055554389954,
+            "start": 282,
+            "end": 284
+          },
+          {
+            "text": "M.",
+            "confidence": 0.996199905872345,
+            "start": 79,
+            "end": 81
+          },
+          {
+            "text": ".",
+            "confidence": 0.7795267105102539,
+            "start": 653,
+            "end": 654
+          }
+        ],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "administrateurs",
+            "confidence": 0.9692873358726501,
+            "start": 940,
+            "end": 955
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.9625916481018066,
+            "start": 963,
+            "end": 975
+          },
+          {
+            "text": "actionnaires",
+            "confidence": 0.9049386978149414,
+            "start": 427,
+            "end": 439
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [
+          {
+            "text": "500 francs",
+            "confidence": 0.7589408159255981,
+            "start": 360,
+            "end": 370
+          }
+        ],
+        "capital_category": [
+          {
+            "text": "capital social",
+            "confidence": 0.990494966506958,
+            "start": 743,
+            "end": 757
+          }
+        ],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "L'an mil neuf cent et neuf",
+            "confidence": 0.9917900562286377,
+            "start": 0,
+            "end": 26
+          },
+          {
+            "text": "vingt-quatre juin",
+            "confidence": 0.9465950727462769,
+            "start": 31,
+            "end": 48
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Frédéric-Auguste Gheysens",
+            "confidence": 0.9946655035018921,
+            "start": 71,
+            "end": 96
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "Mme",
+            "confidence": 0.9904708862304688,
+            "start": 67,
+            "end": 70
+          },
+          {
+            "text": ".",
+            "confidence": 0.9070349931716919,
+            "start": 48,
+            "end": 49
+          },
+          {
+            "text": ".",
+            "confidence": 0.6597129702568054,
+            "start": 114,
+            "end": 115
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9992971420288086,
+            "start": 98,
+            "end": 105
+          }
+        ],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Anvers",
+            "confidence": 0.9998396635055542,
+            "start": 108,
+            "end": 114
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "Assemblée",
+            "confidence": 0.993959903717041,
+            "start": 100,
+            "end": 109
+          },
+          {
+            "text": "assemblée",
+            "confidence": 0.9905780553817749,
+            "start": 485,
+            "end": 494
+          },
+          {
+            "text": "assemblée",
+            "confidence": 0.9900951385498047,
+            "start": 520,
+            "end": 529
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "Société",
+            "confidence": 0.650754988193512,
+            "start": 796,
+            "end": 803
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "liquidation",
+            "confidence": 0.9540066123008728,
+            "start": 315,
+            "end": 326
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Charles Nicaise",
+            "confidence": 0.9996566772460938,
+            "start": 6,
+            "end": 21
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9468698501586914,
+            "start": 450,
+            "end": 452
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9316250085830688,
+            "start": 3,
+            "end": 5
+          },
+          {
+            "text": ".",
+            "confidence": 0.816007673740387,
+            "start": 68,
+            "end": 69
+          },
+          {
+            "text": ".",
+            "confidence": 0.7657909989356995,
+            "start": 97,
+            "end": 98
+          },
+          {
+            "text": ".",
+            "confidence": 0.6442596316337585,
+            "start": 407,
+            "end": 408
+          },
+          {
+            "text": ".",
+            "confidence": 0.5129396319389343,
+            "start": 477,
+            "end": 478
+          }
+        ],
+        "occupation": [
+          {
+            "text": "industriel",
+            "confidence": 0.9517247080802917,
+            "start": 23,
+            "end": 33
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "liquidateurs",
+            "confidence": 0.989563524723053,
+            "start": 237,
+            "end": 249
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.9824054837226868,
+            "start": 74,
+            "end": 89
+          },
+          {
+            "text": "président",
+            "confidence": 0.9579670429229736,
+            "start": 456,
+            "end": 465
+          }
+        ],
+        "number_of_shares": [
+          {
+            "text": "2,761",
+            "confidence": 0.7261644005775452,
+            "start": 158,
+            "end": 163
+          },
+          {
+            "text": "deux mille sept cent soixante-sept actions",
+            "confidence": 0.6700357794761658,
+            "start": 111,
+            "end": 153
+          }
+        ],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [
+          {
+            "text": "France",
+            "confidence": 0.9720072150230408,
+            "start": 847,
+            "end": 853
+          }
+        ],
+        "city": [
+          {
+            "text": "Uccle",
+            "confidence": 0.989462673664093,
+            "start": 36,
+            "end": 41
+          }
+        ],
+        "street_address": [
+          {
+            "text": "château de l'Orangerie",
+            "confidence": 0.7704284191131592,
+            "start": 46,
+            "end": 68
+          }
+        ],
+        "building_name": [
+          {
+            "text": "château de l'Orangerie",
+            "confidence": 0.9879482984542847,
+            "start": 46,
+            "end": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "29 juin 1909",
+            "confidence": 0.999998927116394,
+            "start": 58,
+            "end": 70
+          },
+          {
+            "text": "30 Iig.",
+            "confidence": 0.9891024827957153,
+            "start": 75,
+            "end": 82
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.9407233595848083,
+            "start": 21,
+            "end": 54
+          }
+        ],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "Déposé",
+            "confidence": 0.8995367288589478,
+            "start": 1,
+            "end": 7
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998713731765747,
+            "start": 45,
+            "end": 54
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "18 mai 1875",
+            "confidence": 1.0,
+            "start": 2580,
+            "end": 2591
+          },
+          {
+            "text": "18 mai 1873",
+            "confidence": 1.0,
+            "start": 2842,
+            "end": 2853
+          }
+        ],
+        "time_period": [
+          {
+            "text": "huit jours",
+            "confidence": 0.9312967658042908,
+            "start": 4433,
+            "end": 4443
+          },
+          {
+            "text": "deux jours",
+            "confidence": 0.9157274961471558,
+            "start": 5065,
+            "end": 5075
+          },
+          {
+            "text": "trois mois",
+            "confidence": 0.9138513207435608,
+            "start": 3674,
+            "end": 3684
+          },
+          {
+            "text": "six premiers mois",
+            "confidence": 0.7970649600028992,
+            "start": 2112,
+            "end": 2129
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999978542327881,
+            "start": 280,
+            "end": 304
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999978542327881,
+            "start": 2607,
+            "end": 2631
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999977350234985,
+            "start": 741,
+            "end": 765
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999997615814209,
+            "start": 3541,
+            "end": 3565
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999972581863403,
+            "start": 875,
+            "end": 899
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999971389770508,
+            "start": 484,
+            "end": 508
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999970197677612,
+            "start": 1960,
+            "end": 1984
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999969005584717,
+            "start": 1090,
+            "end": 1114
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999966621398926,
+            "start": 4791,
+            "end": 4815
+          },
+          {
+            "text": "conseil de surveillance",
+            "confidence": 0.999996542930603,
+            "start": 515,
+            "end": 538
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.999996542930603,
+            "start": 4465,
+            "end": 4489
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9999954700469971,
+            "start": 2670,
+            "end": 2694
+          },
+          {
+            "text": "conseil de surveillance",
+            "confidence": 0.9999918937683105,
+            "start": 420,
+            "end": 443
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999796152114868,
+            "start": 1902,
+            "end": 1920
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999794960021973,
+            "start": 4303,
+            "end": 4321
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999771118164062,
+            "start": 5205,
+            "end": 5223
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999674558639526,
+            "start": 582,
+            "end": 600
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9999521970748901,
+            "start": 775,
+            "end": 793
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société",
+            "confidence": 0.7216609716415405,
+            "start": 3806,
+            "end": 3813
+          }
+        ],
+        "business_activity": [],
+        "office_type": [
+          {
+            "text": "siège social",
+            "confidence": 0.9988332390785217,
+            "start": 2544,
+            "end": 2556
+          }
+        ],
+        "legal_act": [
+          {
+            "text": "liquidation",
+            "confidence": 0.9697274565696716,
+            "start": 2006,
+            "end": 2017
+          },
+          {
+            "text": "liquidation",
+            "confidence": 0.9696469902992249,
+            "start": 5166,
+            "end": 5177
+          },
+          {
+            "text": "procès-verbal",
+            "confidence": 0.9271644949913025,
+            "start": 4761,
+            "end": 4774
+          },
+          {
+            "text": "procès-verbal",
+            "confidence": 0.9121091961860657,
+            "start": 3024,
+            "end": 3037
+          },
+          {
+            "text": "procès-verbal",
+            "confidence": 0.9014248251914978,
+            "start": 814,
+            "end": 827
+          },
+          {
+            "text": "exclusion",
+            "confidence": 0.8616083860397339,
+            "start": 4829,
+            "end": 4838
+          },
+          {
+            "text": "exclusion",
+            "confidence": 0.8063719272613525,
+            "start": 3585,
+            "end": 3594
+          },
+          {
+            "text": "exclusion",
+            "confidence": 0.7517211437225342,
+            "start": 4890,
+            "end": 4899
+          },
+          {
+            "text": "convocation",
+            "confidence": 0.6155866384506226,
+            "start": 4085,
+            "end": 4096
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "administrateur",
+            "confidence": 0.7947595715522766,
+            "start": 2936,
+            "end": 2950
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.7546131014823914,
+            "start": 1406,
+            "end": 1420
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.7359060645103455,
+            "start": 4328,
+            "end": 4343
+          },
+          {
+            "text": "administrateurs",
+            "confidence": 0.6729535460472107,
+            "start": 4639,
+            "end": 4654
+          },
+          {
+            "text": "vice-président",
+            "confidence": 0.6409013867378235,
+            "start": 4131,
+            "end": 4145
+          },
+          {
+            "text": "vice-président",
+            "confidence": 0.6283183097839355,
+            "start": 1385,
+            "end": 1399
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "21 juin 1909",
+            "confidence": 1.0,
+            "start": 715,
+            "end": 727
+          },
+          {
+            "text": "vingt juin 1909",
+            "confidence": 1.0,
+            "start": 761,
+            "end": 776
+          },
+          {
+            "text": "24 juin 1909",
+            "confidence": 1.0,
+            "start": 988,
+            "end": 1000
+          },
+          {
+            "text": "30 juin 1909",
+            "confidence": 1.0,
+            "start": 1352,
+            "end": 1364
+          },
+          {
+            "text": "1er juin 1909",
+            "confidence": 0.9999998807907104,
+            "start": 66,
+            "end": 79
+          }
+        ],
+        "time_period": [
+          {
+            "text": "dix années consécutives",
+            "confidence": 0.9727652668952942,
+            "start": 29,
+            "end": 52
+          }
+        ],
+        "organization_name": [
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.8966022729873657,
+            "start": 1315,
+            "end": 1348
+          }
+        ],
+        "corporate_body": [
+          {
+            "text": "assemblée",
+            "confidence": 0.9567362666130066,
+            "start": 1122,
+            "end": 1131
+          },
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9532757997512817,
+            "start": 666,
+            "end": 684
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société",
+            "confidence": 0.9024297595024109,
+            "start": 3,
+            "end": 10
+          },
+          {
+            "text": "société",
+            "confidence": 0.8154860138893127,
+            "start": 392,
+            "end": 399
+          },
+          {
+            "text": "société",
+            "confidence": 0.7670398950576782,
+            "start": 232,
+            "end": 239
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "procès-verbal",
+            "confidence": 0.8654949069023132,
+            "start": 647,
+            "end": 660
+          },
+          {
+            "text": "nommé",
+            "confidence": 0.813414454460144,
+            "start": 859,
+            "end": 864
+          },
+          {
+            "text": "Enregistré",
+            "confidence": 0.7107279300689697,
+            "start": 935,
+            "end": 945
+          },
+          {
+            "text": "enregistrement",
+            "confidence": 0.5035746693611145,
+            "start": 1065,
+            "end": 1079
+          },
+          {
+            "text": "Déposé",
+            "confidence": 0.5012143850326538,
+            "start": 1295,
+            "end": 1301
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [
+          {
+            "text": "volume 492, folio 9, case 7",
+            "confidence": 0.9998062252998352,
+            "start": 1002,
+            "end": 1029
+          }
+        ],
+        "person": [
+          {
+            "text": "J MULDERS",
+            "confidence": 0.9994811415672302,
+            "start": 800,
+            "end": 809
+          },
+          {
+            "text": "L. BUYSSCHAERT",
+            "confidence": 0.9992424249649048,
+            "start": 811,
+            "end": 825
+          },
+          {
+            "text": "E. WILLEMYS",
+            "confidence": 0.9992074370384216,
+            "start": 787,
+            "end": 798
+          },
+          {
+            "text": "Nols",
+            "confidence": 0.9970303773880005,
+            "start": 1113,
+            "end": 1117
+          },
+          {
+            "text": "G. Van der Hofstadt",
+            "confidence": 0.9922186136245728,
+            "start": 835,
+            "end": 854
+          },
+          {
+            "text": "Mouvet",
+            "confidence": 0.9841521978378296,
+            "start": 1243,
+            "end": 1249
+          },
+          {
+            "text": "Ruelle",
+            "confidence": 0.9694458246231079,
+            "start": 902,
+            "end": 908
+          },
+          {
+            "text": "Léon",
+            "confidence": 0.8523808121681213,
+            "start": 521,
+            "end": 525
+          },
+          {
+            "text": "Buysschaert",
+            "confidence": 0.7068248987197876,
+            "start": 508,
+            "end": 519
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9994410872459412,
+            "start": 832,
+            "end": 834
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9994311928749084,
+            "start": 899,
+            "end": 901
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9989062547683716,
+            "start": 1240,
+            "end": 1242
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9988588094711304,
+            "start": 505,
+            "end": 507
+          },
+          {
+            "text": ".",
+            "confidence": 0.9703671932220459,
+            "start": 1053,
+            "end": 1054
+          },
+          {
+            "text": ".",
+            "confidence": 0.8978350758552551,
+            "start": 932,
+            "end": 933
+          },
+          {
+            "text": ".",
+            "confidence": 0.7839580178260803,
+            "start": 788,
+            "end": 789
+          },
+          {
+            "text": ".",
+            "confidence": 0.7603738903999329,
+            "start": 1364,
+            "end": 1365
+          },
+          {
+            "text": ".",
+            "confidence": 0.7534918189048767,
+            "start": 776,
+            "end": 777
+          },
+          {
+            "text": ".",
+            "confidence": 0.6887562870979309,
+            "start": 1090,
+            "end": 1091
+          },
+          {
+            "text": ".",
+            "confidence": 0.6130272746086121,
+            "start": 812,
+            "end": 813
+          },
+          {
+            "text": ".",
+            "confidence": 0.5000553727149963,
+            "start": 1420,
+            "end": 1421
+          }
+        ],
+        "occupation": [
+          {
+            "text": "receveur",
+            "confidence": 0.7679535150527954,
+            "start": 1095,
+            "end": 1103
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "administrateur",
+            "confidence": 0.9977668523788452,
+            "start": 1371,
+            "end": 1385
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.9975858926773071,
+            "start": 865,
+            "end": 879
+          },
+          {
+            "text": "administrateur",
+            "confidence": 0.9933102130889893,
+            "start": 910,
+            "end": 924
+          },
+          {
+            "text": "commissaire",
+            "confidence": 0.9925001263618469,
+            "start": 1251,
+            "end": 1262
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.972583532333374,
+            "start": 1169,
+            "end": 1181
+          },
+          {
+            "text": "actionnaires",
+            "confidence": 0.9721521735191345,
+            "start": 699,
+            "end": 711
+          },
+          {
+            "text": "associés",
+            "confidence": 0.9243784546852112,
+            "start": 355,
+            "end": 363
+          },
+          {
+            "text": "associés",
+            "confidence": 0.753982424736023,
+            "start": 472,
+            "end": 480
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9999535083770752,
+            "start": 948,
+            "end": 957
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9999315738677979,
+            "start": 747,
+            "end": 756
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998910427093506,
+            "start": 1339,
+            "end": 1348
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "6 mai 1909",
+            "confidence": 1.0,
+            "start": 34,
+            "end": 44
+          },
+          {
+            "text": "23 juin 1909",
+            "confidence": 1.0,
+            "start": 228,
+            "end": 240
+          },
+          {
+            "text": "24 juin 1909",
+            "confidence": 1.0,
+            "start": 401,
+            "end": 413
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.8391860127449036,
+            "start": 364,
+            "end": 397
+          }
+        ],
+        "corporate_body": [
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9967129230499268,
+            "start": 12,
+            "end": 30
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [
+          {
+            "text": "volume 492, folio 4, case 9",
+            "confidence": 0.9998434782028198,
+            "start": 242,
+            "end": 269
+          }
+        ],
+        "person": [
+          {
+            "text": "A. Sottiaux",
+            "confidence": 0.9999289512634277,
+            "start": 51,
+            "end": 62
+          },
+          {
+            "text": "E. Bonnehil",
+            "confidence": 0.9999240636825562,
+            "start": 98,
+            "end": 109
+          },
+          {
+            "text": "E. HEIRMAN",
+            "confidence": 0.999630331993103,
+            "start": 162,
+            "end": 172
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9961177110671997,
+            "start": 86,
+            "end": 88
+          },
+          {
+            "text": "MM.",
+            "confidence": 0.9931517839431763,
+            "start": 47,
+            "end": 50
+          },
+          {
+            "text": ".",
+            "confidence": 0.9729982614517212,
+            "start": 290,
+            "end": 291
+          },
+          {
+            "text": ".",
+            "confidence": 0.903636634349823,
+            "start": 145,
+            "end": 146
+          },
+          {
+            "text": ".",
+            "confidence": 0.8343654274940491,
+            "start": 172,
+            "end": 173
+          },
+          {
+            "text": "E.",
+            "confidence": 0.7418273091316223,
+            "start": 80,
+            "end": 82
+          },
+          {
+            "text": ".",
+            "confidence": 0.6686527132987976,
+            "start": 327,
+            "end": 328
+          },
+          {
+            "text": ".",
+            "confidence": 0.6594555377960205,
+            "start": 269,
+            "end": 270
+          },
+          {
+            "text": ".",
+            "confidence": 0.5839022994041443,
+            "start": 413,
+            "end": 414
+          },
+          {
+            "text": ".",
+            "confidence": 0.5758475661277771,
+            "start": 163,
+            "end": 164
+          },
+          {
+            "text": ".",
+            "confidence": 0.519865870475769,
+            "start": 44,
+            "end": 45
+          }
+        ],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "administrateur",
+            "confidence": 0.997127115726471,
+            "start": 64,
+            "end": 78
+          },
+          {
+            "text": "président",
+            "confidence": 0.9957695007324219,
+            "start": 151,
+            "end": 160
+          },
+          {
+            "text": "receveur",
+            "confidence": 0.8435497283935547,
+            "start": 332,
+            "end": 340
+          },
+          {
+            "text": "commissaires",
+            "confidence": 0.7581616044044495,
+            "start": 111,
+            "end": 123
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998873472213745,
+            "start": 188,
+            "end": 197
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998464584350586,
+            "start": 388,
+            "end": 397
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "1er juillet 1909",
+            "confidence": 0.9999986886978149,
+            "start": 82,
+            "end": 98
+          },
+          {
+            "text": "vingt-six juin",
+            "confidence": 0.9999958276748657,
+            "start": 273,
+            "end": 287
+          },
+          {
+            "text": "vingt-six juin",
+            "confidence": 0.9999947547912598,
+            "start": 228,
+            "end": 242
+          },
+          {
+            "text": "2 juillet 1909",
+            "confidence": 0.9999908208847046,
+            "start": 590,
+            "end": 604
+          },
+          {
+            "text": "L'an mil neuf cent neuf",
+            "confidence": 0.9868208765983582,
+            "start": 245,
+            "end": 268
+          },
+          {
+            "text": "vingt-quatre juin courant",
+            "confidence": 0.9835633039474487,
+            "start": 979,
+            "end": 1004
+          },
+          {
+            "text": "L'an mil neuf cent neuf",
+            "confidence": 0.9767913818359375,
+            "start": 200,
+            "end": 223
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.7988913655281067,
+            "start": 553,
+            "end": 586
+          }
+        ],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "procuration sous seing privé",
+            "confidence": 0.6342641115188599,
+            "start": 939,
+            "end": 967
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [
+          {
+            "text": "volume 208, folio 69, case 15",
+            "confidence": 0.9988553524017334,
+            "start": 100,
+            "end": 129
+          }
+        ],
+        "person": [
+          {
+            "text": "Alfred Ectors",
+            "confidence": 0.9999562501907349,
+            "start": 303,
+            "end": 316
+          },
+          {
+            "text": "ALFRED ECTORS",
+            "confidence": 0.9999369382858276,
+            "start": 502,
+            "end": 515
+          },
+          {
+            "text": "Eugène de Boschan",
+            "confidence": 0.9999111890792847,
+            "start": 809,
+            "end": 826
+          },
+          {
+            "text": "François Duysan",
+            "confidence": 0.9999037981033325,
+            "start": 386,
+            "end": 401
+          },
+          {
+            "text": "Siegmund Breuer",
+            "confidence": 0.9998396635055542,
+            "start": 614,
+            "end": 629
+          },
+          {
+            "text": "Prosper Gloner",
+            "confidence": 0.9998072981834412,
+            "start": 703,
+            "end": 717
+          },
+          {
+            "text": "Edmond Keyaerts",
+            "confidence": 0.9996663331985474,
+            "start": 367,
+            "end": 382
+          },
+          {
+            "text": "Ernst Springer",
+            "confidence": 0.999447762966156,
+            "start": 32,
+            "end": 46
+          },
+          {
+            "text": "Perpète",
+            "confidence": 0.9948315620422363,
+            "start": 190,
+            "end": 197
+          },
+          {
+            "text": "Breuer",
+            "confidence": 0.8886619210243225,
+            "start": 903,
+            "end": 909
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9791219830513,
+            "start": 900,
+            "end": 902
+          },
+          {
+            "text": "Dr",
+            "confidence": 0.9680930972099304,
+            "start": 29,
+            "end": 31
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9370177984237671,
+            "start": 700,
+            "end": 702
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9346826672554016,
+            "start": 300,
+            "end": 302
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9234172105789185,
+            "start": 806,
+            "end": 808
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9034150242805481,
+            "start": 611,
+            "end": 613
+          },
+          {
+            "text": ".",
+            "confidence": 0.8688693046569824,
+            "start": 150,
+            "end": 151
+          },
+          {
+            "text": ".",
+            "confidence": 0.7988648414611816,
+            "start": 167,
+            "end": 168
+          },
+          {
+            "text": ".",
+            "confidence": 0.6976644396781921,
+            "start": 609,
+            "end": 610
+          },
+          {
+            "text": ".",
+            "confidence": 0.6491057872772217,
+            "start": 46,
+            "end": 47
+          }
+        ],
+        "occupation": [
+          {
+            "text": "commerçant",
+            "confidence": 0.9997836947441101,
+            "start": 719,
+            "end": 729
+          },
+          {
+            "text": "commerçant",
+            "confidence": 0.999760091304779,
+            "start": 631,
+            "end": 641
+          },
+          {
+            "text": "avocat",
+            "confidence": 0.9996029734611511,
+            "start": 828,
+            "end": 834
+          },
+          {
+            "text": "notaire",
+            "confidence": 0.9985886216163635,
+            "start": 485,
+            "end": 492
+          },
+          {
+            "text": "notaire",
+            "confidence": 0.998498797416687,
+            "start": 318,
+            "end": 325
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "receveur",
+            "confidence": 0.808955729007721,
+            "start": 172,
+            "end": 180
+          },
+          {
+            "text": "témoins",
+            "confidence": 0.5295194983482361,
+            "start": 440,
+            "end": 447
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.999907374382019,
+            "start": 429,
+            "end": 438
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998487234115601,
+            "start": 337,
+            "end": 346
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9997289776802063,
+            "start": 62,
+            "end": 71
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9996324777603149,
+            "start": 577,
+            "end": 586
+          },
+          {
+            "text": "Vienne",
+            "confidence": 0.9986066222190857,
+            "start": 848,
+            "end": 854
+          },
+          {
+            "text": "Vienne",
+            "confidence": 0.9984082579612732,
+            "start": 655,
+            "end": 661
+          },
+          {
+            "text": "Uccle",
+            "confidence": 0.98200523853302,
+            "start": 743,
+            "end": 748
+          },
+          {
+            "text": "Berlin",
+            "confidence": 0.9782137274742126,
+            "start": 794,
+            "end": 800
+          }
+        ],
+        "street_address": [
+          {
+            "text": "avenue Brugmann, numéro 452",
+            "confidence": 0.9946980476379395,
+            "start": 750,
+            "end": 777
+          },
+          {
+            "text": "Oppolzergasse, numéro 4",
+            "confidence": 0.9323530793190002,
+            "start": 856,
+            "end": 879
+          }
+        ],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "vingt-six avril mil neuf cent neuf",
+            "confidence": 0.9999998807907104,
+            "start": 314,
+            "end": 348
+          },
+          {
+            "text": "vingt-six mai mil neuf cent neuf",
+            "confidence": 0.9999997615814209,
+            "start": 1810,
+            "end": 1842
+          },
+          {
+            "text": "trois juin mil neuf cent neuf",
+            "confidence": 0.9999997615814209,
+            "start": 1985,
+            "end": 2014
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "Société anonyme des Ateliers Nicaise et Delcuve",
+            "confidence": 0.9933884143829346,
+            "start": 409,
+            "end": 456
+          },
+          {
+            "text": "Société anonyme des Ateliers Nicaise et Delcove",
+            "confidence": 0.9871249794960022,
+            "start": 784,
+            "end": 831
+          }
+        ],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996334314346313,
+            "start": 584,
+            "end": 608
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9996296167373657,
+            "start": 24,
+            "end": 48
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9995661377906799,
+            "start": 1050,
+            "end": 1074
+          },
+          {
+            "text": "assemblée générale extraordinaire",
+            "confidence": 0.9416653513908386,
+            "start": 1852,
+            "end": 1885
+          },
+          {
+            "text": "assemblée générale extraordinaire",
+            "confidence": 0.9356012344360352,
+            "start": 352,
+            "end": 385
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "Société anonyme",
+            "confidence": 0.9977433681488037,
+            "start": 409,
+            "end": 424
+          },
+          {
+            "text": "Société anonyme",
+            "confidence": 0.9937374591827393,
+            "start": 504,
+            "end": 519
+          },
+          {
+            "text": "Société anonyme",
+            "confidence": 0.9929654598236084,
+            "start": 1909,
+            "end": 1924
+          },
+          {
+            "text": "Société anonyme",
+            "confidence": 0.9902998208999634,
+            "start": 784,
+            "end": 799
+          },
+          {
+            "text": "société",
+            "confidence": 0.732828676700592,
+            "start": 721,
+            "end": 728
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "dissolution",
+            "confidence": 0.9969894289970398,
+            "start": 900,
+            "end": 911
+          },
+          {
+            "text": "dissolution",
+            "confidence": 0.9955539107322693,
+            "start": 1213,
+            "end": 1224
+          },
+          {
+            "text": "liquidation",
+            "confidence": 0.9887929558753967,
+            "start": 1500,
+            "end": 1511
+          },
+          {
+            "text": "fusion",
+            "confidence": 0.9867534041404724,
+            "start": 475,
+            "end": 481
+          },
+          {
+            "text": "fusion",
+            "confidence": 0.9837875366210938,
+            "start": 680,
+            "end": 686
+          },
+          {
+            "text": "liquidation",
+            "confidence": 0.9786625504493713,
+            "start": 926,
+            "end": 937
+          },
+          {
+            "text": "liquidation",
+            "confidence": 0.9752911329269409,
+            "start": 1236,
+            "end": 1247
+          },
+          {
+            "text": "procès-verbal",
+            "confidence": 0.7427574992179871,
+            "start": 229,
+            "end": 242
+          },
+          {
+            "text": "apport",
+            "confidence": 0.7276188135147095,
+            "start": 1745,
+            "end": 1751
+          },
+          {
+            "text": "apport",
+            "confidence": 0.7262164354324341,
+            "start": 1726,
+            "end": 1732
+          },
+          {
+            "text": "apport",
+            "confidence": 0.6885371208190918,
+            "start": 709,
+            "end": 715
+          },
+          {
+            "text": "apport",
+            "confidence": 0.5690094828605652,
+            "start": 2054,
+            "end": 2060
+          },
+          {
+            "text": "Nommé",
+            "confidence": 0.5101512670516968,
+            "start": 1253,
+            "end": 1258
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "Charles Nicaise",
+            "confidence": 0.9999157190322876,
+            "start": 1420,
+            "end": 1435
+          },
+          {
+            "text": "Emile Glibert-Delcuve",
+            "confidence": 0.9998947381973267,
+            "start": 1392,
+            "end": 1413
+          },
+          {
+            "text": "Louis Tabutaut",
+            "confidence": 0.9997459053993225,
+            "start": 1373,
+            "end": 1387
+          },
+          {
+            "text": "Edouard Van Halteren",
+            "confidence": 0.9997219443321228,
+            "start": 257,
+            "end": 277
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "Me",
+            "confidence": 0.9944553971290588,
+            "start": 254,
+            "end": 256
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9943318367004395,
+            "start": 1417,
+            "end": 1419
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9915243983268738,
+            "start": 1389,
+            "end": 1391
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9871674180030823,
+            "start": 1370,
+            "end": 1372
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9964983463287354,
+            "start": 279,
+            "end": 286
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "liquidateurs",
+            "confidence": 0.9105814695358276,
+            "start": 1340,
+            "end": 1352
+          },
+          {
+            "text": "actionnaires",
+            "confidence": 0.6882871389389038,
+            "start": 390,
+            "end": 402
+          },
+          {
+            "text": "actionnaires",
+            "confidence": 0.6859365701675415,
+            "start": 1890,
+            "end": 1902
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [
+          {
+            "text": "France",
+            "confidence": 0.9643696546554565,
+            "start": 563,
+            "end": 569
+          },
+          {
+            "text": "France",
+            "confidence": 0.9571419358253479,
+            "start": 1968,
+            "end": 1974
+          }
+        ],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9998809099197388,
+            "start": 289,
+            "end": 298
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "24 juin 1909",
+            "confidence": 1.0,
+            "start": 523,
+            "end": 535
+          },
+          {
+            "text": "28 juin 1909",
+            "confidence": 1.0,
+            "start": 660,
+            "end": 672
+          },
+          {
+            "text": "4er juillet 1909",
+            "confidence": 1.0,
+            "start": 848,
+            "end": 864
+          },
+          {
+            "text": "1er juillet 1909",
+            "confidence": 1.0,
+            "start": 999,
+            "end": 1015
+          },
+          {
+            "text": "1er juillet 1909",
+            "confidence": 1.0,
+            "start": 1065,
+            "end": 1081
+          },
+          {
+            "text": "30 juin 1909",
+            "confidence": 0.9999998807907104,
+            "start": 614,
+            "end": 626
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "Comptoir de vente de Charbons belges",
+            "confidence": 0.9022780656814575,
+            "start": 410,
+            "end": 446
+          },
+          {
+            "text": "greffe du tribunal de commerce de Liège",
+            "confidence": 0.8565723299980164,
+            "start": 956,
+            "end": 995
+          },
+          {
+            "text": "greffe du tribunal de Charleroi",
+            "confidence": 0.7790780663490295,
+            "start": 1030,
+            "end": 1061
+          },
+          {
+            "text": "Metzger et Piron",
+            "confidence": 0.7506043910980225,
+            "start": 461,
+            "end": 477
+          },
+          {
+            "text": "Firmin Piron",
+            "confidence": 0.645232617855072,
+            "start": 263,
+            "end": 275
+          }
+        ],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "liquidation",
+            "confidence": 0.97468501329422,
+            "start": 38,
+            "end": 49
+          },
+          {
+            "text": "Déposé",
+            "confidence": 0.5501566529273987,
+            "start": 946,
+            "end": 952
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [
+          {
+            "text": "volume 127, folio 17, case 14",
+            "confidence": 0.9990963935852051,
+            "start": 866,
+            "end": 895
+          },
+          {
+            "text": "volume 183, folio 99, case 6",
+            "confidence": 0.9978158473968506,
+            "start": 674,
+            "end": 702
+          }
+        ],
+        "person": [
+          {
+            "text": "Albert Metzger",
+            "confidence": 0.9992808699607849,
+            "start": 327,
+            "end": 341
+          },
+          {
+            "text": "G. Bosson",
+            "confidence": 0.9991003274917603,
+            "start": 571,
+            "end": 580
+          },
+          {
+            "text": "Georges Bosson",
+            "confidence": 0.9990111589431763,
+            "start": 3,
+            "end": 17
+          },
+          {
+            "text": "Jules Ancion",
+            "confidence": 0.99803227186203,
+            "start": 557,
+            "end": 569
+          },
+          {
+            "text": "L. Bosson-Vincent",
+            "confidence": 0.9955489635467529,
+            "start": 538,
+            "end": 555
+          },
+          {
+            "text": "Dandois",
+            "confidence": 0.9934282898902893,
+            "start": 935,
+            "end": 942
+          },
+          {
+            "text": "FIRMIN PIRON",
+            "confidence": 0.9538648724555969,
+            "start": 806,
+            "end": 818
+          },
+          {
+            "text": "Firmin Piron",
+            "confidence": 0.9347337484359741,
+            "start": 263,
+            "end": 275
+          },
+          {
+            "text": "Dehasque",
+            "confidence": 0.9101805686950684,
+            "start": 760,
+            "end": 768
+          },
+          {
+            "text": "Gust. Lhoest",
+            "confidence": 0.9060537219047546,
+            "start": 589,
+            "end": 601
+          },
+          {
+            "text": "Herve",
+            "confidence": 0.8999554514884949,
+            "start": 582,
+            "end": 587
+          },
+          {
+            "text": "Metzger et Piron",
+            "confidence": 0.6677724123001099,
+            "start": 461,
+            "end": 477
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9932445883750916,
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9906129837036133,
+            "start": 324,
+            "end": 326
+          },
+          {
+            "text": ".",
+            "confidence": 0.9527168273925781,
+            "start": 723,
+            "end": 724
+          },
+          {
+            "text": ".",
+            "confidence": 0.9296745657920837,
+            "start": 738,
+            "end": 739
+          },
+          {
+            "text": ".",
+            "confidence": 0.9144237637519836,
+            "start": 912,
+            "end": 913
+          },
+          {
+            "text": ".",
+            "confidence": 0.8121559619903564,
+            "start": 539,
+            "end": 540
+          },
+          {
+            "text": ".",
+            "confidence": 0.788475751876831,
+            "start": 702,
+            "end": 703
+          },
+          {
+            "text": ".",
+            "confidence": 0.7279896140098572,
+            "start": 477,
+            "end": 478
+          },
+          {
+            "text": ".",
+            "confidence": 0.6891382336616516,
+            "start": 626,
+            "end": 627
+          },
+          {
+            "text": ".",
+            "confidence": 0.6371626853942871,
+            "start": 768,
+            "end": 769
+          },
+          {
+            "text": ".",
+            "confidence": 0.5776626467704773,
+            "start": 818,
+            "end": 819
+          },
+          {
+            "text": ".",
+            "confidence": 0.5085249543190002,
+            "start": 1106,
+            "end": 1107
+          }
+        ],
+        "occupation": [
+          {
+            "text": "exportateur",
+            "confidence": 0.9370484948158264,
+            "start": 343,
+            "end": 354
+          },
+          {
+            "text": "industriel",
+            "confidence": 0.8547173738479614,
+            "start": 277,
+            "end": 287
+          },
+          {
+            "text": "receveur",
+            "confidence": 0.720120906829834,
+            "start": 917,
+            "end": 925
+          },
+          {
+            "text": "receveur",
+            "confidence": 0.6752437949180603,
+            "start": 743,
+            "end": 751
+          }
+        ],
+        "corporate_position": [],
+        "number_of_shares": [
+          {
+            "text": "trois exemplaires",
+            "confidence": 0.852366030216217,
+            "start": 488,
+            "end": 505
+          }
+        ],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9995875954627991,
+            "start": 509,
+            "end": 518
+          },
+          {
+            "text": "Charleroi",
+            "confidence": 0.9984707236289978,
+            "start": 834,
+            "end": 843
+          },
+          {
+            "text": "Jumet",
+            "confidence": 0.9975495934486389,
+            "start": 290,
+            "end": 295
+          },
+          {
+            "text": "Charleroi",
+            "confidence": 0.9965649247169495,
+            "start": 1052,
+            "end": 1061
+          },
+          {
+            "text": "Liège",
+            "confidence": 0.9964298605918884,
+            "start": 642,
+            "end": 647
+          },
+          {
+            "text": "Jumet",
+            "confidence": 0.9963443875312805,
+            "start": 604,
+            "end": 609
+          },
+          {
+            "text": "Liège",
+            "confidence": 0.9928079843521118,
+            "start": 990,
+            "end": 995
+          },
+          {
+            "text": "Lodelinsart",
+            "confidence": 0.990895688533783,
+            "start": 357,
+            "end": 368
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [
+          {
+            "text": "trois ans",
+            "confidence": 0.9525576829910278,
+            "start": 88,
+            "end": 97
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "assemblée générale",
+            "confidence": 0.998773992061615,
+            "start": 22,
+            "end": 40
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "commissaires",
+            "confidence": 0.8690815567970276,
+            "start": 46,
+            "end": 58
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "22 juin 1909",
+            "confidence": 1.0,
+            "start": 52,
+            "end": 64
+          },
+          {
+            "text": "26 juin 1909",
+            "confidence": 0.9999996423721313,
+            "start": 773,
+            "end": 785
+          },
+          {
+            "text": "ce jour",
+            "confidence": 0.9995038509368896,
+            "start": 369,
+            "end": 376
+          },
+          {
+            "text": "ce jour",
+            "confidence": 0.9942094087600708,
+            "start": 633,
+            "end": 640
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "Pépinières de Rhode-Saint-Genèse",
+            "confidence": 0.9738557934761047,
+            "start": 573,
+            "end": 605
+          },
+          {
+            "text": "tribunal de commerce de Bruxelles",
+            "confidence": 0.8853407502174377,
+            "start": 736,
+            "end": 769
+          }
+        ],
+        "corporate_body": [
+          {
+            "text": "assemblée",
+            "confidence": 0.8792245984077454,
+            "start": 802,
+            "end": 811
+          }
+        ],
+        "legal_structure": [
+          {
+            "text": "société anonyme",
+            "confidence": 0.947384774684906,
+            "start": 502,
+            "end": 517
+          }
+        ],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "acte",
+            "confidence": 0.912867546081543,
+            "start": 615,
+            "end": 619
+          },
+          {
+            "text": "procurations",
+            "confidence": 0.588831901550293,
+            "start": 223,
+            "end": 235
+          },
+          {
+            "text": "Enregistré",
+            "confidence": 0.5854063034057617,
+            "start": 0,
+            "end": 10
+          },
+          {
+            "text": "nommés",
+            "confidence": 0.5417795777320862,
+            "start": 862,
+            "end": 868
+          }
+        ],
+        "deed_number": [
+          {
+            "text": "numéro 100",
+            "confidence": 0.8244081735610962,
+            "start": 131,
+            "end": 141
+          }
+        ],
+        "archive_reference": [
+          {
+            "text": "volume 5, folio 30, case 2",
+            "confidence": 0.9973547458648682,
+            "start": 66,
+            "end": 92
+          }
+        ],
+        "person": [
+          {
+            "text": "J. TIMMERMANS",
+            "confidence": 0.9999837875366211,
+            "start": 441,
+            "end": 454
+          },
+          {
+            "text": "R. TIMMERMANS",
+            "confidence": 0.9999412298202515,
+            "start": 426,
+            "end": 439
+          },
+          {
+            "text": "C. TIMMERMANS",
+            "confidence": 0.9999260902404785,
+            "start": 411,
+            "end": 424
+          },
+          {
+            "text": "Paul Dupont",
+            "confidence": 0.9998947381973267,
+            "start": 921,
+            "end": 932
+          },
+          {
+            "text": "Visart de Bocarmé",
+            "confidence": 0.99973064661026,
+            "start": 900,
+            "end": 917
+          },
+          {
+            "text": "Emile Malevez",
+            "confidence": 0.9994137287139893,
+            "start": 165,
+            "end": 178
+          },
+          {
+            "text": "Odon Fery",
+            "confidence": 0.998991072177887,
+            "start": 832,
+            "end": 841
+          },
+          {
+            "text": "chaussée de Charleroi",
+            "confidence": 0.9797939658164978,
+            "start": 108,
+            "end": 129
+          },
+          {
+            "text": "Grosemans",
+            "confidence": 0.9525115489959717,
+            "start": 334,
+            "end": 343
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "M.",
+            "confidence": 0.9957162737846375,
+            "start": 162,
+            "end": 164
+          },
+          {
+            "text": "M.",
+            "confidence": 0.9953998923301697,
+            "start": 829,
+            "end": 831
+          },
+          {
+            "text": "comte",
+            "confidence": 0.9933550357818604,
+            "start": 894,
+            "end": 899
+          },
+          {
+            "text": "MM.",
+            "confidence": 0.9895742535591125,
+            "start": 887,
+            "end": 890
+          },
+          {
+            "text": ".",
+            "confidence": 0.9066749215126038,
+            "start": 92,
+            "end": 93
+          },
+          {
+            "text": ".",
+            "confidence": 0.8116569519042969,
+            "start": 854,
+            "end": 855
+          },
+          {
+            "text": ".",
+            "confidence": 0.7327340245246887,
+            "start": 454,
+            "end": 455
+          },
+          {
+            "text": ".",
+            "confidence": 0.6438081860542297,
+            "start": 944,
+            "end": 945
+          },
+          {
+            "text": ".",
+            "confidence": 0.6189723610877991,
+            "start": 712,
+            "end": 713
+          },
+          {
+            "text": ".",
+            "confidence": 0.5456665754318237,
+            "start": 105,
+            "end": 106
+          },
+          {
+            "text": ".",
+            "confidence": 0.5350821018218994,
+            "start": 785,
+            "end": 786
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9966241121292114,
+            "start": 648,
+            "end": 655
+          },
+          {
+            "text": "notaire",
+            "confidence": 0.9949054718017578,
+            "start": 326,
+            "end": 333
+          }
+        ],
+        "corporate_position": [
+          {
+            "text": "commissaire",
+            "confidence": 0.9951459765434265,
+            "start": 843,
+            "end": 854
+          },
+          {
+            "text": "actionnaires",
+            "confidence": 0.9902263879776001,
+            "start": 483,
+            "end": 495
+          },
+          {
+            "text": "scrutateurs",
+            "confidence": 0.9505606293678284,
+            "start": 875,
+            "end": 886
+          },
+          {
+            "text": "receveur",
+            "confidence": 0.9078360199928284,
+            "start": 97,
+            "end": 105
+          },
+          {
+            "text": "comparants",
+            "confidence": 0.8881095051765442,
+            "start": 934,
+            "end": 944
+          },
+          {
+            "text": "présidée",
+            "confidence": 0.6898677349090576,
+            "start": 816,
+            "end": 824
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Rhode-Saint-Genèse",
+            "confidence": 0.9993916749954224,
+            "start": 587,
+            "end": 605
+          },
+          {
+            "text": "Bruxelles",
+            "confidence": 0.9988138675689697,
+            "start": 760,
+            "end": 769
+          },
+          {
+            "text": "Rhode-Saint-Genèse",
+            "confidence": 0.9982454776763916,
+            "start": 529,
+            "end": 547
+          },
+          {
+            "text": "Ixelles",
+            "confidence": 0.976942777633667,
+            "start": 32,
+            "end": 39
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "31 mars 1909",
+            "confidence": 0.9999879598617554,
+            "start": 26,
+            "end": 38
+          },
+          {
+            "text": "dix-sept juin",
+            "confidence": 0.9995054006576538,
+            "start": 143,
+            "end": 156
+          },
+          {
+            "text": "dix-sept ju",
+            "confidence": 0.9953023195266724,
+            "start": 69,
+            "end": 80
+          },
+          {
+            "text": "L'an mil neuf cent neuf",
+            "confidence": 0.9011983275413513,
+            "start": 41,
+            "end": 64
+          }
+        ],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [
+          {
+            "text": "De Leener",
+            "confidence": 0.9988540410995483,
+            "start": 92,
+            "end": 101
+          },
+          {
+            "text": "De Leener",
+            "confidence": 0.9987731575965881,
+            "start": 169,
+            "end": 178
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": "Mme",
+            "confidence": 0.9858608245849609,
+            "start": 88,
+            "end": 91
+          },
+          {
+            "text": "Mme",
+            "confidence": 0.9848483204841614,
+            "start": 165,
+            "end": 168
+          },
+          {
+            "text": ".",
+            "confidence": 0.6658440232276917,
+            "start": 156,
+            "end": 157
+          },
+          {
+            "text": ".",
+            "confidence": 0.6008934378623962,
+            "start": 38,
+            "end": 39
+          }
+        ],
+        "occupation": [
+          {
+            "text": "notaire",
+            "confidence": 0.9997707009315491,
+            "start": 180,
+            "end": 187
+          },
+          {
+            "text": "notaire",
+            "confidence": 0.9996335506439209,
+            "start": 103,
+            "end": 110
+          }
+        ],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Saint-Gilles-Bruxelles",
+            "confidence": 0.9308933615684509,
+            "start": 203,
+            "end": 225
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [
+          {
+            "text": "quinze jours",
+            "confidence": 0.8344095349311829,
+            "start": 177,
+            "end": 189
+          },
+          {
+            "text": "quinze jours",
+            "confidence": 0.7750167846679688,
+            "start": 295,
+            "end": 307
+          }
+        ],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9994805455207825,
+            "start": 360,
+            "end": 384
+          },
+          {
+            "text": "conseil d'administration",
+            "confidence": 0.9994803071022034,
+            "start": 76,
+            "end": 100
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [
+          {
+            "text": "19 juin 1909",
+            "confidence": 1.0,
+            "start": 34,
+            "end": 46
+          }
+        ],
+        "time_period": [],
+        "organization_name": [
+          {
+            "text": "Verviers (A. C.)",
+            "confidence": 0.63634192943573,
+            "start": 13,
+            "end": 29
+          }
+        ],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "Enregistré",
+            "confidence": 0.6271688342094421,
+            "start": 0,
+            "end": 10
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [
+          {
+            "text": "volume 457, folio 25, case 7",
+            "confidence": 0.9969419836997986,
+            "start": 48,
+            "end": 76
+          }
+        ],
+        "person": [
+          {
+            "text": "Houchard",
+            "confidence": 0.99814772605896,
+            "start": 143,
+            "end": 151
+          }
+        ],
+        "honorific_title": [
+          {
+            "text": ".",
+            "confidence": 0.7591969966888428,
+            "start": 105,
+            "end": 106
+          },
+          {
+            "text": ".",
+            "confidence": 0.6249402761459351,
+            "start": 120,
+            "end": 121
+          }
+        ],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [
+          {
+            "text": "Verviers",
+            "confidence": 0.9951187372207642,
+            "start": 13,
+            "end": 21
+          }
+        ],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [
+          {
+            "text": "assemblée générale",
+            "confidence": 0.9987683892250061,
+            "start": 48,
+            "end": 66
+          }
+        ],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [
+          {
+            "text": "dissolution",
+            "confidence": 0.9927073121070862,
+            "start": 19,
+            "end": 30
+          }
+        ],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [
+          {
+            "text": "liquidateurs",
+            "confidence": 0.6869093179702759,
+            "start": 114,
+            "end": 126
+          }
+        ],
+        "number_of_shares": [],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "date": [],
+        "time_period": [],
+        "organization_name": [],
+        "corporate_body": [],
+        "legal_structure": [],
+        "business_activity": [],
+        "office_type": [],
+        "legal_act": [],
+        "deed_number": [],
+        "archive_reference": [],
+        "person": [],
+        "honorific_title": [],
+        "occupation": [],
+        "corporate_position": [],
+        "number_of_shares": [
+          {
+            "text": "quatre cent quatre-vingt-huit",
+            "confidence": 0.7822308540344238,
+            "start": 11,
+            "end": 40
+          }
+        ],
+        "number_of_votes": [],
+        "share_class": [],
+        "share_nominal_value": [],
+        "capital_category": [],
+        "country": [],
+        "city": [],
+        "street_address": [],
+        "building_name": []
+      }
+    ]
+  }
+]

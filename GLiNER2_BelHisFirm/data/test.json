@@ -1,0 +1,3134 @@
+[
+  {
+    "text": "6. Résolutions accessoires s'il y a lieu",
+    "entities": {
+      "legal_act": [
+        "Résolutions accessoires"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "La recherche et l'application de tous les résultats, quels qu'ils soient, que peuvent ou pourront produire les hautes températures et, notamment, sans que cette énumération purement énonciative ait rien d'exclusif ni de limitatif en ce qui concerne:",
+    "entities": {
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Et M. Charles Nicaise, industriel à Uccle, au château de l'Orangerie. Ses administrateurs actuels.\n\nAssemblée: deux mille sept cent soixante-sept actions ... 2,761\nLes procurations susmentionnées demeureront annexées aux présentes.\n\nLes liquidateurs auront les pouvoirs les plus étendus résultant de la loi pour la liquidation de la société, en ce compris ceux visés par l'article cent dix-huit de cette loi.\n\nLes procurations susmentionnées demeure M. le président exécutif\n\nI. Que l'assemblée a pour ordre du jour:\n\nL'assemblée leur donne spécialement les pouvoirs les plus étendus pour échanger ou réaliser, soit publiquement, soit de gré à gré, dans les conditions qu'ils estimeront les meilleures et qui sont laissées entièrement à leur appréciation, les actions et parts de fondateur de la Société des Ateliers de Construction du Nord de la France à recevoir en échange de l'apport fait à celle-ci.",
+    "entities": {
+      "corporate_body": [
+        "Assemblée",
+        "assemblée"
+      ],
+      "legal_act": [
+        "liquidation",
+        "procurations"
+      ],
+      "person": [
+        "Charles Nicaise"
+      ],
+      "occupation": [
+        "industriel"
+      ],
+      "corporate_position": [
+        "administrateurs",
+        "liquidateurs",
+        "président exécutif"
+      ],
+      "city": [
+        "Uccle"
+      ],
+      "building_name": [
+        "château de l'Orangerie"
+      ],
+      "number_of_shares": [
+        "deux mille sept cent soixante-sept actions"
+      ],
+      "legal_structure": [
+        "société"
+      ],
+      "organization_name": [
+        "Société des Ateliers de Construction du Nord de la France"
+      ],
+      "share_class": [
+        "actions",
+        "parts de fondateur"
+      ],
+      "date": [],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "honorific_title": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": []
+    }
+  },
+  {
+    "text": "La nomination des liquidateurs met fin au mandat des administrateurs. Les commissaires continuent leur mandat et doivent faire rapport sur la liquidation.",
+    "entities": {
+      "legal_act": [
+        "liquidation",
+        "nomination"
+      ],
+      "corporate_position": [
+        "commissaires",
+        "administrateurs",
+        "liquidateurs"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "D’un acte reçu par Mme Liégeois, notaire à Thuin, le vingt-huit juin mil neuf cent neuf et enregistré trois rôles sans renvoi, à Thuin, le trente juin 1909, volume 322, folio 97, case 14, au droit de sept francs perçu par M. le receveur Hancart.\n\nIl résulte que:\n\nM. François Lafontaine, négociant, domicilié à Strée.\n\nM. Oswald Stordeur, géomètre.\n\nM. Edmond Gouthière, négociant.\n\nM. Jules Fostier, maître-brasseur.\n\nDomiciliés à Thuillies.\n\nM. Fernand Boulanger, dessinateur, domicilié à Gozée, et\n\nM. François Boulanger, étudiant, demeurant à Mons.\n\nM. François Boulanger, étudiant, demeurant à Mons.\nOnt formé entre eux une société en nom collectif, sous le nom de Brasserie de l'Alliance, et la raison sociale: Stordeur, Lafontaine et Cie.",
+    "entities": {
+      "date": [
+        "trente juin 1909",
+        "vingt-huit juin mil neuf cent neuf"
+      ],
+      "organization_name": [
+        "Stordeur, Lafontaine et Cie",
+        "Brasserie de l'Alliance"
+      ],
+      "legal_structure": [
+        "société en nom collectif"
+      ],
+      "person": [
+        "François Boulanger",
+        "Jules Fostier",
+        "Edmond Gouthière",
+        "Fernand Boulanger",
+        "Oswald Stordeur",
+        "Liégeois",
+        "François Lafontaine",
+        "Hancart"
+      ],
+      "honorific_title": [
+        "M.",
+        "Mme"
+      ],
+      "occupation": [
+        "négociant",
+        "dessinateur",
+        "étudiant",
+        "géomètre",
+        "maître-brasseur",
+        "notaire"
+      ],
+      "share_nominal_value": [
+        "sept francs"
+      ],
+      "city": [
+        "Mons",
+        "Gozée",
+        "Thuin",
+        "Thuillies",
+        "Strée"
+      ],
+      "archive_reference": [
+        "volume 322, folio 97, case 14"
+      ],
+      "corporate_position": [
+        "receveur"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Je soussigné, L. Schockel, demeurant à Gand, propriétaire de 15 actions de la société anonyme La Réassurance belge, en liquidation, donne pouvoir à M. Nève, à Bruxelles, aux fins de me représenter aux assemblées générales de cette société, qui doivent avoir lieu le 11 juin 1909, ou à toutes autres si les premières ne peuvent être tenues ou sont remises; en conséquence, prendre part à toutes délibérations, arrêter toutes décisions, émettre tous votes, accorder toutes autorisations, nommer tous commissaires, donner toutes décharges aux liquidateurs, signer tous actes et procès-verbaux, substituer et, en général, faire tout ce qui sera utile.\n\nCes constatations faites, l'assemblée se reconnaît valablement constituée. M. Louis Lombart donne lecture du rapport des commissaires-vérificateurs, concluant à l'approbation des comptes.\n\nEntérinant ces conclusions, l'assemblée, à l'unanimité, approuve, sans restriction ni réserve, les comptes qui lui ont été présentés par les liquidateurs et leur donne décharge définitive de leur mandat.\n\nElle prononce en conséquence la clôture de la liquidation et constate que la société anonyme La Réassurance belge a définitivement cessé d'exister à compter de ce jour.\n\nFait à Gand, le 28 mai 1909.\n\nElle décide que les archives de la liquidation demeureront en mains de M. Hegener pendant une durée de cinq années.\n\nBon pour pouvoir, (signé) L. Schockel.\n\nEnregistré à Bruxelles (Est), le 17 juin 1909, volume 20, folio 65. case 4. Un rôle sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) Perpète.\n\nL'ordre du jour étant épuisé, la séance est levée.\n\nDont procès-verbal fait et dressé à Bruxelles, en présence de Pierre-Joseph Bruyninckx, demeurant à Uccle, et Emile Beaujean, demeurant à Ixelles, témoins requis.\n\nPour copie conforme\n(Signé) L. DAMIENS.\n\nEt après lecture faite, les parties ont signé avec les témoins et le notaire.\n\nLa Réassurance belge, société anonyme, en liquidation, établie à Bruxelles. — Clôture de liquidation.\n\n(Suivent les signatures.)\n\nEnregistré à Bruxelles (Est), le 17 juin 1909, volume 1064, folio 63, case 5. Deux rôles un renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) Perpète.\n\nProcès-verbal de l'assemblée générale extraordinaire des actionnaires tenue cejourd'hui onze juin mil neuf cent neuf, par-devant Mme Lucien Damiens, notaire résidant à Bruxelles, substituant son collègue, Mme Albert Poelaert, notaire à la même résidence, empêché.\n\nPour copie conforme:\n(Signé) L. DAMIENS.\n\nSont présents ou représentés les actionnaires suivants:\n\n(Déposé au greffe du tribunal de commerce de Bruxelles le 25 juin 1909.)\n\n1. M. Joseph Nève, directeur de banque, demeurant à Bruxelles, 56, rue aux Laines, propriétaire de huit actions ... 8\n\n(165 lig.)",
+    "entities": {
+      "date": [
+        "17 juin 1909",
+        "28 mai 1909",
+        "25 juin 1909",
+        "11 juin 1909",
+        "onze juin mil neuf cent neuf"
+      ],
+      "time_period": [
+        "cinq années"
+      ],
+      "organization_name": [
+        "La Réassurance belge"
+      ],
+      "corporate_body": [
+        "assemblées générales",
+        "assemblée générale extraordinaire"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "legal_act": [
+        "en liquidation",
+        "la liquidation",
+        "Clôture de liquidation",
+        "Procès-verbal",
+        "procès-verbaux"
+      ],
+      "archive_reference": [
+        "volume 20, folio 65. case 4",
+        "volume 1064, folio 63, case 5"
+      ],
+      "person": [
+        "L. Schockel",
+        "Emile Beaujean",
+        "Pierre-Joseph Bruyninckx",
+        "L. DAMIENS",
+        "Hegener",
+        "Nève",
+        "Albert Poelaert",
+        "Lucien Damiens",
+        "Louis Lombart",
+        "Joseph Nève",
+        "Perpète"
+      ],
+      "honorific_title": [
+        "Mme",
+        "M"
+      ],
+      "occupation": [
+        "notaire",
+        "directeur de banque"
+      ],
+      "corporate_position": [
+        "notaire",
+        "actionnaires"
+      ],
+      "number_of_shares": [
+        "15 actions",
+        "huit actions"
+      ],
+      "city": [
+        "Bruxelles",
+        "Bruxelles (Est",
+        "Bruxelles (Est)",
+        "Gand",
+        "Ixelles",
+        "Uccle"
+      ],
+      "street_address": [
+        "56, rue aux Laines"
+      ],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Ce bien appartient à la société Pépinières de Rhode-Saint-Genèse, en liquidation, pour l'avoir acquis des héritiers de Mme Mathilde-Régine Van Keerberghem, en son vivant épouse de M. Lucien-Hubert Bouvier, suivant procès-verbal d'adjudication publique, clôturé par Mme Abrassart, notaire",
+    "entities": {
+      "organization_name": [
+        "société Pépinières de Rhode-Saint-Genèse"
+      ],
+      "legal_act": [
+        "liquidation",
+        "adjudication publique"
+      ],
+      "person": [
+        "Mathilde-Régine Van Keerberghem",
+        "Lucien-Hubert Bouvier",
+        "Abrassart"
+      ],
+      "honorific_title": [
+        "Mme",
+        "M."
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "date": [],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Enregistré un rôle un renvoi, à Ixelles (A. C.), le 22 juin 1909, volume 5, folio 30, case 2. Le receveur.\n\nchaussée de Charleroi, numéro 100, ici représenté par M. Emile Malevez, prénommé, qui se porte fort pour lui.\n\nLes procurations susmentionnées sont demeurées annexées au contrat constitutif de la société dressé par le notaire Grosemans, soussigné, à la date de ce jour.\n\nPour extrait conforme:\n\n(Signé) C. TIMMERMANS, R. TIMMERMANS, J. TIMMERMANS.\n\nTous les prénommés, seuls actionnaires de la société anonyme, établie à Rhode-Saint-Genèse, sous la dénomination de Pépinières de Rhode-Saint-Genèse, suivant acte précité reçu ce jour par le notaire soussigné, représentant l'unanimité des intérêts sociaux.\n\n(Deposé au greffe du tribunal de commerce de Bruxelles le 26 juin 1909.)\n\n(35 lig.)\n\nL'assemblée est présidée par M. Odon Fery, commissaire.\n\nSont nommés comme scrutateurs MM. le comte Visart de Bocarmé et Paul Dupont, comparants.",
+    "entities": {
+      "date": [
+        "22 juin 1909",
+        "26 juin 1909"
+      ],
+      "corporate_body": [
+        "assemblée"
+      ],
+      "legal_act": [
+        "contrat constitutif"
+      ],
+      "person": [
+        "Paul Dupont",
+        "R. TIMMERMANS",
+        "J. TIMMERMANS",
+        "Emile Malevez",
+        "Visart de Bocarmé",
+        "Odon Fery",
+        "Grosemans",
+        "C. TIMMERMANS"
+      ],
+      "corporate_position": [
+        "commissaire",
+        "scrutateurs",
+        "comparants"
+      ],
+      "city": [
+        "Ixelles",
+        "Rhode-Saint-Genèse"
+      ],
+      "occupation": [
+        "receveur",
+        "notaire"
+      ],
+      "street_address": [
+        "chaussée de Charleroi, numéro 100"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "organization_name": [
+        "Pépinières de Rhode-Saint-Genèse,",
+        "greffe du tribunal de commerce de Bruxelles"
+      ],
+      "honorific_title": [
+        "comte"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "225. — La Maison ouvrière Saint-Géry, société anonyme, à Houdeng-Goegnies. — Réélection d'un administrateur et nomination d'un commissaire.",
+    "entities": {
+      "organization_name": [
+        "La Maison ouvrière Saint-Géry"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "legal_act": [
+        "Réélection",
+        "nomination"
+      ],
+      "corporate_position": [
+        "administrateur",
+        "commissaire"
+      ],
+      "city": [
+        "Houdeng-Goegnies"
+      ],
+      "deed_number": [
+        "225"
+      ],
+      "date": [],
+      "time_period": [],
+      "corporate_body": [],
+      "business_activity": [],
+      "office_type": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "L'article vingt-huit est modifié comme suit:\n\n« Les convocations pour toute assemblée générale contiennent l'ordre du jour et sont faites en conformité de l'article soixante de la loi sur les sociétés commerciales. »\n\nFait à Saint-Gilles, le 23 juin 1900 neuf.\n\nBon pour pouvoir, (signé) Ad. PETRE.",
+    "entities": {
+      "date": [
+        ""
+      ],
+      "corporate_body": [
+        "assemblée générale"
+      ],
+      "legal_structure": [
+        "loi sur les sociétés commerciales"
+      ],
+      "person": [
+        "Ad. PETRE"
+      ],
+      "city": [
+        "Saint-Gilles"
+      ],
+      "legal_act": [
+        "convocations"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art. 50. Le bénéfice net sera réparti de la manière suivante:\n\n1° Au fonds de réserve: 10 p. c. ; 2° aux sociétaires: un dividende qui",
+    "entities": {
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art. 17. La société est administrée par un conseil composé de trois membres au moins et sept au plus, comprenant un président et un vice-président. La durée de leur mandat est de trois ans; ils sont rééligibles.\n\nArt. 7. Le fonds social est formé actuellement des parts souscrites par les associés-fondateurs; ultérieurement il sera formé des parts souscrites par tous les associés, augmentées du fonds de réserve ou diminuées des pertes. Le minimum du fonds social est fixé à 7 francs.\n\nArt. 18. Le conseil d'administration, dans les limites des statuts, délibère, transige, compromet et statue sur tout ce qui a trait aux intérêts de la société, notamment:\n\nLe conseil d'administration aurait, en cas de réduction à ce chiffre, à soumettre à l'assemblée générale la question de la dissolution de la société.\n\nA. Régler les conditions particulières de tout contrat de prêt et autres contrats quelconques relatifs aux opérations; acquérir tous immeubles, dans les cas mentionnés à l'article 6; les revendre, soit publiquement, soit de la main à la main.\n\nLe capital social, dont le minimum est fixé à 7 francs, est et sera constitué:\n\n1° Par les mises (parts de membres); chaque membre est obligé, pour la durée de sa participation, de verser dans la caisse, en une fois, une mise de 1 franc. Un membre ne peut avoir qu'une seule part.\n\nB. Receive all money, withdraw all deposited values at the General Savings and Retirement Fund, at a central cooperative credit society, at the Deposit and Consignment Fund or elsewhere.\n\n2° Par des emprunts; pour empêcher que l'argent qui ne peut être employé avec profit dans l'exploitation agricole ne reste improductif et pour favoriser ainsi l'épargne, il sera également accepté de petites sommes à intérêts. Suivant le besoin, la société emprunte à des associés ou à d'autres personnes. Les sommes totales empruntées ne peuvent dépasser la limite du capital social fixé par l'assemblée générale.\n\nC. Emprunter et prêter dans les limites résultant des présents statuts, avec ou sans constitution d'hypothèque ou de privilège agricole, nantissement ou autres garanties; recevoir, à titre de dépôt ou en compte courant, des sommes destinées à produire intérêts, contracter des assurances sur la vie, s'en faire attribuer le bénéfice, les racheter.\n\nArt. 8. Chaque sociétaire reçoit un livret qui établit couramment son compte de mises. Le livret mentionne la dénomination sociale suivie des mots « société coopérative », les nom, prénoms, qualité et demeure du titulaire, la date de son admission, le tout signé par le titulaire et celui qui a la signature sociale. Le livret contient les statuts de la société. Chaque sociétaire ne peut souscrire qu'une part sociale.\n\nD. Consentir la mainlevée de toutes inscriptions hypothécaires ou de privilège agricole, de toutes saisies, transcriptions de commandements et oppositions, renoncer au privilège et à l'action résolutoire, dispenser le conservateur des hypothèques de prendre inscription d'office; consentir toutes subrogations, priorité et cessions de rang, stipuler toutes concurrences de rang, le tout avant comme après paiement.",
+    "entities": {
+      "time_period": [
+        "trois ans"
+      ],
+      "corporate_body": [
+        "assemblée générale",
+        "conseil d'administration",
+        "conseil"
+      ],
+      "legal_structure": [
+        "société coopérative"
+      ],
+      "legal_act": [
+        "dissolution"
+      ],
+      "corporate_position": [
+        "vice-président",
+        "président",
+        "associés-fondateurs",
+        "associés",
+        "membre",
+        "sociétaire"
+      ],
+      "share_class": [
+        "parts"
+      ],
+      "share_nominal_value": [
+        "1 franc"
+      ],
+      "capital_category": [
+        "capital social",
+        "fonds social"
+      ],
+      "number_of_shares": [
+        "une part sociale",
+        "une seule part"
+      ],
+      "date": [],
+      "organization_name": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Mme Leroux et M. Bernard ici représentés par M. Meunier, aux termes de leur procuration sous seing privé qui demeurera ci-annexée.\n\nM. Godat, représenté par M. Joly, aux termes de sa procuration sous seing privé qui demeurera ci-annexée.\n\nM. Brunet, represented by M. Montorier, under the terms of his power of attorney, which remains annexed herein.\n\nM. Giot, représenté par M. Occhslin, aux termes de sa procuration sous seing privé qui demeurera ci-annexé.\n\nLesquels, actionnaires de la Société anonyme d'Assurances et de Réassurances « Fidelitas », établie à Saint-Gilles-Bruxelles, constituée par acte de Mme Dupon, ayant résidé à Molenbeek-Saint-Jean, en date du vingt-cinq avril mil neuf cent deux, publié aux annexes du Moniteur belge du seize mai suivant, réunis en assemblée générale extraordinaire, nous ont requis de dresser acte des délibérations et décisions ci-après.\n\nPour copie conforme:\nLe président, Dr L. MEUNIER.\n\nLa séance est ouverte sous la présidence de M. Meunier, prénommé. MM. Joly et Ochalin sont désignés.\n\nVu conforme aux écritures:\nLe commissaire des comptes, OCCHSLIN.\n\nMM. Joly et Occhslin sont désignés comme scrutateurs, M. Montorier est nommé secrétaire.\n\nM. le président constate que la présente assemblée a été convoquée ce jour pour délibérer sur l'ordre du jour ci-après.\n\nEnregistré un rôle sans renvoi, à Saint-Gilles, le 22 juin 1909, volume 99, folio 56, case 14. Reçu 2 fr. 40 c. Le receveur, (signé)\nVan Themsehe.\n\nQue les avis de convocation ont été insérés au Moniteur belge, numéros des trente-un mai et sept juin mil neuf cent neuf.\n\nDans les journaux: le Messenger de Bruxelles, numéro des vingt-neuf mai et sept juin même année.\n\n(Déposé au greffe du tribunal de commerce de Bruxelles le 24 juin 1909.)\n\nLe Patriote, numéro des premier et huit juin même année.\n\n(55 lig.)",
+    "entities": {
+      "date": [
+        "22 juin 1909",
+        "24 juin 1909",
+        "vingt-cinq avril mil neuf cent deux",
+        "seize mai",
+        "sept juin",
+        "huit juin même année",
+        "sept juin mil neuf cent neuf",
+        "trente-un mai",
+        "vingt-neuf mai",
+        "n même année"
+      ],
+      "corporate_body": [
+        "assemblée générale extraordinaire"
+      ],
+      "legal_act": [
+        "procuration sous seing privé",
+        "power of attorney"
+      ],
+      "person": [
+        "Brunet",
+        "Montorier",
+        "Godat",
+        "Giot",
+        "Meunier",
+        "Joly",
+        "Bernard",
+        "Leroux",
+        "Occhslin",
+        "Dupon",
+        "L. MEUNIER",
+        "Ochalin",
+        "Van Themsehe",
+        "OCCHSLIN"
+      ],
+      "honorific_title": [
+        "Mme",
+        "M.",
+        "MM.",
+        "Dr"
+      ],
+      "corporate_position": [
+        "président",
+        "commissaire des comptes",
+        "secrétaire",
+        "scrutateurs",
+        "actionnaires"
+      ],
+      "city": [
+        "Molenbeek-Saint-Jean",
+        "Bruxelles",
+        "Saint-Gilles-Bruxelles",
+        "Saint-Gilles"
+      ],
+      "legal_structure": [
+        "Société anonyme",
+        "Moniteur belge"
+      ],
+      "organization_name": [
+        "Société anonyme d'Assurances et de Réassurances « Fidelitas »",
+        "tribunal de commerce de Bruxelles"
+      ],
+      "archive_reference": [
+        "volume 99, folio 56, case 14"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Il résulte d'un acte sous seing privé en date du 23 juin 1909, enregistré à Anvers (A. II. et A. S. S. P.), un rôle sans renvoi, le 25 juin 1909, volume 55, folio 4, case 3, au droit de 7 francs, par le receveur Van Damme, qu'il a été formé entre MM. Léonard Van Hoofstadt, commerçant, et Arthur La Croix, employé de commerce, tous deux à Anvers, une société en nom collectif sous la firme L. Van Hoofstadt & C°, successeurs de Guillaume Galler, avec siège à Merxem, ayant pour objet le commerce des vieux métaux et articles similaires.\n\nLa durée de la société est fixée à cinq ans et demi prenant cours le 1er juillet 1909; elle sera à l'expiration de ce terme continuée de plein droit de cinq en cinq ans, sauf renon.\n\nM. Léonard Van Hoofstadt susdit aura seul la gestion et la signature sociales.\n\nA LA CROIX\n\nL. VAN HOOFSTADT.\n\n(Déposé au greffe du tribunal de commerce d'Anvers le 26 juin 1909.)\n\n(=25 lig.)",
+    "entities": {
+      "date": [
+        "23 juin 1909",
+        "26 juin 1909",
+        "25 juin 1909",
+        "1er juillet 1909"
+      ],
+      "time_period": [
+        "cinq ans et demi"
+      ],
+      "organization_name": [
+        "L. Van Hoofstadt & C°",
+        "tribunal de commerce d'Anvers",
+        "Anvers (A. II. et A. S. S. P.)"
+      ],
+      "legal_structure": [
+        "société en nom collectif"
+      ],
+      "business_activity": [
+        "commerce des vieux métaux et articles similaires"
+      ],
+      "person": [
+        "Arthur La Croix",
+        "Léonard Van Hoofstadt",
+        "Guillaume Galler",
+        "Van Damme",
+        "A LA CROIX",
+        "L. VAN HOOFSTADT"
+      ],
+      "occupation": [
+        "commerçant",
+        "employé de commerce"
+      ],
+      "city": [
+        "Anvers",
+        "Merxem"
+      ],
+      "archive_reference": [
+        "volume 55, folio 4, case 3"
+      ],
+      "honorific_title": [
+        "MM",
+        "M."
+      ],
+      "legal_act": [
+        "enregistré",
+        "formé",
+        "Déposé"
+      ],
+      "corporate_position": [
+        "receveur"
+      ],
+      "office_type": [
+        "siège"
+      ],
+      "corporate_body": [],
+      "deed_number": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Pour la libération des actions souscrites ou à souscrire éventuellement, le conseil d'administration fera les appels de fonds et fixera les époques de versement avec préavis de quinze jours. Le versement non effectué à cette date produira de plein droit l'intérêt légal. En cas de non paiement, quinze jours après la mise en demeure par lettre recommandée, le conseil d'administration pourra, sans préjudice à ses autres droits, vendre, pour compte de l'actionnaire défaillant, en Bourse, les actions inscrites en son nom.",
+    "entities": {
+      "time_period": [
+        "quinze jours"
+      ],
+      "corporate_body": [
+        "conseil d'administration"
+      ],
+      "legal_act": [
+        "appels de fonds"
+      ],
+      "corporate_position": [
+        "actionnaire"
+      ],
+      "date": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "In principle, the balance sheet's liabilities will include all social engagements; the securities deposited as collateral or as guarantee, as well as the rediscounted bills, will be recorded in both the assets and the liabilities.",
+    "entities": {
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art. 34. Lors de la dissolution de la société, soit par anticipation, soit à l'expiration de sa durée, soit pour toute autre cause, la liquidation s'opérera par un ou plusieurs liquidateurs nommés par l'assemblée générale qui déterminera leurs pouvoirs.",
+    "entities": {
+      "corporate_body": [
+        "assemblée générale"
+      ],
+      "legal_act": [
+        "la liquidation",
+        "dissolution"
+      ],
+      "corporate_position": [
+        "liquidateurs"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Extrait du procès-verbal de l'assemblée générale ordinaire du 16 juin 1909.",
+    "entities": {
+      "date": [
+        "16 juin 1909"
+      ],
+      "corporate_body": [
+        "assemblée générale ordinaire"
+      ],
+      "legal_act": [
+        "procès-verbal"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Agissant valablement en conseil d'administration dont ils forment l'intégralité, pour et au nom de la dite société.\n\nLesquels comparants, ès qualité, préalablement à ce qui fait l'objet des présentes, ont exposé:\n\nI. Que suivant procès-verbal dressé par Me Edouard Van Halteren, notaire à Bruxelles, soussigné, le vingt-six avril mil neuf cent neuf, l'assemblée générale extraordinaire des actionnaires de la Société anonyme des Ateliers Nicaise et Delcuve, a:\n\n1° Décidé la fusion de la société dans la Société anonyme des Ateliers de Construction du Nord de la France.\n\n2° Donné au conseil d'administration tous pouvoirs et autorisations nécessaires à l'effet de réaliser cette fusion et notamment de faire apport à la société française de tout l'avoir mobilier et immobilier de la Société anonyme des Ateliers Nicaise et Delcove, déduction faite de son passif à l'égard des tiers.\n\n3° Prononcé la dissolution et la mise en liquidation de la société pour l'éventualité où serait définitivement réalisé l'apport-fusion susvisé.\n\n4° Donné pouvoir au conseil d'administration pour faire la déclaration authentique, dans la forme légale, de la réalisation de cette éventualité et rendre ainsi définitives les dites dissolution et mise en liquidation.\n\n5° Nommé, pour le cas de la réalisation de la condition indiquée plus haut, en qualité de liquidateurs, les comparants: M. Louis Tabutaut, M. Emile Glibert-Delcuve et M. Charles Nicaise, avec les pouvoirs les plus étendus résultant de la loi pour la liquidation de la société, en ce compris ceux visés par l'article cent dix-huit de cette loi et spécialement les pouvoirs les plus étendus pour échanger ou réaliser les actions et parts de fondateur à recevoir en échange de l'apport.\n\nII. Que l'apport dont s'agit et tel qu'il a été autorisé a été effectué le vingt-six mai mil neuf cent neuf et que l'assemblée générale extraordinaire des actionnaires de la Société anonyme des Ateliers de Construction du Nord de la France, tenue le trois juin mil neuf cent neuf, a approuvé purement et simplement cet apport.",
+    "entities": {
+      "date": [
+        "trois juin mil neuf cent neuf",
+        "vingt-six avril mil neuf cent neuf",
+        "vingt-six mai mil neuf cent neuf"
+      ],
+      "organization_name": [
+        "Société anonyme des Ateliers Nicaise et Delcuve",
+        "Société anonyme des Ateliers Nicaise et Delcove",
+        "Société anonyme des Ateliers de Construction du Nord de la France"
+      ],
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée générale extraordinaire des actionnaires"
+      ],
+      "legal_act": [
+        "dissolution",
+        "liquidation",
+        "procès-verbal",
+        "fusion",
+        "apport-fusion"
+      ],
+      "person": [
+        "Charles Nicaise",
+        "Edouard Van Halteren",
+        "Louis Tabutaut",
+        "Emile Glibert-Delcuve"
+      ],
+      "honorific_title": [
+        "Me"
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "corporate_position": [
+        "liquidateurs",
+        "comparants"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "legal_structure": [
+        "société",
+        "société française"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art. 26. L'excédent favorable du bilan, après déduction des frais généraux, dépenses, charges et amortissements pour moins-value et après augmentation pour plus-value, le cas échéant, forme le bénéfice net de la société.\n\n4° M. Jules Goethals-Marin, propriétaire, demeurant à Bruxelles, rue d'Arlon, numéro 75.\n\n2° Mme Elisa Goethals, sans profession, et son époux qui l'assiste et l'autorise M. Isidore Maus, directeur général au ministère de la justice, demeurant à Bruxelles, rue Philippe-le-Bon, numéro 22.\n\nArt. 27. Sur le bénéfice net il prélève cinq pour cent qui seront affectés à la formation d'un fonds de réserve.\n\n« M. et Mme Maus, mariés sous le régime de la communauté d'acquêts sans stipulation de remploi, ni clause spéciale restrictive de la capacité civile de l'épouse, ainsi qu'il résulte de leur contrat de mariage reçu par Mme Lecocq, notaire à Bruxelles, le dix-neuf juillet mil huit cent nonante-neuf. »\n\nCe prélèvement cessera lorsque le fonds de réserve aura atteint le dixième du capital social, sauf décision de l'assemblée générale.\n\ndixième du capital social, sauf décision de l'assemblée générale.\nIl sera prélevé ensuite une somme nécessaire pour payer aux actionnaires six pour cent sur le montant de la libération des actions qu'ils possèdent.\n\n5e Mme Jeanne Goethals, sans profession, et son époux qui l'assiste et l'autorise M. Albert Joly, juge au tribunal de première instance à Bruxelles, demeurant à Bruxelles, rue de la Grosse-Tour, numéro 8.\n\nLe restant est réparti comme suit:\n\nLe restant est réparti comme suit:\nVingt pour cent aux membres du conseil d'administration, y compris\n\nRECUEIL DES ACTES DES SOCIÉTÉS COMMERCIALES. — 3e TRIM. 1909.",
+    "entities": {
+      "date": [
+        "dix-neuf juillet mil huit cent nonante-neuf",
+        "1909"
+      ],
+      "corporate_body": [
+        "assemblée générale",
+        "conseil d'administration"
+      ],
+      "legal_act": [
+        "contrat de mariage"
+      ],
+      "person": [
+        "Isidore Maus",
+        "Elisa Goethals",
+        "Albert Joly",
+        "Jeanne Goethals",
+        "Jules Goethals-Marin",
+        "Lecocq",
+        "Maus"
+      ],
+      "honorific_title": [
+        "Mme",
+        "M."
+      ],
+      "occupation": [
+        "notaire",
+        "juge",
+        "propriétaire",
+        "directeur général au ministère de la justice"
+      ],
+      "capital_category": [
+        "capital social",
+        "fonds de réserve"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "street_address": [
+        "rue de la Grosse-Tour, numéro 8",
+        "rue Philippe-le-Bon, numéro 22",
+        "rue d'Arlon, numéro 75"
+      ],
+      "corporate_position": [
+        "actionnaires"
+      ],
+      "legal_structure": [
+        "SOCIÉTÉS COMMERCIALES"
+      ],
+      "organization_name": [
+        "tribunal de première instance à Bruxelles"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "qui sont nommés par l'assemblée générale.\nLes commissaires sont nommés pour un terme de trois ans, ils sont rééligibles.",
+    "entities": {
+      "time_period": [
+        "trois ans"
+      ],
+      "corporate_body": [
+        "assemblée générale"
+      ],
+      "corporate_position": [
+        "commissaires"
+      ],
+      "legal_act": [
+        "nommés"
+      ],
+      "date": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "L'an mil neuf cent et neuf, le vingt-quatre juin.\n\nPar-devant nous Mme Frédéric-Auguste Gheysens, notaire à Anvers.",
+    "entities": {
+      "person": [
+        "Frédéric-Auguste Gheysens"
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "city": [
+        "Anvers"
+      ],
+      "date": [
+        "an mil neuf cent et neuf",
+        "vingt-quatre juin"
+      ],
+      "honorific_title": [
+        "Mme"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Bon pouvoir pouvoir, (signé) Dr Ernst Springer.\n\nEnregistré à Bruxelles (Est), le 1er juillet 1909, volume 208, folio 69, case 15. Un rôle sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) Perpète.\n\nL'an mil neuf cent neuf, le vingt-six juin.\n\nL'an mil neuf cent neuf, le vingt-six juin.\nPar-devant M. Alfred Ectors, notaire résidant à Bruxelles, assisté des sieurs Edmond Keyaerts et François Duysan, demeurant tous les deux à Bruxelles, témoins requis.\n\nPour expédition conforme Le notaire,\n(Signé) ALFRED ECTORS.\n\nOnt comparu:\n\n(Déposé au greffe du tribunal de commerce de Bruxelles le 2 juillet 1909.)\n\n1. M. Siegmund Breuer, commerçant, demeurant à Vienne, Markegasse, numéro 5.\n\n(80 lig.)\n\n2. M. Prosper Gloner, commerçant, demeurant à Uccle, avenue Brugmann, numéro 452, et domicilié à Berlin.\n\n3. M. Eugène de Boschan, avocat, demeurant à Vienne, Oppolzergasse, numéro 4, ici représenté par M. Breuer, préqualifié, en vertu de sa procuration sous seing privé en date du vingt-quatre juin courant mois.",
+    "entities": {
+      "date": [
+        "an mil neuf cent neuf, le vingt-six juin",
+        "1er juillet 1909",
+        "2 juillet 1909",
+        "vingt-quatre juin"
+      ],
+      "person": [
+        "François Duysan",
+        "Edmond Keyaerts",
+        "ALFRED ECTORS",
+        "Siegmund Breuer",
+        "Alfred Ectors",
+        "Eugène de Boschan",
+        "Ernst Springer",
+        "Prosper Gloner",
+        "Breuer"
+      ],
+      "honorific_title": [
+        "M.",
+        "Dr",
+        "sieurs"
+      ],
+      "occupation": [
+        "avocat",
+        "commerçant",
+        "notaire"
+      ],
+      "city": [
+        "Bruxelles",
+        "Bruxelles (Est)",
+        "Uccle",
+        "Vienne",
+        "Berlin"
+      ],
+      "street_address": [
+        "avenue Brugmann, numéro 452",
+        "Markegasse, numéro 5",
+        "Oppolzergasse, numéro 4"
+      ],
+      "archive_reference": [
+        "volume 208, folio 69, case 15"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "corporate_position": [
+        "receveur"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "La société aura une durée de dix années consécutives à compter du 1er juin 1909\n\nLa gestion des affaires sera faite par les deux premiers soussignés. Ils auront la signature sociale, mais seulement pour les affaires courantes de la société. Si une opération à conclure avait une valeur supérieure à quatre mille francs, il faudra l'accord écrit des trois associés pour engager valablement la société. Pour tout retrait de fonds à la banque, il faudra la signature de deux associés au moins, dont celle de M. Buysschaert, Léon, en tous cas. Tous les chèques indistinctement devront porter la signature de ce dernier pour être valables.\n\nExtrait du procès-verbal de l'assemblée générale ordinaire des actionnaires du 21 juin 1909.\n\nFait en triple à Bruxelles, le vingt juin 1909.\n\n(Signé) E. WILLEMYS; J MULDERS; L. BUYSSCHAERT.\n\n... M. G. Van der Hofstadt est nommé administrateur en remplacement de M. Ruelle, administrateur sortant.\n\nEnregistré à Bruxelles (A. J. P. et A. S. S. P.), le 24 juin 1909, volume 492, folio 9, case 7. Deux rôles sans renvoi. Reçu pour enregistrement 9 fr. 40 c. Le receveur, (signé) Nols.\n\nL'assemblée décide de réduire à un le nombre des commissaires et, en conséquence, de ne pas pourvoir au remplacement de M. Mouvet, commissaire sortant.\n\nPou copie conforme:\n\n(Déposé au greffe du tribunal de commerce de Bruxelles le 30 juin 1909.)\n\nUn administrateur,\n(Signature illisible.)\n\n(30 lig.)",
+    "entities": {
+      "date": [
+        "30 juin 1909",
+        "21 juin 1909",
+        "24 juin 1909",
+        "vingt juin 1909",
+        "1er juin 1909"
+      ],
+      "time_period": [
+        "dix années"
+      ],
+      "corporate_body": [
+        "assemblée générale ordinaire"
+      ],
+      "archive_reference": [
+        "volume 492, folio 9, case 7"
+      ],
+      "person": [
+        "J MULDERS",
+        "E. WILLEMYS",
+        "Ruelle",
+        "Buysschaert, Léon,",
+        "G. Van der Hofstadt",
+        "Mouvet",
+        "L. BUYSSCHAERT",
+        "Nols"
+      ],
+      "honorific_title": [
+        "M."
+      ],
+      "corporate_position": [
+        "administrateur",
+        "commissaire",
+        "actionnaires",
+        "receveur"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "share_nominal_value": [
+        "quatre mille francs"
+      ],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Les premiers administrateurs sont nommés pour un terme expirant après l'assemblée générale annuelle de mil neuf cent quatorze.\n\nAt this assembly, the council will be renewed; then one of its members will leave each year. The order of departure will be determined by lot. This order of departure will be established, if there are more than six administrators, in such a way that by one or several double departures, no administrator's term exceeds six years.\n\nLes administrateurs sortants sont rééligibles.\n\nEn dehors du tantième prévu à l'article trente-cinq, l'assemblée générale peut attribuer des émoluments fixes aux membres du conseil d'administration.\n\nChaque administrateur doit affecter dix actions privilégiées ou ordinaires ou vingt parts de fondateur à la garantie de sa gestion. Ce cautionnement ne peut être restitué qu'après décharge donnée par l'approbation du bilan de l'exercice pendant lequel les fonctions ont été exercées.\n\nArt. 14. Les administrateurs sont nommés et révocables par l'assemblée générale.\n\nIn case of vacancy of an administrative position, the remaining administrators and the commissioners together may provisionally fill it.\n\nSur chacune de ces actions il a été fait, en présence du notaire et des témoins soussignés, un versement en numéraire de dix pour cent et le montant de ces versements, s'élevant à la somme de vingt mille francs, est dès à présent à la libre disposition de la société, ainsi que tous les comparants le déclarent et le reconnaissent.\n\nDans ce cas l'assemblée générale, lors de sa prochaine réunion, procédera à l'élection définitive.\n\nL'administrateur désigné en remplacement d'un autre est nommé pour une durée égale à celle du mandat restant de celui qu'il remplace.\n\nArt. 15. Le conseil d'administration élit un président parmi ses membres. En cas d'absence du président, le conseil désigne un de ses membres pour le remplacer.\n\nLes versements complémentaires seront appelés par le conseil d'administration à mesure des besoins sociaux et par voie de lettre recommandée adressée à chaque actionnaire nominatif.\n\nArt. 16. Le conseil d'administration se réunit aussi souvent que les intérêts de la société l'exigent, sur la convocation du président ou de l'administrateur qui le remplace, à l'endroit qui sera désigné à cet effet.\n\nA défaut de paiement à l'échéance fixée, l'intérêt sera dû de plein droit et sans mise en demeure au taux de six pour cent l'an, à dater du jour de l'exigibilité.\n\nIl doit être convoqué, lorsque deux administrateurs au moins le demandent.\n\nTout actionnaire aura le droit de libérer ses titres anticipativement.\n\nArt. 7. Si le versement appelé n'est pas effectué à la date fixée, la société aura, moyennant mise en demeure par lettre recommandée, le droit pour se couvrir des sommes qui lui seraient dues de ce chef, soit de faire vendre les titres en retard de versement, soit de réclamer judiciairement le paiement de ces sommes, soit de recourir à cet effet à tous autres moyens de droit.\n\nLe conseil d'administration peut décider qu'il y aura des réunions à date fixe, sans convocation spéciale.\n\nArt. 17. Le conseil d'administration ne peut délibérer que si la majorité de ses membres est présente ou représentée.\n\nChaque administrateur peut, même par voie postale ou télégraphique, déléguer un autre membre du conseil pour le représenter et voter en son lieu et place. Toutefois aucun administrateur ne pourra disposer de plus de deux voix, y compris la sienne.\n\nArt. 8. Les actions restent nominatives jusqu'à leur entière libération\n\nArt. 9. Les actions privilégiées entièrement libérées, les actions ordinaires et les parts de fondateur sont au porteur. Elles sont signées par deux administrateurs. L'une des signatures peut être apposée au moyen d'une griffe.\n\nLes résolutions sont prises à la majorité des voix. En cas de parité des voix, celle du président de la réunion est prépondérante.\n\nArt. 18. Les décisions du conseil d'administration sont constatées par des procès-verbaux inscrits dans un registre spécial tenu au siège de la société et signés par la majorité au moins des membres ayant pris part à la délibération.\n\nLa cession s'en opère par la seule tradition du titre.\n\nArt. 10. Les actionnaires ne sont tenus que pour le montant des actions qu'ils possèdent.\n\nArt. 11. Le capital social peut être augmenté ou réduit en une ou plusieurs fois par décision de l'assemblée générale, délibérant comme en matière de changement aux statuts.\n\nLes copies ou extraits de ces procès-verbaux à produire en justice ou ailleurs sont signés par un administrateur.\n\nArt. 19. Le conseil d'administration est investi des pouvoirs les plus étendus pour la réalisation de l'objet social ainsi que pour l'administration et la gestion de la société. Tout ce qui n'est pas réservé à l'assemblée générale par les statuts est de sa compétence.\n\nLe conseil d'administration détermine les conditions d'émission des actions créées en augmentation du capital.\n\nToutefois, par dérogation à ce qui précède, le capital peut être augmenté et porté à un million de francs, en une ou plusieurs fois, sur simple décision du conseil d'administration, par la création d'actions privilégiées du même type que les quatre cents actions privilégiées qui viennent d'être créées.\n\nNotamment:\n\nIl peut, au nom de la société ou au nom de tiers mais pour compte de la société, pratiquer toutes opérations sociales, acquérir toutes concessions ainsi que tous biens, meubles et immeubles, aliéner ses concessions et biens, de même que les concessions et biens apportés, en faire apport à une autre société, constituer et accepter toutes hypothèques, consentir et renoncer à tous droits réels, donner toutes mainlevées d'inscriptions hypothécaires ou autres, de transcription, d'oppositions et de saisies, le tout avec ou sans paiement.\n\nIn no circumstance can the number of founder shares be increased, except in accordance with article thirty-five of the statutes.\n\nArt. 12 La société ne reconnaît qu'un seul propriétaire par action ou part de fondateur. S'il y a plusieurs propriétaires, la société a le droit de suspendre l'exercice des droits y afférents jusqu'à ce qu'une seule personne soit désignée comme étant propriétaire à son égard.\n\nIl peut emprunter, à court ou à long terme, même par voie d'obligations au porteur. Celles-ci seront signées par deux administrateurs; l'une des deux signatures pouvant être apposée au moyen d'une griffe, compromettre et transiger sur tous intérêts sociaux.\n\nLes droits et obligations attachés à une action ou part suivent le titre, dans quelque main qu'il passe.\n\nLa possession d'une action ou part emporte l'adhésion aux statuts sociaux.\n\nLe conseil d'administration peut déléguer des pouvoirs spéciaux et déterminés à un ou plusieurs de ses membres ou à des tiers; il fixe les émoluments à attacher à ces délégations.\n\nLes héritiers ou créanciers d'un actionnaire ne peuvent, sous quelque prétexte que ce soit, provoquer l'apposition des scellés sur les biens ou valeurs de la société. Ils doivent, pour l'exercice de leurs droits, s'en rapporter aux bilans sociaux et aux délibérations du conseil d'administration et de l'assemblée générale.\n\nIl nomme et révoque le directeur, les agents et employés de la société, détermine leurs attributions, fixe leur traitement et, s'il y a lieu, leur cautionnement.",
+    "entities": {
+      "date": [
+        "mil neuf cent quatorze"
+      ],
+      "time_period": [
+        "six years"
+      ],
+      "legal_structure": [
+        "société"
+      ],
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée générale",
+        "assembly",
+        "conseil"
+      ],
+      "legal_act": [
+        "cession",
+        "order of departure",
+        "procès-verbaux",
+        "élection définitive"
+      ],
+      "corporate_position": [
+        "président",
+        "directeur",
+        "administrateur",
+        "commissioners",
+        "administrator",
+        "administrateurs",
+        "actionnaires",
+        "comparants",
+        "actionnaire",
+        "membre du conseil",
+        "administrators",
+        "agents et employés"
+      ],
+      "share_class": [
+        "parts de fondateur",
+        "actions privilégiées",
+        "actions ordinaires",
+        "part de fondateur",
+        "ordinaires",
+        "actions",
+        "actions privilégiées entièrement libérées",
+        "founder shares",
+        "obligations au porteur",
+        "action",
+        "part",
+        "privilégiées",
+        "de fondateur"
+      ],
+      "capital_category": [
+        "capital social"
+      ],
+      "occupation": [
+        "notaire",
+        "témoins"
+      ],
+      "number_of_shares": [
+        "dix actions",
+        "vingt parts",
+        "quatre cents actions"
+      ],
+      "business_activity": [
+        "pratiquer toutes opérations sociales, acquérir toutes concessions ainsi que tous biens, meubles et immeubles, aliéner ses concessions et biens, de même que les concessions et biens apportés, en faire apport à une autre société, constituer et accepter toutes hypothèques, consentir et renoncer à tous droits réels, donner toutes mainlevées d'inscriptions hypothécaires ou autres, de transcription, d'oppositions et de saisies, le tout avec ou sans paiement"
+      ],
+      "organization_name": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Publié en conformité de l'article 40 de la loi du 18 mai 1873, modifiée par celle du 22 mai 1886. (Titre IX, livre Ier, du Code de commerce.)",
+    "entities": {
+      "date": [
+        "22 mai 1886",
+        "18 mai 1873"
+      ],
+      "legal_act": [
+        "Publié"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Cette résolution est adoptée par l'assemblée à l'unanimité des voix.",
+    "entities": {
+      "organization_name": [
+        "assemblée"
+      ],
+      "legal_act": [
+        "résolution"
+      ],
+      "date": [],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "L'an mil neuf cent et neuf, le vingt-six juin.\n\nDevant Mmes Ferdinand Detienne et Georges Laurend, notaires à Liège.\n\nLa mise en liquidation de la société pourra toutefois être rapportée au cas où les négociations avec une autre société n'aboutiraient pas.\n\nOnt comparu:\n\nLes liquidateurs auront les pouvoirs les plus étendus, ils pourront signer soit ensemble, soit séparément, tout ce qui concerne la dite société.\n\n1. Le Comptoir Musin, société anonyme, établie à Liège, dissoute par l'assemblée générale extraordinaire des actionnaires tenue le dix mai dernier devant le notaire Laurend, soussigné, et dont le procès-verbal a été publié aux annexes du Moniteur, le vingt-neuf suivant, sous le numéro 5573.\n\nDont acte fait et passé à Liège, rue des Dominicains, 44, le quinze juin mil neuf cent neuf, en présence de MM. Henri Mulkay et Lambert Mulkay, domiciliés l'un et l'autre à Liège, témoins requis.\n\nLa dite société est ici représentée par ses liquidateurs nommés par la même assemblée, savoir:\n\nAprès lecture, les comparants, les témoins et le notaire ont signé.\n\nM. Joseph Janssen, industriel à Liège.\n\n(Suivent les signatures.)\n\nM. Emile Descamps-Vapart, industriel à Bruxelles.\n\nM. Oscar Musin, propriétaire à Liège.\n\nEnregistré à Liège (Saint-Nicolas), le 23 juin 1909, volume 268, folio 11. case 5. Deux rôles deux renvois. Reçu 7 francs. Le receveur, (signé) Ad. Martin.\n\nM. Jules Beauduin, industriel à Rosoux-Goyer.\n\nChevalier Charles de Thier-Ziane, industriel à Liège.\n\nEt M. Joseph Hogge-Fort, avocat à Liège.\n\nSuit la procuration:\n\nUn extrait du procès-verbal de l'assemblée du dix mai est annexé à l'acte de constitution avenu ce jour devant les notaires soussignés.\n\nJe soussigné, Laurent Legrand, professeur à l'université de Liège, demeurant à Liège, avenue de l'Exposition, numéro 15, propriétaire de quatre actions privilégiées et cinq actions ordinaires de la société anonyme dénommée Maison de Change Fontaine et Cie, à Liège, déclare, par les présentes, donner pleins et entiers pouvoirs à M. Rodolphe Germaux, docteur en droit, demeurant à Liège, à l'effet de me représenter à l'assemblée extraordinaire de la dite société, convoquée pour le quinze juin mil neuf cent neuf; y prendre part à toutes délibérations et émettre tous votes, comme si j'y étais moi-même, déclarant tout ratifier.\n\n2. La Maison de Change Fontaine et Cie, société anonyme, à Liège.\nDissoute par décision de l'assemblée générale extraordinaire prise devant Mme Lecampe, notaire à Saint-Nicolas lez-Liège, le quinze juin cou-\n\nUne expédition de ce procès-verbal est annexée à l'acte de constitution aveu devant les notaires soussignés, sous la date de ce jour.\n\nLa dite société est ici représentée par ses liquidateurs MM. Benjamin Fontaine, agent de change à Liège, et Georges Pirard, avocat à Trooz, nommés tous deux par la même assemblée.\n\nLiège, le quatorze juin 1900 neuf.\n\n3. La société en commandite simple G. Bosson et Cie, établie à Bruxelles.\nDissoute par acte sous seing privé du vingt-quatre juin courant, pour laquelle est ici présent son liquidateur M. Georges Bosson, agent de change, demeurant à Bruxelles.\n\nBon pour procuration, (signé) L. LEGRAND.\n\nEnregistré à Liège (Saint-Nicolas), le 23 juin 1909, volume 39, folio 28, case 17. Un rôle sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) Ad. Martin.\n\nLe dit acte sous seing privé est annexé à l'acte de constitution reçu ce jour par les notaires soussignés.\n\nPour expédition conforme:\n(Signé) LECAMPE.\n\n4. M. Georges Bosson, prénommé, en nom personnel.\n\n5. M. Benjamin Fontaine, prénommé, en nom personnel.\n\n6. M. Georges Pirard, prénommé, en nom personne\n\n3. Entre les soussignés:\n\n7. M. Rodolphe Germaux, docteur en droit, demeurant à Liège.\n\nM. Georges Bosson, agent de change à Bruxelles, associé commandité\n\n8. M. Laurent Legrand, professeur à l'université, demeurant à Liège.\nLesquels forment l'unanimité des membres de la société anonyme Caisse liégeoise de Change et de Banque, établie à Liège, constituée par acte reçu ce jour par les notaires soussignés et qui sera enregistré avec les présentes.\n\nM. Jules Ancion, à Liège.\n\nM. Jean Herve, à Trooz.\n\nM. Gustave Lhoest, à Liège.\n\nMme Bosson-Vincent, à Bruxelles, autorisée aux fins des présentes par son mari soussigné.\n\nRéunis en assemblée générale extraordinaire, en vertu de l'article 51 des statuts, sous la présidence de M. Germaux, commissaire.\n\nCes quatre derniers commanditaires.\n\nIl a été convenu ce qui suit:\n\nOnt fixé à huit le nombre des administrateurs, et appelé à ces fonctions: MM. Joseph Janssen, Jules Beauduin, Oscar Musin, Emile Descamps-Vapart, chevalier Charles de Thier-Ziane, Georges Bosson, Benjamin Fontaine et Georges Pirard.\n\nLa société en commandite simple G. Bosson et Cie, constituée à Bruxelles par acte sous seing privé en date du 28 (vingt-huit) juin 1906, enregistrée à Bruxelles, le 4 juillet 1906, volume 459, folio 69, case 4, sera dissoute à partir du 25 juin 1909.\n\nTous prénommés.\n\nM. Georges Bosson est chargé de la liquidation. Il est autorisé spéciale-\n\nCes résolutions sont prises à l'unanimité; la séance continue.\n\nANNÉE DES ACTES DES SOCIÉTÉS COMMERCIALES. 2e TRIM. 1900.",
+    "entities": {
+      "date": [
+        "23 juin 1909",
+        "4 juillet 1906",
+        "quatorze juin 1900",
+        "25 juin 1909",
+        "dix mai",
+        "vingt-quatre juin",
+        "mil neuf cent et neuf, le vingt-six juin",
+        "quinze juin",
+        "quinze juin mil neuf cent neuf",
+        "28 (vingt-huit) juin 1906",
+        "1900"
+      ],
+      "organization_name": [
+        "Maison de Change Fontaine et Cie",
+        "Caisse liégeoise de Change et de Banque",
+        "Le Comptoir Musin",
+        "G. Bosson et Cie"
+      ],
+      "corporate_body": [
+        "assemblée générale extraordinaire",
+        "assemblée extraordinaire",
+        "assemblée"
+      ],
+      "legal_structure": [
+        "société anonyme",
+        "SOCIÉTÉS COMMERCIALES",
+        "La société en commandite simple"
+      ],
+      "legal_act": [
+        "liquidation",
+        "en liquidation",
+        "procès-verbal",
+        "constitution",
+        "résolutions"
+      ],
+      "deed_number": [
+        "numéro 5573"
+      ],
+      "person": [
+        "Laurent Legrand",
+        "Georges Pirard",
+        "Emile Descamps-Vapart",
+        "Benjamin Fontaine",
+        "Lambert Mulkay",
+        "Oscar Musin",
+        "Rodolphe Germaux",
+        "Jules Beauduin",
+        "Joseph Janssen",
+        "Georges Bosson",
+        "Gustave Lhoest",
+        "chevalier Charles de Thier-Ziane",
+        "Georges Laurend",
+        "Jules Ancion",
+        "Jean Herve",
+        "Ferdinand Detienne",
+        "Henri Mulkay",
+        "Joseph Hogge-Fort",
+        "Charles de Thier-Ziane",
+        "Mme Bosson-Vincent",
+        "Mme Lecampe",
+        "Ad. Martin",
+        "Laurend",
+        "L. LEGRAND",
+        "LECAMPE",
+        "Germaux"
+      ],
+      "honorific_title": [
+        "MM.",
+        "M.",
+        "Mme",
+        "M",
+        "chevalier",
+        "Mmes"
+      ],
+      "occupation": [
+        "avocat",
+        "industriel",
+        "professeur",
+        "agent de change",
+        "propriétaire",
+        "professeur à l'université",
+        "docteur en droit",
+        "notaire",
+        "notaires"
+      ],
+      "corporate_position": [
+        "commissaire",
+        "administrateurs",
+        "notaire",
+        "liquidateur",
+        "liquidateurs",
+        "actionnaires",
+        "receveur",
+        "associé commandité",
+        "présidence",
+        "commanditaires"
+      ],
+      "share_class": [
+        "actions privilégiées",
+        "actions ordinaires"
+      ],
+      "city": [
+        "Liège",
+        "Bruxelles",
+        "Trooz",
+        "Rosoux-Goyer",
+        "Saint-Nicolas",
+        "lez-Liège"
+      ],
+      "street_address": [
+        "avenue de l'Exposition, numéro 15",
+        "rue des Dominicains, 44"
+      ],
+      "archive_reference": [
+        "volume 268, folio 11. case 5",
+        "volume 39, folio 28, case 17",
+        "volume 459, folio 69, case 4"
+      ],
+      "number_of_shares": [
+        "quatre actions",
+        "cinq actions"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Enregistré à Verviers (A. C.), le 19 juin 1909, volume 457, folio 25, case 7. Trois rôles et deux renvois. Reçu 7 francs. Le receveur, (signé) Houchard.",
+    "entities": {
+      "date": [
+        "19 juin 1909"
+      ],
+      "person": [
+        "Houchard"
+      ],
+      "city": [
+        "Verviers"
+      ],
+      "archive_reference": [
+        "volume 457, folio 25, case 7"
+      ],
+      "occupation": [
+        "receveur"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "honorific_title": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "droit de sept francs, par le receveur Lenger, est dissoute à partir du dix juin 1909 et que sa liquidation en est confiée aux trois associés MM. Théodore Pittoors, industriel, domicilié à Bruxelles, Clément Beaupain et Frédéric Heller, ces deux derniers industriels, domiciliés à Verviers.",
+    "entities": {
+      "date": [
+        "dix juin 1909"
+      ],
+      "legal_act": [
+        "liquidation"
+      ],
+      "person": [
+        "Frédéric Heller",
+        "Clément Beaupain",
+        "Théodore Pittoors",
+        "Lenger"
+      ],
+      "honorific_title": [
+        "MM."
+      ],
+      "occupation": [
+        "industriel",
+        "industriels"
+      ],
+      "city": [
+        "Verviers",
+        "Bruxelles"
+      ],
+      "share_nominal_value": [
+        "sept francs"
+      ],
+      "corporate_position": [
+        "associés",
+        "receveur"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "41, rue de Russie.",
+    "entities": {
+      "street_address": [
+        "41, rue de Russie"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Enregistré à Anvers (Sud), le 22 juin 1909, volume 69, folio 3, case 4.\nUn rôle et sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) De Backer.\n\npar elle-même, soit indirectement en fondant, patronnant ou organisant toutes succursales, filiales ou entreprises, ayant l'une ou l'autre de ces affaires pour objet, ou en s'y intéressant par voie de cession, association, souscription, achat de titres, fusion, apport, commandite, participation ou intervention financière généralement quelconque.\n\nJe soussigné, Victor-Hubert-Désiré de Caritat de Peruzzis, industriel, domicilié à Roosendaal (Brabant septentrional), déclare, par la présente, donner pouvoir à M. Alfred Breuls, domicilié à Louvain, à l'effet de voter pour moi sur les points à l'ordre du jour de l'assemblée générale extraordinaire de la « Caucasian Manganèse C° Ltd », laquelle assemblée aura lieu le 15 juin prochain, à 15 heures, à l'Hôtel de l'Empereur, place de Meir, à Anvers.\n\nAccessoirement la société pourra en outre se livrer à l'achat et la vente de toute marchandise généralement quelconque, soit directement et en son nom, soit indirectement comme agent à la commission; exploiter tout genre de brevet et fabriquer ou faire fabriquer tout ce qui est nécessaire à l'exploitation de brevets éventuels.\n\nToutefois, il est strictement défendu à la société de se livrer à n'importe quelle affaire ou entreprise spéculative ou ayant un but spéculatif. Il doit par là être entendu que tout achat ou vente de marchandises ou autre doit toujours être couvert réciproquement tant à l'achat qu'à la vente.\n\nBruxelles, 12 juin 1909.\n\n(Signé) VICTOR DE CARITAT DE PERUZZIS.\n\nParaphé pour annexe à un procès-verbal d'assemblée générale dressé par le notaire Charles Leclerf, notaire à Anvers, en date du 15 juin 1909.\n(Suivent les paraphes.)\n\nArt. 4. La société est constituée pour une durée de trente ans, prenant cours à dater de ce jour. Elle pourra être prorogée successivement. En tout temps elle pourra être dissoute anticipativement.\n\nEnregistré à Anvers (Sud), le 22 juin 1909, volume 69, folio 3, case 4.\nUn rôle et sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) De Backer.",
+    "entities": {
+      "date": [
+        "22 juin 1909",
+        "12 juin 1909",
+        "15 juin 1909",
+        "15 juin prochain"
+      ],
+      "time_period": [
+        "trente ans",
+        "15 heures"
+      ],
+      "organization_name": [
+        "Caucasian Manganèse C° Ltd"
+      ],
+      "corporate_body": [
+        "assemblée générale extraordinaire",
+        "assemblée générale"
+      ],
+      "business_activity": [
+        "l'achat et la vente de toute marchandise généralement quelconque, soit directement et en son nom, soit indirectement comme agent à la commission; exploiter tout genre de brevet et fabriquer ou faire fabriquer tout ce qui est nécessaire à l'exploitation de brevets éventuels",
+        "ondant, patronnant ou organisant toutes succursales, filiales ou entreprises"
+      ],
+      "person": [
+        "Charles Leclerf",
+        "Alfred Breuls",
+        "Victor-Hubert-Désiré de Caritat de Peruzzis",
+        "De Backer",
+        "VICTOR DE CARITAT DE PERUZZIS"
+      ],
+      "honorific_title": [
+        "M."
+      ],
+      "occupation": [
+        "industriel",
+        "notaire",
+        "receveur"
+      ],
+      "city": [
+        "Anvers",
+        "Louvain",
+        "Bruxelles",
+        "Roosendaal"
+      ],
+      "street_address": [
+        "place de Meir"
+      ],
+      "building_name": [
+        "Hôtel de l'Empereur"
+      ],
+      "archive_reference": [
+        "volume 69, folio 3, case 4"
+      ],
+      "share_nominal_value": [
+        "2 fr. 40 c"
+      ],
+      "legal_structure": [
+        "société"
+      ],
+      "country": [
+        "Brabant septentrional"
+      ],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "capital_category": []
+    }
+  },
+  {
+    "text": "Art. 27. Les procès-verbaux sont signés par le président, le secrétaire et les scrutateurs.\n\ndes vingt-cinq juin mil neuf cent et un, vingt-un février mil neuf cent et trois, et par acte de Mme Arthur Dejardin, notaire à la même résidence, sous la date du vingt-quatre février mil neuf cent huit, publié au Moniteur, le quinze mars mil neuf cent huit, numéro treize cent et quatre, savoir:\n\nCHAPITRE VI. — Inventaire, bilan, bénéfice, répartition.",
+    "entities": {
+      "date": [
+        "vingt-un février mil neuf cent et trois",
+        "vingt-cinq juin mil neuf cent et un",
+        "quinze mars mil neuf cent huit",
+        "vingt-quatre février mil neuf cent huit"
+      ],
+      "legal_act": [
+        "procès-verbaux",
+        "publié"
+      ],
+      "person": [
+        "Arthur Dejardin"
+      ],
+      "honorific_title": [
+        "Mme"
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "corporate_position": [
+        "secrétaire",
+        "scrutateurs",
+        "président"
+      ],
+      "deed_number": [
+        "numéro treize cent et quatre"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "(Déposé au greffe du tribunal de commerce de Bruxelles le 2 juillet 1909.)",
+    "entities": {
+      "date": [
+        "2 juillet 1909"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "legal_structure": [
+        "tribunal de commerce"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "legal_act": [
+        "Déposé"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Enregistré à Bruxelles (Est), le 17 juin 1909, volume 208, folio 65, case 4. Un rôle sans renvoi. Reçu 2 fr. 40 c. Le receveur, (signé) Perpète.\n\nJe soussignée, Mme veuve Louis Van de Poel, née Goethaels, demeurant à Gand, 24, rue Sainte-Marguerite, propriétaire de vingt actions de la société anonyme La Réassurance internationale, en liquidation, donne pouvoirs à M. Joseph Nève aux fins de me représenter aux assemblées générales de cette société qui doivent avoir lieu le 11 juin 1909, ou à toutes autres si les premières ne peuvent être tenues ou sont remises; en conséquence, prendre part à toutes délibérations, arrêter toutes décisions, émettre tous votes, accorder toutes autorisations. nommer tous commissaires, donner toutes décharges aux liquidateurs, signer tous actes et procès-verbaux, substituer et, en général, faire tout ce qui sera utile.",
+    "entities": {
+      "date": [
+        "17 juin 1909",
+        "11 juin 1909"
+      ],
+      "organization_name": [
+        "La Réassurance internationale"
+      ],
+      "corporate_body": [
+        "assemblées générales"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "legal_act": [
+        "en liquidation"
+      ],
+      "person": [
+        "Joseph Nève",
+        "Louis Van de Poel",
+        "Perpète",
+        "Goethaels"
+      ],
+      "honorific_title": [
+        "M.",
+        "veuve",
+        "Mme"
+      ],
+      "number_of_shares": [
+        "vingt actions"
+      ],
+      "city": [
+        "Gand",
+        "Bruxelles (Est)"
+      ],
+      "street_address": [
+        "24, rue Sainte-Marguerite"
+      ],
+      "archive_reference": [
+        "volume 208, folio 65, case 4"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "E. Représenter la société, soit en demandant, soit en défendant, dans toute instance judiciaire, interjeter appel; poursuivre toutes saisies mobilières et immobilières jusqu'à leur entière exécution.\n\nArt. 9. Quiconque désire faire partie de la société doit introduire, auprès du conseil d'administration, une demande écrite appuyée par deux sociétaires. En cas de refus, le candidat peut se pourvoir en appel devant le conseil de surveillance. S'il y a divergence d'opinion entre le conseil d'administration et le conseil de surveillance, le cas est à soumettre à la décision de l'assemblée générale, qui statue souverainement.\n\nArt. 19. Il ne pourra être pris, vis-à-vis de tiers et au nom de la société, aucun engagement non agréé par le conseil d'administration ou par l'assemblée générale et non constaté par procès-verbal inscrit dans un registre spécial.\n\nArt. 20. Le conseil d'administration peut déléguer à l'un de ses membres la gestion journalière des affaires de la société. Le président du conseil et le comptable sont chargés d'exécuter toutes les délibérations prises par le conseil d'administration; ils ont pouvoir de signer conjointement tous extraits de procès-verbaux, tous chèques et mandats, le tout sans devoir justifier d'aucune qualité ou pouvoir spécial à cet effet. A défaut du président ou du comptable, ceux-ci peuvent être respectivement remplacés par le vice-président et un administrateur.\n\nArt. 10. Les fondateurs et ceux qui seront ultérieurement admis apposeront leur signature dans le registre spécial à côté de la mention de la date de leur entrée.\n\nArt. 11. Les sociétaires ne pourront, sous aucun prétexte, provoquer l'apposition des scellés sur les livres et les biens de la société, ni demander le partage ou la licitation de ses biens, ni même s'immiscer en rien dans l'administration. Ils devront, pour exercer leurs droits, s'en rapporter aux décisions de l'assemblée générale.\n\nArt. 12. Hors le cas de dépôt par le conseil d'administration d'une proposition de liquidation de la société, en conformité de l'article 7 des statuts, tout membre peut se retirer dans les six premiers mois de l'exercice social. La démission d'un sociétaire est constatée par la mention du fait sur le titre de l'associé et sur le registre de la société, en marge du nom du démissionnaire. Ces mentions sont datées et signées par l'associé démissionnaire et contresignées par celui ou ceux qui ont la signature sociale. Si les gérants refusent de constater la démission, elle est reçue au greffe de la justice de paix du siège social. (Art. 94 de la loi du 18 mai 1875.)\n\nArt. 24. Le conseil d'administration a notamment pour devoir:\n\nArt. 21. Le conseil d'administration a notamment pour devoir:\nA. De déposer au greffe du tribunal de commerce les pièces dont il est question aux articles 104, 105 et 106 de la loi du 18 mai 1873.\n\nB. De surveiller mensuellement l'état de la caisse et la tenue des écritures. L'administrateur chargé de ces opérations devra faire rapport au conseil, avec mention au procès-verbal.\n\nC. En ce qui concerne les débiteurs: 1° de veiller strictement à ce que les fonds empruntés reçoivent la destination convenue ; 2° de s'assurer que les remboursements de prêts et versements de primes d'assurance aient régulièrement lieu aux époques convenues ; 3° de recueillir les quittances de loyer des emprunteurs ayant fourni un gage agricole ; 4° de renouveler en temps utile les inscriptions et mentions marginales relatives aux hypothèques, nantissements et privilèges agricoles.\n\nArt. 13. Le conseil d'administration pourra prononcer l'exclusion de tout membre de la société qui n'aurait pas exécuté ses engagements dans les trois mois. Il pourra aussi exclure de la société tout membre qui aurait subi une condamnation grave, qui ferait partie d'une autre société à responsabilité solidaire, qui refuserait de satisfaire à des prescriptions statutaires, dont la conduite donnerait lieu à scandale ou qui serait en état de déconfiture, de faillite ou d'interdiction.\n\nArt. 22. Le conseil s'assemble au moins une fois tous les mois, sur convocation du président ou, à son défaut, du vice-président. Les résolutions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Dans les limites qui seront assignées par l'assemblée générale, deux administrateurs peuvent prendre, sous leur responsabilité personnelle, une décision à soumettre dans les huit jours à la ratification du conseil d'administration et à faire constater dans les formes prévues à l'article 20. A moins d'urgence déclarée et consignée à la lettre de convocation transmise à tous les administrateurs, le conseil ne peut délibérer valablement en dehors de la présence de la moitié au moins des membres.\n\nLe procès-verbal de la séance du conseil d'administration relative à l'exclusion d'un sociétaire relate les faits établissant que l'exclusion a été prononcée conformément aux statuts; il est transcrit sur le registre des membres de la société et copie conforme en est adressée au sociétaire exclu, dans les deux jours, par lettre recommandée.\n\nArt. 14. L'associé démissionnaire ou exclu ne peut provoquer la liquidation de la société. Après que l'assemblée générale a statué sur les",
+    "entities": {
+      "date": [
+        "18 mai 1875",
+        "18 mai 1873"
+      ],
+      "time_period": [
+        "trois mois",
+        "six premiers mois",
+        "huit jours",
+        "deux jours"
+      ],
+      "legal_structure": [
+        "société"
+      ],
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée générale",
+        "conseil de surveillance"
+      ],
+      "office_type": [
+        "siège social"
+      ],
+      "legal_act": [
+        "liquidation",
+        "exclusion",
+        "procès-verbaux",
+        "résolutions",
+        "convocation",
+        "procès-verbal"
+      ],
+      "corporate_position": [
+        "président",
+        "vice-président",
+        "comptable",
+        "administrateur",
+        "sociétaires",
+        "fondateurs",
+        "sociétaire",
+        "administrateurs",
+        "associé"
+      ],
+      "organization_name": [],
+      "business_activity": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Ils doivent informer le comité exécutif de l'avarie ou de la mauvaise qualité qu'ils trouveraient dans les marchandises, produits ou objets qu'ils ont mission de vérifier.\n\n13, rue Bonneels.\n\nThey are obliged to behave politely towards customers, whatever they may be. These cannot under any pretext exceed the counters. They are asked to withdraw after having been served. Order and propriety must reign in the shops.\n\nBilan au 31 décembre 1908.",
+    "entities": {
+      "date": [
+        "31 décembre 1908"
+      ],
+      "corporate_body": [
+        "comité exécutif"
+      ],
+      "street_address": [
+        "13, rue Bonneels"
+      ],
+      "legal_act": [
+        "Bilan"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "tion également qui nomme et révoque tous les agents de la société, détermine leurs attributions, fixe leurs traitement et émoluments, ainsi que leurs cautionnements, s'il y a lieu.\n\nsuspendre l'exercice des droits y afférents jusqu'à ce qu'une seule personne ait été désignée comme étant, à son égard, propriétaire de l'action.\n\nArt. 11. La société peut en tout temps émettre des obligations par décision de l'assemblée générale. Le conseil d'administration en déterminera le type, les conditions de l'émission, le taux de l'intérêt, le mode et l'époque de remboursement.\n\nArt. 19. Les opérations de la société sont surveillées par un ou deux commissaires nommés pour un ou deux ans, par l'assemblée générale des actionnaires et en tout temps révocable par elle.\n\nIls sont rééligibles.\n\nTITRE III. — Administration, direction, surveillance.\n\nArt. 20. La mission et le pouvoir des commissaires seront ceux que leur assigne les articles cinquante-cinq et cinquante-six de la loi du dix-huit mai mil huit cent septante-trois et vingt-deux mai mil huit cent quatre-vingt-six.\n\nArt. 12. La société est administrée par un conseil de trois administrateurs, associés ou non, lequel nombre de trois pourra être porté à cinq maximum, nommés pour deux ans par l'assemblée générale des actionnaires et en tout temps révoquables par elle.\n\nArt. 21. Il sera affecté par privilège en garantie de l'exécution de leur mandat, par chaque administrateur quatre actions de capital et par chaque commissaire une action de capital. Décharge ne pourra leur être donnée de ce cautionnement qu'en vertu d'une décision prise par le conseil d'administration et approuvée par les commissaires, après approbation régulière par l'assemblée générale du bilan de l'exercice à la clôture duquel auront respectivement pris fin les fonctions d'administrateurs et de commissaires.\n\nLe mandat du premier conseil d'administration expirera lors de l'assemblée générale ordinaire de mil neuf cent onze. A cette date le conseil sera renouvelé en entier.\n\nArt. 13. En cas de vacance d'une ou de plusieurs places d'administrateurs par suite de décès, démission ou autre cause, les membres restant du conseil d'administration et le collège des commissaires, réunis en conseil général pourront y pourvoir provisoirement au remplacement jusqu'à la prochaine assemblée générale, qui procède au remplacement définitif.\n\nArt. 22. L'assemblée générale pourra en sus des émoluments déterminés à l'article trente-six ci-après, allouer une indemnité fixe aux administrateurs et aux commissaires.\n\nArt. 14. Tout administrateur désigné dans les conditions ci-dessus, n'est nommé que pour le temps nécessaire à l'achèvement du mandat de l'administrateur qu'il remplace.\n\nIn no case can the total remuneration of a commissioner be higher than one-third of that of an administrator.\n\nLe conseil d'administration élit parmi ses membres un président. Il peut en outre soit déléguer la gestion journalière de la société à un ou plusieurs administrateurs délégués chargés également de l'exécution des décisions du conseil, soit confier la direction de l'ensemble ou telle ou telle partie ou branche spéciale des affaires sociales à un ou plusieurs directeurs, choisis hors de son sein, associés ou non, soit déléguer des pouvoirs spéciaux déterminés à tout mandataire. Le conseil fixera les pouvoirs et les rémunérations des uns et des autres.\n\nArt. 23. Les actions judiciaires, tant en demandant qu'en défendant, seront suivies au nom de la société par le conseil d'administration, pour suites et diligences de son président ou de l'administrateur délégué.\n\nTITRE IV. — Assemblées générales.\n\nArt. 24. L'assemblée générale se compose de tous les propriétaires l'actions de capital.\n\nArt. 15. Le conseil d'administration se réunit sur convocation et sous la présidence de son président, ou, en cas d'empêchement de celui-ci, d'un des administrateurs, chaque fois que l'intérêt de la société le demande. Il doit se réunir chaque fois que deux administrateurs au moins l'exigent.\n\nL'assemblée générale ordinaire se réunit de plein droit le dernier jeudi du mois de juillet de chaque année, et pour la première fois en mil neuf cent dix, à Anvers, au siège social ou à l'endroit désigné dans les avis de convocation.\n\nLes réunions se tiennent en Belgique au lieu désigné par les convocations.\n\nArt. 25. L'assemblée générale peut être convoquée extraordinairement autant de fois que l'intérêt social l'exige. Elle doit l'être si une proportion d'actionnaires quelconque représentant le cinquième de la masse globale des actions de capital le requièrent en formulant l'objet de la réunion.\n\nArt. 16. Le conseil d'administration ne peut délibérer et statuer valablement que si la moitié au moins de ses membres est présente. Tout administrateur empêché ou absent peut donner à un de ses collègues délégation pour le représenter aux réunions du conseil et y voter en son lieu et place. Il sera, dans ce cas, réputé présent. Toutefois, aucun délégué ne peut représenter ainsi à la fois plus d'un administrateur.\n\nLes assemblées générales extraordinaires se tiennent également à Anvers, au siège social ou dans les endroits indiqués par les avis de convocation.\n\nL'assemblée générale, tant ordinaire qu'extraordinaire, se réunit sur la convocation du conseil d'administration ou des commissaires.\n\nTout administrateur pourra également, mais seulement au cas où la moitié au moins des membres du conseil sera présente en personne, exprimer ses avis et formuler des votes par voie de simple correspondance postale ou télégraphique.\n\nLes convocations doivent être faites dans les formes et délai exigés par l'article soixante de la loi sur les sociétés.\n\nLes convocations à l'assemblée générale ordinaire doivent obligatoirement mentionner parmi les objets de l'ordre du jour la discussion des rapports du conseil d'administration et des commissaires, la discussion et l'adoption du bilan et du compte de profits et pertes, la réélection ou le remplacement des administrateurs et commissaires sortants.\n\nLes résolutions du conseil seront prises à la majorité absolue des votants.\n\nArt. 17. Les délibérations du conseil d'administration sont constatées par des procès-verbaux signés par les membres qui ont été présents à la délibération et aux votes. Ceux qui votent en vertu d'une délégation signent à la fois pour eux-mêmes et pour leur mandant. Ces procès-verbaux sont inscrits dans un registre spécial. Les délégations ainsi que les avis et votes donnés par lettre ou par télégramme y sont annexés.\n\nArt. 26. Aucune assemblée générale ne peut délibérer que sur les objets mis à son ordre du jour. Celui-ci devra contenir toute proposition qui aurait été faite par des associés quelconques, représentant ensemble au moins le dixième de la masse globale des actions de capital, à condition qu'elle ait été communiquée au conseil d'administration trente jours au moins avant l'assemblée.\n\nLes copies ou extraits à en produire, en justice ou ailleurs, sont signés par le président ou par deux membres du conseil.\n\nArt. 18. Le conseil d'administration est investi des pouvoirs les plus étendus pour l'administration de la société. Il a dans sa compétence tous les actes qui ne sont pas réservés expressément par la loi ou les présents statuts à l'assemblée générale. Il a notamment le pouvoir de décider de sa seule autorité de toutes les opérations qui forment, aux termes de l'article trois ci-dessus, l'objet social ainsi que tous les apports, cession, souscription, commandite, association, participation ou intervention financière, relatifs aux dites opérations.\n\nArt. 27. Pour assister à l'assemblée générale, il faut, quant aux propriétaires d'actions au porteur, qu'ils aient déposé leurs titres au moins huit jours avant la date fixée pour l'assemblée au siège social ou aux établissements financiers désignés dans les avis de convocation.\n\nLes certificats de dépôt des titres au porteur ou d'inscription de titres nominatifs doivent être produits avant l'ouverture de la séance.\n\nArt. 28. Tout propriétaire d'actions de capital peut se faire représenter à l'assemblée générale par un fondé de pouvoirs spécial, pourvu que celui-ci soit lui-même propriétaire d'actions de capital.\n\nIl peut, en outre, recevoir toutes sommes, acquérir, aliéner ou échanger tous biens meubles et immeubles, consentir tous baux et locations, contracter tous emprunts autres que par voie d'obligations, sans préjudice toutefois à l'article onze, consentir et accepter toutes hypothèques, renoncer à tous droits réels, donner mainlevée avant ou après paiement de toutes inscriptions privilégiées ou hypothécaires, transcriptions, saisies, oppositions ou autres empêchements; traiter, plaider tant en demandant qu'en défendant; transiger et compromettre. C'est le conseil d'administra-\n\nLe conseil d'administration pourra arrêter la forme des procurations et exiger que celles-ci soient déposées au siège social trois jours au moins avant l'assemblée.\n\nLes mineurs, les femmes mariées, les interdits, les corporations et les établissements publics sont représentés par leurs mandataires ou organes légaux.\n\nLes copropriétaires, les usufruitiers et nus propriétaires, les créanciers",
+    "entities": {
+      "date": [
+        "dix-huit mai mil huit cent septante-trois",
+        "vingt-deux mai mil huit cent quatre-vingt-six",
+        "dernier jeudi du mois de juillet",
+        "mil neuf cent dix",
+        "mil neuf cent onze"
+      ],
+      "corporate_body": [
+        "assemblée générale",
+        "assemblée générale ordinaire",
+        "conseil d'administration",
+        "assemblée générale des actionnaires",
+        "collège des commissaires",
+        "conseil de trois administrateurs",
+        "Assemblées générales",
+        "assemblées générales extraordinaires",
+        "conseil",
+        "conseil général"
+      ],
+      "office_type": [
+        "siège social"
+      ],
+      "corporate_position": [
+        "président",
+        "administrateur",
+        "commissaire",
+        "commissaires",
+        "administrateurs",
+        "administrator",
+        "commissioner",
+        "administrateurs délégués",
+        "directeurs",
+        "actionnaires",
+        "membres du conseil",
+        "administrateur délégué",
+        "propriétaires",
+        "associés",
+        "propriétaire"
+      ],
+      "share_class": [
+        "actions au porteur",
+        "obligations",
+        "actions de capital"
+      ],
+      "country": [
+        "Belgique"
+      ],
+      "city": [
+        "Anvers"
+      ],
+      "legal_act": [
+        "nommés",
+        "bilan",
+        "approbation",
+        "compte de profits et pertes"
+      ],
+      "number_of_shares": [
+        "quatre actions de capital",
+        "une action de capital"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art 8. Les quatre cent quatre-vingt-huit actions ordinaires restantes sont souscrites comme suit, savoir:",
+    "entities": {
+      "number_of_shares": [
+        "quatre cent quatre-vingt-huit actions ordinaires"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "1° Que les convocations ont été régulièrement faites.\n2° Que toutes les parts sociales sont représentées.",
+    "entities": {
+      "legal_act": [
+        "convocations"
+      ],
+      "share_class": [
+        "parts sociales"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "MM. Louis van Langenhove et Joseph Alsberge, administrateurs sortants et rééligibles, sont réélus administrateurs.",
+    "entities": {
+      "person": [
+        "Joseph Alsberge",
+        "Louis van Langenhove"
+      ],
+      "honorific_title": [
+        "MM."
+      ],
+      "corporate_position": [
+        "administrateurs"
+      ],
+      "legal_act": [
+        "réélus"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Elle a pour attributions:\n\nArt. 6. La qualité d'associé s'acquiert par l'admission dans la société et par l'inscription subséquente dans le registre des membres.\n\n1° a) De décider de l'achat d'immeubles, dont le mode de vente excède les pouvoirs de l'administration; b) de faire procéder par son conseil d'administration à la vente d'immeubles; à l'exécution de construction nouvelles ou de réparations aux immeubles; c) de décider des emprunts hypothécaires ou autres qui ne sont pas de la compétence du conseil administratif, compétence réglée par les articles 23 et 54.\n\nArt. 7. Pour être admis, il faut: 1° être âgé de 21 ans et présenté par deux membres; 2° reconnaître les présents statuts; 3° faire parvenir au siège du conseil d'administration ses nom, prénoms, âge, profession; 4° s'engager à s'approvisionner régulièrement des produits vendus par la société et dont on a besoin; 5° avoir effectué un premier versement de cinq francs sur la part souscrite; 6° avoir signé le livre des associés.\n\n2° De modifier les statuts.\n\nArt. 26. Indépendamment de la réunion annuelle ordinaire, des assemblées générales peuvent avoir lieu sur la décision du conseil, ou sur la demande du quart des sociétaires. Toutes demande, proposition, réclamation ou interpellation, doit être adressée au président du conseil par écrit et huit jours au moins avant les assemblées.\n\nArt. 8. L'admission est prononcée par le conseil d'administration à la majorité des membres présents, sauf ratification par l'assemblée générale.\n\nArt. 2. La qualité de sociétaire est personnelle.\n\nArt. 10. Chaque associé reçoit un livret qui établit couramment son compte et constitue l'état de son avoir en qualité d'associé. Ce livret mentionne par ordre de dates les versements effectués par le titulaire. Ces versements sont signés par les membres ayant la signature sociale et valent quittance.\n\nArt. 27. Les votes des assemblées générales ont lieu au scrutin secret pour toutes questions personnelles, à main levée pour les autres, à moins cependant qu'il ne soit réclamé par le quart des membres présents.\n\nArt. 14. La qualité de sociétaire se perd: a) par démission volontaire ; b) par cessation des achats à la société coopérative ; c) par exclusion ; d) par décès.\n\nArt. 28. Tout associé a droit à une voix.\n\nLes décisions sont prises:\n\n1° A la majorité des deux tiers des voix: a) pour les modifications aux statuts ; b) pour les révocations des membres du conseil ou les poursuites à exercer contre eux.\n\nArt. 12. Tout sociétaire qui voudrait quitter la société avant l'expiration du terme social subira une retenue de 25 p. c., sauf le cas de démission à la fin d'un triennat. Le remboursement aura lieu aussitôt qu'il existera en caisse des fonds disponibles, sans intérêts ni part dans l'avoir social, fonds de prévisions, de réserves et d'amortissements, et contre remise du livret de sociétaire, portant le montant de la somme remboursée.\n\n2° A la majorité absolue des voix pour tous les autres cas. Toute proposition qui réunit la parité dans...\n\nToute proposition qui réunit la parité des voix est rejetée.\n\nArt. 29. L'assemblée générale choisit les sept personnes qui composent le conseil administratif; elle nomme en outre deux commissaires-contrôleurs qui pourront assister aux séances du conseil avec voix consultative.\n\nArt. 13. Tout associé démissionnaire reste personnellement tenu, à défaut de la société, dans les limites où il s'est engagé et pendant cinq ans à partir de sa démission, de tous les engagements de la société contractés avant la fin de l'exercice dans lequel sa retraite a été publiée.\n\nArt. 30. Toute délibération de l'assemblée générale est valable quel que soit le nombre de membres présents.",
+    "entities": {
+      "legal_structure": [
+        "société coopérative"
+      ],
+      "corporate_body": [
+        "assemblée générale",
+        "conseil d'administration",
+        "conseil administratif",
+        "assemblées générales",
+        "assemblées",
+        "conseil"
+      ],
+      "corporate_position": [
+        "commissaires-contrôleurs",
+        "président du conseil",
+        "sociétaire",
+        "sociétaires",
+        "associé",
+        "membres du conseil"
+      ],
+      "share_class": [
+        "part"
+      ],
+      "share_nominal_value": [
+        "cinq francs"
+      ],
+      "office_type": [
+        "siège"
+      ],
+      "number_of_votes": [
+        "une voix"
+      ],
+      "legal_act": [
+        "nomme",
+        "choisit"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "business_activity": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Sixième exercice, clos le 31 mars 1909.\n\nL'an mil neuf cent neuf, le dix-sept ju Devant Mme De Leener, notaire de réside\n\nA l'heure exacte, le dix-sept juin.\nDevant Mme De Leener, notaire de résidence à Saint-Gilles-Bruxelles.",
+    "entities": {
+      "date": [
+        "31 mars 1909",
+        "dix-sept juin",
+        "an mil neuf cent neuf, le dix-sept ju"
+      ],
+      "person": [
+        "De Leener"
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "city": [
+        "Saint-Gilles-Bruxelles"
+      ],
+      "honorific_title": [
+        "Mme"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Procès-verbal de l'assemblée générale extraordinaire des actionnaires de la société, tenue devant Mme Edouard Van Halteren, notaire à Bruxelles, cejour'hui vingt-six avril mil neuf cent neuf, au siège social, à La Louvière.\n\nLa séance est ouverte à dix heures et demie du matin, sous la présidence de M. Louis Tabutaut, président du conseil d'administration.\n\nL'assemblée désigne MM. Henri Schmidt et Jules Cornil-Daumeries pour remplir les fonctions de scrutateurs. M. Charles Nicaise remplit celles de secrétaire.\n\nSont présents ou représentés les actionnaires suivants:",
+    "entities": {
+      "date": [
+        "vingt-six avril mil neuf cent neuf"
+      ],
+      "corporate_body": [
+        "assemblée générale extraordinaire des actionnaires",
+        "assemblée"
+      ],
+      "office_type": [
+        "siège social"
+      ],
+      "person": [
+        "Jules Cornil-Daumeries",
+        "Henri Schmidt",
+        "Charles Nicaise",
+        "Edouard Van Halteren",
+        "Louis Tabutaut"
+      ],
+      "honorific_title": [
+        "M.",
+        "Mme",
+        "MM."
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "corporate_position": [
+        "secrétaire",
+        "scrutateurs",
+        "président du conseil d'administration",
+        "actionnaires"
+      ],
+      "city": [
+        "Bruxelles",
+        "La Louvière"
+      ],
+      "legal_act": [
+        "Procès-verbal de l'assemblée générale extraordinaire des actionnaires",
+        "désigne"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Le soussigné, Morack, Edmond, déclare, par les présentes, donner procuration à M. H.-Victor Stollwerck à l'effet de le représenter à l'acte de constitution de la société anonyme Comptoir anversois d'Expéditions et de Commissions, acte qui sera dressé le 22 juin 1909, en l'étude de Me Louis Frans, d'y souscrire pour lui et en son nom une action de capital de 500 francs, ainsi que de le représenter à l'assemblée générale des actionnaires qui se tiendra immédiatement après la constitution, d'y prendre part à toutes délibérations et votes, pour lui et en son nom.\n\nSur ce bénéfice il est prélevé tout d'abord:\n\n1° Cinq pour cent pour la réserve légale. Ce prélèvement cessera d'être obligatoire lorsque la réserve aura atteint le dixième du capital social.\n\n2° La somme nécessaire pour payer aux actions de capital cinq pour cent du montant dont elles se trouveront libérées.\n\nSur le surplus il sera prélevé:\n\nDix pour cent au profit des administrateurs et des commissaires. Le restant sera réparti entre les actions de capital, sauf la faculté d'en affecter au préalable soit à un ou plusieurs fonds de prévision spéciaux,\n\nDuffel, le 21 juin 1909.\n\nBon pour procuration, (signé) E.-J. Morack.",
+    "entities": {
+      "date": [
+        "22 juin 1909",
+        "21 juin 1909"
+      ],
+      "organization_name": [
+        "Comptoir anversois d'Expéditions et de Commissions"
+      ],
+      "city": [
+        "Duffel"
+      ],
+      "corporate_body": [
+        "assemblée générale des actionnaires"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "legal_act": [
+        "constitution",
+        "procuration",
+        "représenter"
+      ],
+      "person": [
+        "Louis Frans",
+        "Morack, Edmond",
+        "H.-Victor Stollwerck",
+        "E.-J. Morack"
+      ],
+      "honorific_title": [
+        "Me",
+        "M."
+      ],
+      "corporate_position": [
+        "commissaires",
+        "administrateurs"
+      ],
+      "share_nominal_value": [
+        "500 francs"
+      ],
+      "capital_category": [
+        "capital social"
+      ],
+      "number_of_shares": [
+        "une action de capital"
+      ],
+      "share_class": [
+        "actions de capital"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "que le déclarent les comparants.\nA l'instant et comme suite à cette décision, les trois cent cinquante actions présentement créées ont été souscrites comme suit par:\n\nLe capital social est fixé à la somme de quarante-cinq mille francs et représenté par quatre cent cinquante actions de cent francs chacune, dont soixante-deux sont entièrement libérées. Les trois cent quarante-huit autres sont libérées seulement de 10 p. c. chacune.\n\n1. M. Alfred Mathot, prénommé, cent dix-sept actions . . . 117\n\n2. La société anonyme « Naamloze Tuinbouwmaatschappij van Linthout », dont le siège est à Bruxelles, pour laquelle est ici présent et accepte avec promesse de ratification un de ses administrateurs, M. Firmin Lambeau, comparant, qui se porte fort pour elle, deux cent trente-trois actions\n\nListe des actionnaires qui n'ont pas entièrement libéré leurs actions.",
+    "entities": {
+      "organization_name": [
+        "« Naamloze Tuinbouwmaatschappij van Linthout »"
+      ],
+      "legal_structure": [
+        "société anonyme"
+      ],
+      "person": [
+        "Alfred Mathot",
+        "Firmin Lambeau"
+      ],
+      "honorific_title": [
+        "M."
+      ],
+      "corporate_position": [
+        "comparant",
+        "administrateurs",
+        "actionnaires"
+      ],
+      "number_of_shares": [
+        "trois cent cinquante actions",
+        "deux cent trente-trois actions",
+        "cent dix-sept actions",
+        "trois cent quarante-huit",
+        "soixante-deux",
+        "quatre cent cinquante actions",
+        "117"
+      ],
+      "share_nominal_value": [
+        "cent francs",
+        "quarante-cinq mille francs"
+      ],
+      "capital_category": [
+        "capital social"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "share_class": [
+        "entièrement libérées",
+        "libérées seulement de 10 p. c."
+      ],
+      "office_type": [
+        "siège"
+      ],
+      "date": [],
+      "time_period": [],
+      "corporate_body": [],
+      "business_activity": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "37° M. Victor Jeunejean, propriétaire à Ville-du-Bois, possesseur de deux actions de cent francs, donnant droit à quatre voix.\n\nfrancs et est représenté par cent nonante-deux actions de cent francs et septante six actions de cinquante francs.\n\n38° M. Jules Bouharmont, propriétaire, demeurant à Grand-Halleux, possesseur d'une action, donnant droit à deux voix.",
+    "entities": {
+      "person": [
+        "Jules Bouharmont",
+        "Victor Jeunejean"
+      ],
+      "corporate_position": [
+        "propriétaire"
+      ],
+      "number_of_shares": [
+        "septante six actions",
+        "cent nonante-deux actions",
+        "deux actions",
+        "une action"
+      ],
+      "share_nominal_value": [
+        "cent francs",
+        "cinquante francs"
+      ],
+      "city": [
+        "Grand-Halleux",
+        "Ville-du-Bois"
+      ],
+      "honorific_title": [
+        "M"
+      ],
+      "number_of_votes": [
+        "quatre voix",
+        "deux voix."
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "occupation": [],
+      "share_class": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "(Déposé au greffe du tribunal de commerce de Bruxelles le 29 juin 1909.)\n\n(30 Iig.)",
+    "entities": {
+      "date": [
+        "29 juin 1909"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Tout possesseur d'une action, coupure d'action ou part de fondateur adhère sans restriction aux présents statuts et aux décisions de l'assemblée générale.\n\nArt. 8. Les parts de fondateur deviennent la propriété de M. Chesne en retour des avantages qu'il fait à la présente société et des engagements qu'il prend envers elle dans le premier paragraphe de l'article précédent, et il pourra en disposer à son gré, sauf pour un tiers (soit mille parts de fondateur), qu'il devra déposer dans les caisses de la société ou dans toute autre caisse désignée par l'assemblée générale, en garantie de la direction technique qu'il aura à exercer sous le contrôle du conseil d'administration, soit au titre de « de directeur », soit au titre « d'administrateur délégué à la direction ».\n\nArt. 16. Les actionnaires ne sont engagés que jusqu'à concurrence du montant de leurs actions.\n\nArt. 17. La société peut, par décision de l'assemblée générale, émettre des obligations.",
+    "entities": {
+      "legal_structure": [
+        "société"
+      ],
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée générale"
+      ],
+      "corporate_position": [
+        "directeur",
+        "administrateur délégué à la direction",
+        "actionnaires"
+      ],
+      "number_of_shares": [
+        "mille parts de fondateur"
+      ],
+      "share_class": [
+        "parts de fondateur",
+        "part de fondateur",
+        "coupure d'action",
+        "action",
+        "obligations"
+      ],
+      "person": [
+        "M. Chesne"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Approuvé en assemblée générale le 6 mai 1909.\n\nMM. A. Sottiaux, administrateur, E.-D.-M. Heirman, E. Bonnehil, commissaires sortants, sont réélus.\n\nLe président, E. HEIRMAN.\n\nEnregistré à Bruxelles (A. J. P. et A. S. S. P.), le 23 juin 1909, volume 492, folio 4, case 9. Un rôle sans renvoi. Reçu pour enregistrement 2 fr. 40 c. Le receveur.\n\n(Déposé au greffe du tribunal de commerce de Bruxelles le 24 juin 1909.)\n\n(55 lig.)",
+    "entities": {
+      "date": [
+        "6 mai 1909",
+        "23 juin 1909",
+        "24 juin 1909"
+      ],
+      "corporate_body": [
+        "assemblée générale"
+      ],
+      "archive_reference": [
+        "volume 492, folio 4, case 9"
+      ],
+      "person": [
+        "E. Bonnehil",
+        "A. Sottiaux",
+        "E. HEIRMAN",
+        "E.-D.-M. Heirman"
+      ],
+      "corporate_position": [
+        "administrateur",
+        "président",
+        "commissaires",
+        "receveur"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "honorific_title": [
+        "MM"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "time_period": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "CHAPITRE VII. — Dispositions transitoires.\n\nJe soussignée, Louise Samuël, déclare, par la présente, donner pouvoir à M. Gaston Haardt à l'effet de me représenter à l'acte de constitution de la société anonyme à créer sous la dénomination Banque, Change et Fond publics E. Samuël.\n\nArt. 37. Aussitôt après la constitution de la société les actionnaires, sans autre convocation, se réuniront en assemblée générale extraordinaire sous la présidence d'un des administrateurs, pour délibérer sur tous les objets qu'il serait jugé opportun de porter à l'ordre du jour de cette réunion.\n\nArrêter les statuts de cette société, souscrire en mon nom trente-six actions de capital à libérer immédiatement, prendre part aux délibérations de l'assemblée générale qui viendrait à suivre immédiatement la constitution de la société, fixer le nombre des administrateurs et commissaires, procéder à leur nomination, émettre tous votes auquel il plaira à la majorité de faire procéder et notamment à celui relatif à l'approbation du tableau d'amortissement.\n\nElection de domicile.\n\nArt. 58. Tout actionnaire, administrateur, commissaire, directeur de la société, non domicilié en Belgique, sera tenu d'établir domicile à Bruxelles, au siège social pour tout ce qui concerne l'exécution des présents statuts.\n\nAux fins que dessus, passer et signer tous actes, pièces, procès-verbaux, etc.\n\nA défaut d'élection de domicile, celui-ci sera censé élu de plein droit au siège social où toutes communications, sommations, assignations ou significations pourront lui être valablement faites.\n\nBruxelles, le 25 juin 1909.\n\nBon pour pouvoir, (signé) LOUISE SAMUEL, épouse Gaston Haardt.\nBon pour autorisation matrimale, (signé) GASTON HAARDT.\n\nArt. 39. Le nombre des administrateurs est fixé pour la première fois à quatre.\n\nSont nommés à ces fonctions:\n\nEnregistré par le receveur soussigné, un rôle sans renvoi, à Schaerbeek, le 28 juin 1909, volume 3, folio 55, case 14 Reçu 2 fr. 40 c. (Signé) Duculot.\n\nMM. Henri Samuel, Jules Samuel, Armand Samuel, Georges Samuel, tous prénommés et qualifiés.\n\nLe nombre des commissaires est fixé pour la première fois à un. Est nommé à cette fonction, M. Léopold Vergé, prénommé.",
+    "entities": {
+      "date": [
+        "28 juin 1909",
+        "25 juin 1909"
+      ],
+      "corporate_body": [
+        "assemblée générale",
+        "assemblée générale extraordinaire"
+      ],
+      "office_type": [
+        "siège social"
+      ],
+      "corporate_position": [
+        "acte de constitution",
+        "commissaire",
+        "administrateur",
+        "directeur",
+        "commissaires",
+        "actionnaires",
+        "administrateurs",
+        "actionnaire"
+      ],
+      "legal_act": [
+        "constitution",
+        "convocation",
+        "procès-verbaux"
+      ],
+      "person": [
+        "LOUISE SAMUEL, épouse Gaston Haardt",
+        "GASTON HAARDT",
+        "Gaston Haardt",
+        "Armand Samuel",
+        "Georges Samuel",
+        "Louise Samuël",
+        "Jules Samuel",
+        "Henri Samuel",
+        "Léopold Vergé",
+        "Duculot"
+      ],
+      "honorific_title": [
+        "M.",
+        "MM."
+      ],
+      "number_of_shares": [
+        "trente-six actions"
+      ],
+      "country": [
+        "Belgique"
+      ],
+      "city": [
+        "Bruxelles",
+        "Schaerbeek"
+      ],
+      "organization_name": [
+        "Banque, Change et Fond publics E. Samuël"
+      ],
+      "legal_structure": [
+        "société",
+        "société anonyme"
+      ],
+      "archive_reference": [
+        "volume 3, folio 55, case 14"
+      ],
+      "share_class": [
+        "actions de capital"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Art. 31. En cas de dissolution de la société, l'assemblée générale a les droits les plus étendus pour choisir les liquidateurs et pour déterminer leurs pouvoirs.",
+    "entities": {
+      "legal_structure": [
+        "société"
+      ],
+      "corporate_body": [
+        "assemblée générale"
+      ],
+      "legal_act": [
+        "dissolution"
+      ],
+      "corporate_position": [
+        "liquidateurs"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Le texte de l'article sept ancien est supprimé et remplacé par le texte de l'article huit ancien modifié comme suit:\n\nDans l'article trente-cinq les mots « parts sociales » répétés trois fois, sont remplacés par le mot « actions. »\n\n« A. Mme veuve Pètre, née Thomas, apporte à la société:",
+    "entities": {
+      "person": [
+        "Thomas",
+        "Pètre"
+      ],
+      "honorific_title": [
+        "Mme veuve"
+      ],
+      "share_class": [
+        "parts sociales"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "city": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "A partir de ce moment, l'ordre de sortie sera établi par la voie du sort, il sera réglé de telle façon que tout le conseil d'administration et le collège des commissaires soient renouvelés au bout de cinq ans. Si le nombre des administrateurs et des commissaires est supérieur à cinq, le roulement sera établi de manière à ce que par une ou plusieurs sorties doubles, le mandat d'aucun ne dépasse cinq ans.\n\nArt 15. Par dérogation à l'article treize ci-dessus, est nommé pour la première fois commissaire de la société:\n\nM. Paul Nygh, à Rotterdam, nommé ci-dessus\n\nIl a été effectué à l'instant, par les souscripteurs, en présence du notaire et des témoins soussignés, un premier versement de cinquante pour cent soit deux cent cinquante francs par action ou ensemble cinq cent mille francs, laquelle somme est mise dès à présent à la disposition de la société.\n\nLa nomination du premier conseil d'administration et la fixation du nombre des premiers administrateurs aura lieu dans une assemblée générale spéciale qui se tiendra sans autre convocation, immédiatement après la constitution de la présente société.\n\nArt. 16. In case of vacancy of an administrative position due to death, resignation, refusal to perform one's duties, or any other cause, the remaining administrators and the auditors, jointly, have the right to fill it provisionally. In this case, at its first meeting, the general assembly proceeds to the definitive election.\n\nLes sommes restant à verser seront appelées au fur et à mesure des besoins de la société par décision du conseil d'administration qui sera tenu de donner un préavis d'un mois au moins par lettre recommandée.\n\nArt. 7. A défaut par un actionnaire d'effectuer les versements aux",
+    "entities": {
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée générale spéciale",
+        "collège des commissaires",
+        "general assembly"
+      ],
+      "legal_act": [
+        "constitution",
+        "nommé",
+        "nomination"
+      ],
+      "person": [
+        "Paul Nygh"
+      ],
+      "honorific_title": [
+        "M."
+      ],
+      "corporate_position": [
+        "commissaire",
+        "commissaires",
+        "souscripteurs",
+        "actionnaire",
+        "administrateurs",
+        "témoins",
+        "administrators",
+        "auditors"
+      ],
+      "share_nominal_value": [
+        "cinq cent mille francs",
+        "deux cent cinquante francs"
+      ],
+      "city": [
+        "Rotterdam"
+      ],
+      "occupation": [
+        "notaire"
+      ],
+      "date": [],
+      "time_period": [],
+      "organization_name": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "Paris, le 17 juin 1900 neuf.\n\nBon pour pouvoir, pour souscrire en mon nom dix actions et pour accepter le mandat de commissaire.",
+    "entities": {
+      "date": [
+        "17 juin 1900"
+      ],
+      "corporate_position": [
+        "commissaire"
+      ],
+      "number_of_shares": [
+        "dix actions"
+      ],
+      "city": [
+        "Paris"
+      ],
+      "time_period": [],
+      "organization_name": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "(Déposé au greffe du tribunal de commerce de Bruxelles le 24 juin 1909.)\n\nComptes courants, créditeurs divers . . . . . . . 6,840 25\nDosants pour cautionnements . . . . . . . 11,000 »\nFr. 167,840 25",
+    "entities": {
+      "date": [
+        "24 juin 1909"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Bruxelles"
+      ],
+      "city": [
+        "Bruxelles"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "legal_act": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "person": [],
+      "honorific_title": [],
+      "occupation": [],
+      "corporate_position": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "D’un acte sous seing privé en date du vingt juin 1900 et neuf, enregistré deux rôles sans renvoi à Bruges (A. C.), le vingt-neuf juin 1900 et neuf, volume 162, folio 71, case 7. Reçu sept francs. Lé receveur, Dierickx, il conste qu’entre:\n\nLa liquidation de la société se fera par M. W. Huverstuhl et par M. Gust. Degraef.\n\nFait en double à Anvers et à Bruxelles, le 24 juin 1909\n\n1° M. Jacques-François Lefief, à Bruges.\n\n(Signé) VICTOR SELB, W. HUVERSTUHL.\n\n2° M. Camille Verhegge, à Sainte-Croix lez-Bruges (Bassin).\n\nEnregistré à Anvers (A. H. et A. S. S. P.), un rôle sans renvoi, le 1er juillet 1909, volume 56, folio 5, case 13. Reçu 7 francs. Le receveur, (signé) Van Damme.\n\nIl a été formé une société en nom collectif, sous la raison de commerce Liefef et Verhegge, ayant pour but le commerce d'orges, d'escourgeons et de malts, ainsi que de toutes marchandises dont les associés, de commun accord, voudraient s'occuper. Le siège de la société est à Bruges. La gestion et la signature sociale appartiennent aux deux associés. La société, constituée pour un terme de cinq ans, commencera le vingt juin 1900 et neuf.\n\n(Deposed at the registry of the commercial court of Antwerp on July 3, 1909.)\n\n(=25 lig.)\n\nBruges, le vingt juin 1900 et neuf.\n\n(Signé) C. VERHEGGE.\n\n(Signé) J. LEFIEF.",
+    "entities": {
+      "date": [
+        "24 juin 1909",
+        "1er juillet 1909",
+        "July 3, 1909",
+        "vingt juin 1900 et neuf",
+        "vingt-neuf juin 1900 et neuf"
+      ],
+      "time_period": [
+        "cinq ans"
+      ],
+      "organization_name": [
+        "Liefef et Verhegge",
+        "commercial court of Antwerp",
+        "Bruges (A. C.)",
+        "Anvers (A. H. et A. S. S. P.)"
+      ],
+      "legal_structure": [
+        "société en nom collectif"
+      ],
+      "business_activity": [
+        "commerce d'orges, d'escourgeons et de malts, ainsi que de toutes marchandises dont les associés, de commun accord, voudraient s'occuper"
+      ],
+      "legal_act": [
+        "liquidation",
+        "enregistré",
+        "formé",
+        "Deposed",
+        "Enregistré"
+      ],
+      "person": [
+        "VICTOR SELB",
+        "Camille Verhegge",
+        "Van Damme",
+        "J. LEFIEF",
+        "W. Huverstuhl",
+        "Dierickx",
+        "Jacques-François Lefief",
+        "W. HUVERSTUHL",
+        "Gust. Degraef",
+        "C. VERHEGGE"
+      ],
+      "honorific_title": [
+        "M."
+      ],
+      "city": [
+        "Anvers",
+        "Bruxelles",
+        "Bruges",
+        "Antwerp",
+        "Sainte-Croix lez-Bruges (Bassin)"
+      ],
+      "archive_reference": [
+        "volume 162, folio 71, case 7",
+        "volume 56, folio 5, case 13"
+      ],
+      "corporate_position": [
+        "receveur"
+      ],
+      "office_type": [
+        "siège"
+      ],
+      "corporate_body": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "bevonden.\nTen bewijze waarvan tegenwoordig verslag opgemaakt en ondertekend werd.\n\nL'assemblée générale des actionnaires du 14 juin 1909, a réélu à l'unanimité comme administrateur délégué M. Charles Lefebvre, et comme commissaire M. Ernest Lefebvre.\n\nMeeuwen, den 19n Juni 1909.\n\nA. VAN GRUNDERBEECK.\n\nNa gedane voorlezing, wordt dit verslag goedgekeurd.\n\nLe président du conseil d'administration, GUST. LEFEBVRE.\n\nOnmiddellijk hierna wordt er overgegaan tot de benoeming der commissarissen.\n\nEnregistré à Tournai (A. J.), le 24 juin 1909, volume 44, folio 85, case 4. Reçu 2 fr. 40 c. Le receveur intérimaire, (signé) Casterman.\n\nDaartoe worden benoemd de heeren Indekeu, P.-J., en Van Dyck, A. Gedaan te Meeuwen, dag en uur als hierboven aangeduid.\n\nDe vereffenaar, A. VAN GRUNDEBREECK.\n\n(Déposé au greffe du tribunal de commerce de Tournai le 26 juin 1909.) (=25 lig.)\n\n(Nedergelegd ter griffie der rechtbank van eersten aanleg, dd. handelsrechtbank, te Tongeren den 26 Juni 1909.)\n\n(Sans frais.)",
+    "entities": {
+      "date": [
+        "26 Juni 1909",
+        "26 juin 1909",
+        "14 juin 1909",
+        "24 juin 1909",
+        "19n Juni 1909",
+        "dag en uur als hierboven"
+      ],
+      "corporate_body": [
+        "assemblée générale des actionnaires"
+      ],
+      "legal_act": [
+        "benoeming",
+        "réélu",
+        "Enregistré",
+        "benoemd",
+        "Déposé",
+        "Nedergelegd"
+      ],
+      "person": [
+        "A. VAN GRUNDEBREECK",
+        "A. VAN GRUNDERBEECK",
+        "Ernest Lefebvre",
+        "Casterman",
+        "Charles Lefebvre",
+        "GUST. LEFEBVRE",
+        "Indekeu, P.-J.",
+        "Van Dyck, A."
+      ],
+      "honorific_title": [
+        "M.",
+        "de heeren"
+      ],
+      "corporate_position": [
+        "administrateur délégué",
+        "commissaire",
+        "président du conseil d'administration",
+        "vereffenaar",
+        "commissarissen",
+        "receveur intérimaire"
+      ],
+      "city": [
+        "Tournai",
+        "Tongeren",
+        "Meeuwen"
+      ],
+      "organization_name": [
+        "tribunal de commerce de Tournai",
+        "Tournai (A. J.)",
+        "rechtbank van eersten aanleg, dd. handelsrechtbank"
+      ],
+      "archive_reference": [
+        "volume 44, folio 85, case 4"
+      ],
+      "time_period": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "occupation": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "4° M. Constant Doneux, sans profession, demeurant à Liège, propriétaire de dix actions privilégiées et sept actions ordinaires de la société\n\n5° M. Laurent Legrand, professeur à l'université de Liège, demeurant à Liège, avenue de l'Exposition, numéro 13, propriétaire de quatre actions privilégiées et cinq actions ordinaires; ici représenté par M. Rodolphe Germaux, en vertu d'une procuration sous seing privé en date du quatorze de ce mois ci-annexée et qui sera enregistrée avec les présentes.\n\nAprès plusieurs échanges de vue entre les actionnaires et le conseil d'administration, les questions sont mises aux voix.\n\nPar onze cent treize voix contre cent soixante-cinq voix qui voté contre et cinquante-une abstentions.\n\nL'assemblée, entendu le rapport du conseil d'administration, décide de fusionner avec les établissements de change Maison Fontaine et Cie, société anonyme, à Liège, et Georges Bosson, à Bruxelles, aux conditions énoncées dans le dit rapport.\n\n6° Et M. Georges Pirard, avocat, demeurant à Trooz; propriétaire de vingt-sept actions privilégiées et vingt actions ordinaires de la même société.\n\nTotal des actions privilégiées, cent quarante-trois et des actions ordinaires deux cents, formant la totalité des actions encore existantes, ainsi que les comparants le déclarent, donnant droit les premières à cent quarante-trois voix et les secondes à cent voix, soit ensemble deux cent quarante-trois voix.\n\nEn conséquence, et par le même vote, l'assemblée décide la mise en liquidation de la société Comptoir Musin; nomme liquidateurs les administrateurs actuels formant le conseil d'administration, qui pourront déléguer leur pouvoir à MM. de Thier, prénommé, ancien administrateur délégué, et Hogge, avocat, agissant conjointement ou séparément, et leur donne les pouvoirs prévus aux articles cent quarze et cent quinze de la loi sur les sociétés, la présente délibération valant l'autorisation spéciale de l'article cent et quinze les autorisent spécialement à continuer les opérations commerciales de la société.\n\nLes comparants exposent que la présente assemblée générale extraordinaire a été convoquée régulièrement.\n\nLes actionnaires présents possédant ensemble la totalité du capital social, l'assemblée constate qu'elle peut valablement délibérer sur les objets à l'ordre du jour ci-après stipulé.",
+    "entities": {
+      "date": [
+        "quatorze de ce mois"
+      ],
+      "organization_name": [
+        "Comptoir Musin",
+        "Maison Fontaine et Cie",
+        "université de Liège"
+      ],
+      "corporate_body": [
+        "conseil d'administration",
+        "assemblée,",
+        "'assemblée",
+        "assemblée",
+        "assemblée générale extraordinaire"
+      ],
+      "legal_structure": [
+        "société anonyme",
+        "société",
+        "établissements de change"
+      ],
+      "legal_act": [
+        "liquidation",
+        "fusionner",
+        "procuration sous seing privé"
+      ],
+      "person": [
+        "Hogge",
+        "Rodolphe Germaux",
+        "Thier",
+        "Georges Pirard",
+        "Laurent Legrand",
+        "Constant Doneux",
+        "Georges Bosson"
+      ],
+      "honorific_title": [
+        "M.",
+        "MM."
+      ],
+      "occupation": [
+        "avocat",
+        "professeur"
+      ],
+      "corporate_position": [
+        "administrateur délégué",
+        "actionnaires",
+        "comparants",
+        "liquidateurs",
+        "administrateurs"
+      ],
+      "number_of_shares": [
+        "dix actions",
+        "quatre actions",
+        "cinq actions",
+        "vingt-sept",
+        "vingt actions",
+        "sept actions",
+        "actions",
+        "cent quarante-trois",
+        "deux cents"
+      ],
+      "share_class": [
+        "actions privilégiées",
+        "actions ordinaires"
+      ],
+      "capital_category": [
+        "capital social"
+      ],
+      "city": [
+        "Liège",
+        "Bruxelles",
+        "Trooz"
+      ],
+      "street_address": [
+        "avenue de l'Exposition, numéro 13"
+      ],
+      "number_of_votes": [
+        "deux cent quarante-trois voix",
+        "cent quarante-trois voix",
+        "cent voix"
+      ],
+      "time_period": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "archive_reference": [],
+      "share_nominal_value": [],
+      "country": [],
+      "building_name": []
+    }
+  },
+  {
+    "text": "M. Georges Bosson is charged with the liquidation. He is specially authorized to continue the operations of the company and to realize all or part of the assets by contributing them to a company limited by shares, established or to be established.\n\nJe soussigné, Firmin Piron, industriel à Jumet, autorise, par la présente, M. Albert Metzger, exportateur à Lodelinsart, de continuer ses affaires sous la firme Comptoir de vente de Charbons belges, anciennement Metzger et Piron.\n\nFait en trois exemplaires, à Bruxelles, le 24 juin 1909.\n\nL. Bosson-Vincent, Jules Ancion, G. Bosson, Herve, Gust. Lhoest.\n\nJumet, le 30 juin 1909.\n\nEnregistré à Liège (A. C.), le 28 juin 1909, volume 183, folio 99, case 6. Un rôle sans renvoi. Reçu 7 francs. Le receveur, (signé Dehasque.\n\nLu et approuvé l'écriture, (signé) FIRMIN PIRON.\n\nEnregistré à Charleroi, le 4er juillet 1909, volume 127, folio 17, case 14.\nReçu 2 fr. 40 c. Le receveur, (signé) Dandois.\n\n(Déposé au greffe du tribunal de commerce de Liège le 1er juillet 1909.)\n\n(Déposé au greffe du tribunal de Charleroi le 1er juillet 1909.)\n\n(30 lig.)\n\n(=25 lig.)",
+    "entities": {
+      "date": [
+        "24 juin 1909",
+        "30 juin 1909",
+        "28 juin 1909",
+        "1er juillet 1909",
+        "4er juillet 1909"
+      ],
+      "organization_name": [
+        "Comptoir de vente de Charbons belges, anciennement Metzger et Piron",
+        "tribunal de commerce de Liège",
+        "tribunal de Charleroi",
+        "Liège (A. C.)"
+      ],
+      "person": [
+        "Firmin Piron",
+        "FIRMIN PIRON",
+        "Jules Ancion",
+        "Georges Bosson",
+        "G. Bosson",
+        "Herve",
+        "Albert Metzger",
+        "Gust. Lhoest",
+        "L. Bosson-Vincent",
+        "Dandois",
+        "Dehasque"
+      ],
+      "legal_act": [
+        "liquidation",
+        "autorise",
+        "continuer",
+        "Enregistré",
+        "Déposé"
+      ],
+      "honorific_title": [
+        "M.",
+        "M"
+      ],
+      "occupation": [
+        "exportateur",
+        "industriel"
+      ],
+      "city": [
+        "Charleroi",
+        "Liège",
+        "Bruxelles",
+        "Jumet",
+        "Lodelinsart"
+      ],
+      "archive_reference": [
+        "volume 183, folio 99, case 6",
+        "volume 127, folio 17, case 14"
+      ],
+      "corporate_position": [
+        "receveur"
+      ],
+      "time_period": [],
+      "corporate_body": [],
+      "legal_structure": [],
+      "business_activity": [],
+      "office_type": [],
+      "deed_number": [],
+      "number_of_shares": [],
+      "number_of_votes": [],
+      "share_class": [],
+      "share_nominal_value": [],
+      "capital_category": [],
+      "country": [],
+      "street_address": [],
+      "building_name": []
+    }
+  }
+]
