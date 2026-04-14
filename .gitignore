@@ -1,0 +1,9 @@
+.venv
+./adapters
+./adapters_30_epochs
+./data_2
+./data_multi
+./Hagiography_adaptor_2
+./Hagiography_adaptor_20ep
+./Hagiography_adaptor_EarStop
+./Hagiography_adaptor_withoutTT
