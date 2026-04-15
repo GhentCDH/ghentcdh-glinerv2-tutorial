@@ -1,0 +1,2364 @@
+[
+  {
+    "data": {
+      "text": "[4]  Fuit igitur hæc virgo suæ generationis singularis lucerna, inter quos enituit candore virtutum, sicut lilium inter spinas. Nec defuit ei temptatio inimici. Antiquus enim hostis, calcaneo illius insidians, moliebatur effundere oleum, quod adhuc in vase fictili conservabat. Siquidem prædicti fratres, introitum illius et egressum sæpius considerantes, exarserunt in concupiscentiam ejus; ignorans alter cogitationem alterius. Uterque tamen observabat tempus et horam, qua eam solam deprehendere potuisset, quatenus decore illius suam libidinem satiaret. \n\n[Col. 0849F] \n\nSed cum tempus congruum malitiæ suæ implendæ minime reperirent, interius cæco cruciabantur amore. Quid tamen agerent? Non enim sine gravi scandalo totius oppidi vim inferre poterant tantæ opinionis virgini. Unus autem ex eis, quem flamma libidinis amplius exurebat, expetiit custodem ecclesiæ, dona maxima repromittens, si per eum consensum virginis habere potuisset. Illi enim sæpius atque familiarius loquebatur; per eum singulis noctibus ad ecclesiam habebat accessum; quamvis sub ovina pelle sanctitatem virginis tamdiu latere non potuisset. Ille vero, de consensu virginis omnino desperans, (sciebat enim mentem illius solidatam esse et in Christo fundatam,) rapiendam potius fore sub conticinio noctis juveni suadebat. Hac enim hora, gustato paulisper somno, solita erat venire ad ecclesiam, offerens seipsam hostiam vivam, sanctam, Deo placentem. Et quid agis, o humana malicia? Non est sapiencia, non est prudencia, non est consilium contra Dominum. \n\n\n[Col. 0850A]"
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.90129746110351,
+        "result": [
+          {
+            "id": "02ad9ac2",
+            "type": "labels",
+            "value": {
+              "start": 773,
+              "end": 780,
+              "text": "virgini",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9892405867576599
+          },
+          {
+            "id": "18580e2f",
+            "type": "labels",
+            "value": {
+              "start": 1083,
+              "end": 1091,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.988543689250946
+          },
+          {
+            "id": "aab8f3e3",
+            "type": "labels",
+            "value": {
+              "start": 1144,
+              "end": 1152,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9869158267974854
+          },
+          {
+            "id": "d2fe9160",
+            "type": "labels",
+            "value": {
+              "start": 916,
+              "end": 924,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9868985414505005
+          },
+          {
+            "id": "9bd5f78e",
+            "type": "labels",
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "virgo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9850426912307739
+          },
+          {
+            "id": "b14f09af",
+            "type": "labels",
+            "value": {
+              "start": 1283,
+              "end": 1289,
+              "text": "juveni",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9647859334945679
+          },
+          {
+            "id": "b3759973",
+            "type": "labels",
+            "value": {
+              "start": 175,
+              "end": 181,
+              "text": "hostis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9219720363616943
+          },
+          {
+            "id": "304f3d0b",
+            "type": "labels",
+            "value": {
+              "start": 850,
+              "end": 858,
+              "text": "custodem",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8217108845710754
+          },
+          {
+            "id": "4a2434ee",
+            "type": "labels",
+            "value": {
+              "start": 296,
+              "end": 303,
+              "text": "fratres",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.976439893245697
+          },
+          {
+            "id": "cf2f8b93",
+            "type": "labels",
+            "value": {
+              "start": 430,
+              "end": 437,
+              "text": "Uterque",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7658501863479614
+          },
+          {
+            "id": "6e017e0a",
+            "type": "labels",
+            "value": {
+              "start": 152,
+              "end": 159,
+              "text": "inimici",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5868246555328369
+          },
+          {
+            "id": "14a7b3f0",
+            "type": "labels",
+            "value": {
+              "start": 231,
+              "end": 236,
+              "text": "oleum",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9752620458602905
+          },
+          {
+            "id": "d21c0ff1",
+            "type": "labels",
+            "value": {
+              "start": 1390,
+              "end": 1397,
+              "text": "hostiam",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9248717427253723
+          },
+          {
+            "id": "43fa4335",
+            "type": "labels",
+            "value": {
+              "start": 55,
+              "end": 62,
+              "text": "lucerna",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9203017950057983
+          },
+          {
+            "id": "b392b639",
+            "type": "labels",
+            "value": {
+              "start": 120,
+              "end": 126,
+              "text": "spinas",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8459734320640564
+          },
+          {
+            "id": "d79fd936",
+            "type": "labels",
+            "value": {
+              "start": 107,
+              "end": 113,
+              "text": "lilium",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8286247253417969
+          },
+          {
+            "id": "7f900e56",
+            "type": "labels",
+            "value": {
+              "start": 183,
+              "end": 191,
+              "text": "calcaneo",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8087706565856934
+          },
+          {
+            "id": "4f4001b8",
+            "type": "labels",
+            "value": {
+              "start": 252,
+              "end": 264,
+              "text": "vase fictili",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7801462411880493
+          },
+          {
+            "id": "2490c6c0",
+            "type": "labels",
+            "value": {
+              "start": 869,
+              "end": 873,
+              "text": "dona",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.699946403503418
+          },
+          {
+            "id": "a511e513",
+            "type": "labels",
+            "value": {
+              "start": 1059,
+              "end": 1070,
+              "text": "ovina pelle",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6479861736297607
+          },
+          {
+            "id": "5ac691b2",
+            "type": "labels",
+            "value": {
+              "start": 1220,
+              "end": 1227,
+              "text": "Christo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9980422258377075
+          },
+          {
+            "id": "2d20ff72",
+            "type": "labels",
+            "value": {
+              "start": 1414,
+              "end": 1417,
+              "text": "Deo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9976818561553955
+          },
+          {
+            "id": "ce4b1989",
+            "type": "labels",
+            "value": {
+              "start": 1524,
+              "end": 1531,
+              "text": "Dominum",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9945138692855835
+          },
+          {
+            "id": "6749a71b",
+            "type": "labels",
+            "value": {
+              "start": 729,
+              "end": 735,
+              "text": "oppidi",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9807928204536438
+          },
+          {
+            "id": "b571bde3",
+            "type": "labels",
+            "value": {
+              "start": 1362,
+              "end": 1371,
+              "text": "ecclesiam",
+              "labels": [
+                "institution"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9901150465011597
+          },
+          {
+            "id": "a976f49c",
+            "type": "labels",
+            "value": {
+              "start": 1019,
+              "end": 1028,
+              "text": "ecclesiam",
+              "labels": [
+                "institution"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9883337020874023
+          },
+          {
+            "id": "c520a68c",
+            "type": "labels",
+            "value": {
+              "start": 859,
+              "end": 867,
+              "text": "ecclesiæ",
+              "labels": [
+                "institution"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9794437885284424
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "[2]  Cumque pueritia transisset in adolescentiam, parentibus eam nubere filiosque procreare volentibus, nullatenus consensit, dicens se Christo virginitatem suam devovisse. Arrepto denique ferro, capillos per lacteam cervicem dependentes præscidit; relictoque sæculo et omnibus pompis ejus, Christum, quem sibi sponsum elegerat, per arctam et angustam viam secuta est. Nec retraxit pedem, donec ad bravium perveniret: in memoria semper habens, quid pro nobis fecerit, quidque fuerit passus. Parentes autem illius, nec minis, nec blanditiis propositum ejus immutare valentes, redditus cujusdam villulæ Odunca nomine ad famulatus sui usum unanimiter tradiderunt."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8025469834154303,
+        "result": [
+          {
+            "id": "a6fb7c45",
+            "type": "labels",
+            "value": {
+              "start": 72,
+              "end": 81,
+              "text": "filiosque",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7863976359367371
+          },
+          {
+            "id": "1310f468",
+            "type": "labels",
+            "value": {
+              "start": 50,
+              "end": 60,
+              "text": "parentibus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8587847948074341
+          },
+          {
+            "id": "91a6b1d3",
+            "type": "labels",
+            "value": {
+              "start": 491,
+              "end": 499,
+              "text": "Parentes",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8054870367050171
+          },
+          {
+            "id": "a4b05e2f",
+            "type": "labels",
+            "value": {
+              "start": 453,
+              "end": 458,
+              "text": "nobis",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.682677149772644
+          },
+          {
+            "id": "8e460b04",
+            "type": "labels",
+            "value": {
+              "start": 575,
+              "end": 583,
+              "text": "redditus",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.799166738986969
+          },
+          {
+            "id": "9836b36f",
+            "type": "labels",
+            "value": {
+              "start": 196,
+              "end": 204,
+              "text": "capillos",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7912936806678772
+          },
+          {
+            "id": "b91d0fa1",
+            "type": "labels",
+            "value": {
+              "start": 189,
+              "end": 194,
+              "text": "ferro",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7765381932258606
+          },
+          {
+            "id": "2615d3a7",
+            "type": "labels",
+            "value": {
+              "start": 217,
+              "end": 225,
+              "text": "cervicem",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.537275493144989
+          },
+          {
+            "id": "52a8d15b",
+            "type": "labels",
+            "value": {
+              "start": 291,
+              "end": 299,
+              "text": "Christum",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9905545115470886
+          },
+          {
+            "id": "d4f1e8d6",
+            "type": "labels",
+            "value": {
+              "start": 136,
+              "end": 143,
+              "text": "Christo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9873127341270447
+          },
+          {
+            "id": "5d7e841e",
+            "type": "labels",
+            "value": {
+              "start": 398,
+              "end": 405,
+              "text": "bravium",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8125288486480713
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "[5]  Igitur nocte, qua rapienda erat, meruit angelicam vocem audire se monentem ex nomine: “Recede, inquiens, virgo, recede, et virginitatem, quam Deo consecrasti, inviolatam custodi.” Quæ valde perterrita, obediens jussioni, iter cepit. Cumque Spiritu Sancto duceretur, angelus Domini secundo ei apparuit et viam, quam ceperat, ne desereret imperavit. “Venies, inquit angelus, in villam, quam Meldricem nuncupabis; ibi namque præparavit tibi Deus locum ad perficiendum desiderii tui votum.” Pervenit igitur venerabilis virgo ad locum, quem prædixerat ei angelus; ibique parsimonia miræ abstinenciæ diu vivens, geminæ dilectionis se continebat mandato. Alebatur autem beata Ermelindis solummodo herbis agrestibus, non inferior summis heremi cultoribus: puellares quoque artus teneros duris cruciabat injuriis. Frequentabant quoque eam quique religiosi; sed quanto Dominus famam ejus dilatabat, tanto humilius se agebat. Tandem vero, post multa certamina evocata a Domino, ad cælestem pervenit gloriam; quam, in terris posita, tota devotione quæsivit. Ad cujus exequias non hominum \n\n[Col. 0850B] \n\nturba, sed ymnidici chori Christo cecinerunt gloriam. Et quia Christo fuit dilecta, ab ipsis est officiosissime sepulta. Hæc interea beata virgo quadraginta octo annis latuit aliena a cultu sæculi, solis venerata civibus cæli. Sic denique Christus manifestavit eam huic sæculo, ut, quæ erat jam apud eum glorificata in cælis, etiam apud homines honoraretur in terris."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.9059909501591245,
+        "result": [
+          {
+            "id": "2c71b289",
+            "type": "labels",
+            "value": {
+              "start": 110,
+              "end": 115,
+              "text": "virgo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9879112243652344
+          },
+          {
+            "id": "524faac2",
+            "type": "labels",
+            "value": {
+              "start": 1237,
+              "end": 1242,
+              "text": "virgo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9823161959648132
+          },
+          {
+            "id": "9ffb8361",
+            "type": "labels",
+            "value": {
+              "start": 520,
+              "end": 525,
+              "text": "virgo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9818211197853088
+          },
+          {
+            "id": "e20a51f0",
+            "type": "labels",
+            "value": {
+              "start": 668,
+              "end": 684,
+              "text": "beata Ermelindis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.908280611038208
+          },
+          {
+            "id": "d8863f2a",
+            "type": "labels",
+            "value": {
+              "start": 394,
+              "end": 403,
+              "text": "Meldricem",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7175852060317993
+          },
+          {
+            "id": "50a8ae53",
+            "type": "labels",
+            "value": {
+              "start": 842,
+              "end": 851,
+              "text": "religiosi",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9458149671554565
+          },
+          {
+            "id": "e8f2cd23",
+            "type": "labels",
+            "value": {
+              "start": 1098,
+              "end": 1103,
+              "text": "turba",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9255344867706299
+          },
+          {
+            "id": "79c5c33e",
+            "type": "labels",
+            "value": {
+              "start": 1311,
+              "end": 1318,
+              "text": "civibus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.917891263961792
+          },
+          {
+            "id": "114bcb88",
+            "type": "labels",
+            "value": {
+              "start": 1435,
+              "end": 1442,
+              "text": "homines",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.890808641910553
+          },
+          {
+            "id": "eba8dd3d",
+            "type": "labels",
+            "value": {
+              "start": 1073,
+              "end": 1080,
+              "text": "hominum",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8834834098815918
+          },
+          {
+            "id": "577048e4",
+            "type": "labels",
+            "value": {
+              "start": 1109,
+              "end": 1123,
+              "text": "ymnidici chori",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8765367865562439
+          },
+          {
+            "id": "ebbc0ac3",
+            "type": "labels",
+            "value": {
+              "start": 753,
+              "end": 762,
+              "text": "puellares",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8000025153160095
+          },
+          {
+            "id": "b5e91296",
+            "type": "labels",
+            "value": {
+              "start": 702,
+              "end": 712,
+              "text": "agrestibus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6637303829193115
+          },
+          {
+            "id": "9717d91b",
+            "type": "labels",
+            "value": {
+              "start": 734,
+              "end": 751,
+              "text": "heremi cultoribus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5254733562469482
+          },
+          {
+            "id": "a0ed943a",
+            "type": "labels",
+            "value": {
+              "start": 695,
+              "end": 701,
+              "text": "herbis",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5705627202987671
+          },
+          {
+            "id": "64f4bd1a",
+            "type": "labels",
+            "value": {
+              "start": 1337,
+              "end": 1345,
+              "text": "Christus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9932417273521423
+          },
+          {
+            "id": "8ded09ed",
+            "type": "labels",
+            "value": {
+              "start": 555,
+              "end": 562,
+              "text": "angelus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9920328259468079
+          },
+          {
+            "id": "c664945e",
+            "type": "labels",
+            "value": {
+              "start": 369,
+              "end": 376,
+              "text": "angelus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9918311238288879
+          },
+          {
+            "id": "d78c22e6",
+            "type": "labels",
+            "value": {
+              "start": 271,
+              "end": 278,
+              "text": "angelus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9894981384277344
+          },
+          {
+            "id": "af40a0bf",
+            "type": "labels",
+            "value": {
+              "start": 1124,
+              "end": 1131,
+              "text": "Christo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9880186319351196
+          },
+          {
+            "id": "3b87de40",
+            "type": "labels",
+            "value": {
+              "start": 443,
+              "end": 447,
+              "text": "Deus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9878038167953491
+          },
+          {
+            "id": "c56fe24f",
+            "type": "labels",
+            "value": {
+              "start": 147,
+              "end": 150,
+              "text": "Deo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9839896559715271
+          },
+          {
+            "id": "d75103fa",
+            "type": "labels",
+            "value": {
+              "start": 1160,
+              "end": 1167,
+              "text": "Christo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9838922023773193
+          },
+          {
+            "id": "abc625be",
+            "type": "labels",
+            "value": {
+              "start": 245,
+              "end": 259,
+              "text": "Spiritu Sancto",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9809445142745972
+          },
+          {
+            "id": "d6721f73",
+            "type": "labels",
+            "value": {
+              "start": 964,
+              "end": 970,
+              "text": "Domino",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9718634486198425
+          },
+          {
+            "id": "5aa94192",
+            "type": "labels",
+            "value": {
+              "start": 864,
+              "end": 871,
+              "text": "Dominus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9699713587760925
+          },
+          {
+            "id": "28e4b9a2",
+            "type": "labels",
+            "value": {
+              "start": 279,
+              "end": 285,
+              "text": "Domini",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8971278071403503
+          },
+          {
+            "id": "8fab03ec",
+            "type": "labels",
+            "value": {
+              "start": 45,
+              "end": 60,
+              "text": "angelicam vocem",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8033123016357422
+          },
+          {
+            "id": "f652c9dc",
+            "type": "labels",
+            "value": {
+              "start": 1458,
+              "end": 1464,
+              "text": "terris",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9919008016586304
+          },
+          {
+            "id": "92afb3b9",
+            "type": "labels",
+            "value": {
+              "start": 1011,
+              "end": 1017,
+              "text": "terris",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9878502488136292
+          },
+          {
+            "id": "02d2d790",
+            "type": "labels",
+            "value": {
+              "start": 381,
+              "end": 387,
+              "text": "villam",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9870275259017944
+          },
+          {
+            "id": "3ab7f9e7",
+            "type": "labels",
+            "value": {
+              "start": 529,
+              "end": 534,
+              "text": "locum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9788599014282227
+          },
+          {
+            "id": "d0da8622",
+            "type": "labels",
+            "value": {
+              "start": 975,
+              "end": 983,
+              "text": "cælestem",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9474691152572632
+          },
+          {
+            "id": "efc0d6c6",
+            "type": "labels",
+            "value": {
+              "start": 1417,
+              "end": 1422,
+              "text": "cælis",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9419406652450562
+          },
+          {
+            "id": "43323585",
+            "type": "labels",
+            "value": {
+              "start": 448,
+              "end": 453,
+              "text": "locum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9398710131645203
+          },
+          {
+            "id": "e52f98c8",
+            "type": "labels",
+            "value": {
+              "start": 1319,
+              "end": 1323,
+              "text": "cæli",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.905167281627655
+          },
+          {
+            "id": "7a8e889d",
+            "type": "labels",
+            "value": {
+              "start": 734,
+              "end": 740,
+              "text": "heremi",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7302981615066528
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "[6]  Erat igitur homo quidam, qui præfatam solitudinem, ab angelo simul et beata Ermelinde Meldricem vocatam, cum transiret, contigit, Deo disponente, ut longius ire nequiret. Media autem noctis hora apparuit tumulus virginis, solis claritate lucidior, audivitque angelos psallentes. Apparente autem luce dici, disparuit visio cælestis, sed odor nimiæ suavitatis in eodem loco permansit. Post hæc prædictus vir devotus, peracto negotio, ad prædictum rediit locum, atque ad tumulum sui signi secundo devotissime excubavit; nec frustratus est spe sua. Nam pius Dominus iterum dignatus est illi revelare glorificationem sponsæ suæ. Quam enim apud se glorificaverat in cælis, disponebat et magnificare in terris. At ille, Domini voluntate \n\n[Col. 0850C] \n\ncertior effectus, surgens mane lætus, agensque Deo gratias, inquit: “Vere Dominus est in loco isto, et ego nesciebam”. Et statim reversus ad propria, omnibus quæ sui juris erant assumptis, super tumulum virginis cappellam fabricavit, ibique cum sobrietate vivens, finem dierum in pace sortitus est."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.0,
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "[3]At beata virgo Ermelindis, relicta domo, rebusque parentum postpositis, solitaria incedebat, solicite exquirens locum, ubi soli Deo vacare posset. Venit ergo ad quandam villam, cui præerant duo germani fratres, primo juventutis flore vernantes. Isti necdum legitima contraxerant matrimonia, sed vanitatibus sæculi atque illecebris inserviebant. Ibi ergo venerabilis virgo, aliquandiu commorata, hunc locum \n\n[Col. 0849E] \n\næstimabat a Deo sibi præparatum. Diebus vero ac noctibus frequentabat ecclesiam, nudis pedibus incedens, Domino in holocaustum proprium corpus offerens: humiliabat se servituti subjiciens, nichil de generis nobilitate blandiens. De nobili enim ejus prosapia descendisse dicitur Pippinus, pater sanctæ Gertrudis, cujus meritis B. Ermelindis studuit esse coæqualis. Necdum in tempore illo sanctus Amandus, gubernacula Trajectensis ecclesiæ susceperat, cujus doctrina et institutione multi postea de errore suo ad vias justitiæ redire coacti sunt."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8624384782531045,
+        "result": [
+          {
+            "id": "aa64a7aa",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 28,
+              "text": "beata virgo Ermelindis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9697139859199524
+          },
+          {
+            "id": "522e2cee",
+            "type": "labels",
+            "value": {
+              "start": 704,
+              "end": 712,
+              "text": "Pippinus",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9590334296226501
+          },
+          {
+            "id": "6433a60b",
+            "type": "labels",
+            "value": {
+              "start": 357,
+              "end": 374,
+              "text": "venerabilis virgo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9488316178321838
+          },
+          {
+            "id": "daa0f6bd",
+            "type": "labels",
+            "value": {
+              "start": 813,
+              "end": 828,
+              "text": "sanctus Amandus",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9476925730705261
+          },
+          {
+            "id": "f6b38bc3",
+            "type": "labels",
+            "value": {
+              "start": 720,
+              "end": 736,
+              "text": "sanctæ Gertrudis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9252002835273743
+          },
+          {
+            "id": "a6693715",
+            "type": "labels",
+            "value": {
+              "start": 752,
+              "end": 765,
+              "text": "B. Ermelindis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.668926477432251
+          },
+          {
+            "id": "e8e407e4",
+            "type": "labels",
+            "value": {
+              "start": 53,
+              "end": 61,
+              "text": "parentum",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5425701141357422
+          },
+          {
+            "id": "7e35a306",
+            "type": "labels",
+            "value": {
+              "start": 220,
+              "end": 230,
+              "text": "juventutis",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.90826016664505
+          },
+          {
+            "id": "c1390e8a",
+            "type": "labels",
+            "value": {
+              "start": 907,
+              "end": 912,
+              "text": "multi",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.751334011554718
+          },
+          {
+            "id": "db408b24",
+            "type": "labels",
+            "value": {
+              "start": 193,
+              "end": 212,
+              "text": "duo germani fratres",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7376990914344788
+          },
+          {
+            "id": "30a8fb95",
+            "type": "labels",
+            "value": {
+              "start": 53,
+              "end": 61,
+              "text": "parentum",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5041652917861938
+          },
+          {
+            "id": "559341b3",
+            "type": "labels",
+            "value": {
+              "start": 562,
+              "end": 568,
+              "text": "corpus",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9089555144309998
+          },
+          {
+            "id": "27c0f8ac",
+            "type": "labels",
+            "value": {
+              "start": 44,
+              "end": 52,
+              "text": "rebusque",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.5465442538261414
+          },
+          {
+            "id": "42107693",
+            "type": "labels",
+            "value": {
+              "start": 438,
+              "end": 441,
+              "text": "Deo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9955573678016663
+          },
+          {
+            "id": "16dd9e41",
+            "type": "labels",
+            "value": {
+              "start": 531,
+              "end": 537,
+              "text": "Domino",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9951882362365723
+          },
+          {
+            "id": "41989fde",
+            "type": "labels",
+            "value": {
+              "start": 131,
+              "end": 134,
+              "text": "Deo",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.994471549987793
+          },
+          {
+            "id": "06184dd3",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 42,
+              "text": "domo",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.976740300655365
+          },
+          {
+            "id": "66d74b9f",
+            "type": "labels",
+            "value": {
+              "start": 172,
+              "end": 178,
+              "text": "villam",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9662389159202576
+          },
+          {
+            "id": "51195d12",
+            "type": "labels",
+            "value": {
+              "start": 403,
+              "end": 408,
+              "text": "locum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.931323230266571
+          },
+          {
+            "id": "17a2d1e0",
+            "type": "labels",
+            "value": {
+              "start": 115,
+              "end": 120,
+              "text": "locum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9202508926391602
+          },
+          {
+            "id": "ba7e3e60",
+            "type": "labels",
+            "value": {
+              "start": 496,
+              "end": 505,
+              "text": "ecclesiam",
+              "labels": [
+                "institution"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9825411438941956
+          },
+          {
+            "id": "96e0ff1f",
+            "type": "labels",
+            "value": {
+              "start": 855,
+              "end": 863,
+              "text": "ecclesiæ",
+              "labels": [
+                "institution"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8924080729484558
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "[7]  Audientes igitur populi quod gestum erat, convenerunt ad locum, corde et animo concinentes hanc antiphonam: “Tua sunt hæc, Christe, opera, qui sanctos tuos ita glorificas, et cætera.” Statimque aperientes terram, apparuit sarcophagus, in quo jacebat inviolatæ virginis corpus. De subito tanta sanitatum emanavit copia, ut ei congruenter aptari posset, quod Dominus in Evangelio dicit: “Qui credit in me, opera quæ ego facio, et ipse faciet et majora faciet.” Nam cæcis visus, surdis auditus, claudis gressus, omnibus quoque pulsantibus salus et incolumitas reddebatur. Dæmones etiam ex obsessis corporibus egredientes, expulsione \n\n[Col. 0850D] \n\nsua meritum virginis inviti prodebant. Denique quicunque sepulcrum ejus fideliter tetigisset, sanus fiebat, a quacumque detinebatur infirmitate. Odore virtutum ejus commoti, ex longinquis regionibus superveniebant viri cum mulieribus, et virgines delicatæ, nudis pedibus misericordiam Domini implorantes. Per meritum autem beatæ virginis Ermelindis gratiam Dei sibi adfuisse sentiebant, læti et alacres remeantes ad propria. Amen."
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8930818510055542,
+        "result": [
+          {
+            "id": "d3d2fcca",
+            "type": "labels",
+            "value": {
+              "start": 981,
+              "end": 989,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9542658925056458
+          },
+          {
+            "id": "8904d0be",
+            "type": "labels",
+            "value": {
+              "start": 664,
+              "end": 672,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9494622349739075
+          },
+          {
+            "id": "1048277a",
+            "type": "labels",
+            "value": {
+              "start": 265,
+              "end": 273,
+              "text": "virginis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9394121170043945
+          },
+          {
+            "id": "ee576674",
+            "type": "labels",
+            "value": {
+              "start": 22,
+              "end": 28,
+              "text": "populi",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9726517796516418
+          },
+          {
+            "id": "937ef8e1",
+            "type": "labels",
+            "value": {
+              "start": 866,
+              "end": 870,
+              "text": "viri",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9260314702987671
+          },
+          {
+            "id": "7b70b383",
+            "type": "labels",
+            "value": {
+              "start": 514,
+              "end": 521,
+              "text": "omnibus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8630250692367554
+          },
+          {
+            "id": "b91a74fc",
+            "type": "labels",
+            "value": {
+              "start": 468,
+              "end": 473,
+              "text": "cæcis",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7824286818504333
+          },
+          {
+            "id": "d0559a72",
+            "type": "labels",
+            "value": {
+              "start": 890,
+              "end": 898,
+              "text": "virgines",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7774465680122375
+          },
+          {
+            "id": "54ea360e",
+            "type": "labels",
+            "value": {
+              "start": 875,
+              "end": 885,
+              "text": "mulieribus",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7631152272224426
+          },
+          {
+            "id": "7ec185da",
+            "type": "labels",
+            "value": {
+              "start": 148,
+              "end": 155,
+              "text": "sanctos",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6713287234306335
+          },
+          {
+            "id": "f9c9a111",
+            "type": "labels",
+            "value": {
+              "start": 481,
+              "end": 487,
+              "text": "surdis",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6629165410995483
+          },
+          {
+            "id": "2897b359",
+            "type": "labels",
+            "value": {
+              "start": 274,
+              "end": 280,
+              "text": "corpus",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9476980566978455
+          },
+          {
+            "id": "886c0cb4",
+            "type": "labels",
+            "value": {
+              "start": 600,
+              "end": 610,
+              "text": "corporibus",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9336813688278198
+          },
+          {
+            "id": "4e0bb146",
+            "type": "labels",
+            "value": {
+              "start": 101,
+              "end": 111,
+              "text": "antiphonam",
+              "labels": [
+                "object"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8735294342041016
+          },
+          {
+            "id": "02755351",
+            "type": "labels",
+            "value": {
+              "start": 574,
+              "end": 581,
+              "text": "Dæmones",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9957095384597778
+          },
+          {
+            "id": "9f35dfd2",
+            "type": "labels",
+            "value": {
+              "start": 937,
+              "end": 943,
+              "text": "Domini",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9954257607460022
+          },
+          {
+            "id": "513fa5d6",
+            "type": "labels",
+            "value": {
+              "start": 1009,
+              "end": 1012,
+              "text": "Dei",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9933191537857056
+          },
+          {
+            "id": "d73da80b",
+            "type": "labels",
+            "value": {
+              "start": 362,
+              "end": 369,
+              "text": "Dominus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9929360747337341
+          },
+          {
+            "id": "33e07558",
+            "type": "labels",
+            "value": {
+              "start": 128,
+              "end": 135,
+              "text": "Christe",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9885333776473999
+          },
+          {
+            "id": "819d6aff",
+            "type": "labels",
+            "value": {
+              "start": 210,
+              "end": 216,
+              "text": "terram",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9776520133018494
+          },
+          {
+            "id": "1d281cf9",
+            "type": "labels",
+            "value": {
+              "start": 62,
+              "end": 67,
+              "text": "locum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9743492007255554
+          },
+          {
+            "id": "c2412e96",
+            "type": "labels",
+            "value": {
+              "start": 709,
+              "end": 718,
+              "text": "sepulcrum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9490981698036194
+          },
+          {
+            "id": "36331cc5",
+            "type": "labels",
+            "value": {
+              "start": 227,
+              "end": 238,
+              "text": "sarcophagus",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9259725213050842
+          },
+          {
+            "id": "ab3b0620",
+            "type": "labels",
+            "value": {
+              "start": 840,
+              "end": 850,
+              "text": "regionibus",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7924898266792297
+          },
+          {
+            "id": "2e527db0",
+            "type": "labels",
+            "value": {
+              "start": 373,
+              "end": 382,
+              "text": "Evangelio",
+              "labels": [
+                "text_title"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7245674729347229
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "﻿[Col. 0849B] \n\n[Col. 0849C] \nBeata virgo Ermelindis, ex Ermenoldo patre et Ermesende matre, tam genere quam divitiis spectabilibus, exorta, ab ineunte ætate studuit de virtute in virtutem ascendere, ut Deum deorum in Syon videre mereretur. Quæ cum adhuc parentum in domo puerilis ætatis vinculo teneretur astricta, nichil tamen puerile gerebat in opere, sed quamdam maturitatem morum in gestu intuentibus se præferebat. Declinabat siquidem lasciviam atque consortia coætanearum, in thalamo genetricis suæ residens, psalmosque Davidicos discens. Si quando verbum Dei audisset, memoria sagaci recondebat, sæpiusque ad os reducens, quasi mundum animal, novo semper pietatis affectu ruminabat. Jam tunc suavitatem sponsi prægustabat magno et incomprehensibili modo, desiderioque illius exæstuans, cum sancto David dicebat: “Sitivit anima mea ad Deum fontem vivum, quando veniam et apparebo ante faciem Dei mei?” et iterum: “Sicut cervus desiderat ad fontes aquarum, ita desiderat anima mea ad te, Deus.” \n\n[Col. 0849D]"
+    },
+    "predictions": [
+      {
+        "model_version": "gliner2-multi-v1",
+        "score": 0.8796500265598297,
+        "result": [
+          {
+            "id": "f83c52a2",
+            "type": "labels",
+            "value": {
+              "start": 711,
+              "end": 717,
+              "text": "sponsi",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9609418511390686
+          },
+          {
+            "id": "e01ee790",
+            "type": "labels",
+            "value": {
+              "start": 30,
+              "end": 52,
+              "text": "Beata virgo Ermelindis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9539441466331482
+          },
+          {
+            "id": "66bd6cc4",
+            "type": "labels",
+            "value": {
+              "start": 76,
+              "end": 91,
+              "text": "Ermesende matre",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9189059734344482
+          },
+          {
+            "id": "beca3b32",
+            "type": "labels",
+            "value": {
+              "start": 57,
+              "end": 66,
+              "text": "Ermenoldo",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8685514330863953
+          },
+          {
+            "id": "20a110db",
+            "type": "labels",
+            "value": {
+              "start": 491,
+              "end": 501,
+              "text": "genetricis",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.7432584762573242
+          },
+          {
+            "id": "988cc31f",
+            "type": "labels",
+            "value": {
+              "start": 798,
+              "end": 810,
+              "text": "sancto David",
+              "labels": [
+                "person"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.663409948348999
+          },
+          {
+            "id": "9f39e4f8",
+            "type": "labels",
+            "value": {
+              "start": 467,
+              "end": 478,
+              "text": "coætanearum",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9415356516838074
+          },
+          {
+            "id": "860e1c7b",
+            "type": "labels",
+            "value": {
+              "start": 255,
+              "end": 263,
+              "text": "parentum",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9370684027671814
+          },
+          {
+            "id": "e8d864c7",
+            "type": "labels",
+            "value": {
+              "start": 527,
+              "end": 536,
+              "text": "Davidicos",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.8530858159065247
+          },
+          {
+            "id": "0a970c2c",
+            "type": "labels",
+            "value": {
+              "start": 457,
+              "end": 466,
+              "text": "consortia",
+              "labels": [
+                "group"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6756958961486816
+          },
+          {
+            "id": "27ff162d",
+            "type": "labels",
+            "value": {
+              "start": 994,
+              "end": 998,
+              "text": "Deus",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9904516935348511
+          },
+          {
+            "id": "d173c15a",
+            "type": "labels",
+            "value": {
+              "start": 899,
+              "end": 902,
+              "text": "Dei",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9824181199073792
+          },
+          {
+            "id": "4269ad27",
+            "type": "labels",
+            "value": {
+              "start": 563,
+              "end": 566,
+              "text": "Dei",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9802781939506531
+          },
+          {
+            "id": "7cb19e78",
+            "type": "labels",
+            "value": {
+              "start": 842,
+              "end": 846,
+              "text": "Deum",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9610045552253723
+          },
+          {
+            "id": "e1b7bfcb",
+            "type": "labels",
+            "value": {
+              "start": 203,
+              "end": 207,
+              "text": "Deum",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9433557391166687
+          },
+          {
+            "id": "be21485c",
+            "type": "labels",
+            "value": {
+              "start": 805,
+              "end": 810,
+              "text": "David",
+              "labels": [
+                "divine_entity"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6001096963882446
+          },
+          {
+            "id": "6d0bb028",
+            "type": "labels",
+            "value": {
+              "start": 483,
+              "end": 490,
+              "text": "thalamo",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.985414981842041
+          },
+          {
+            "id": "a37195fa",
+            "type": "labels",
+            "value": {
+              "start": 218,
+              "end": 222,
+              "text": "Syon",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9807012677192688
+          },
+          {
+            "id": "f2da7f5f",
+            "type": "labels",
+            "value": {
+              "start": 267,
+              "end": 271,
+              "text": "domo",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.9804274439811707
+          },
+          {
+            "id": "b666334a",
+            "type": "labels",
+            "value": {
+              "start": 947,
+              "end": 961,
+              "text": "fontes aquarum",
+              "labels": [
+                "place"
+              ]
+            },
+            "from_name": "label",
+            "to_name": "text",
+            "origin": "prediction",
+            "score": 0.6724412441253662
+          }
+        ]
+      }
+    ]
+  }
+]
