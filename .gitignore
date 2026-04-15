@@ -1,9 +1,5 @@
 .venv
-./adapters
-./adapters_30_epochs
-./data_2
-./data_multi
-./Hagiography_adaptor_2
-./Hagiography_adaptor_20ep
-./Hagiography_adaptor_EarStop
-./Hagiography_adaptor_withoutTT
+# Ignore adapter and data folders
+GLiNER2_Latin_tests/Hagiography_adaptor_*
+GLiNER2_Latin_tests/adapter*
+GLiNER2_Latin_tests/data_*
