@@ -1,0 +1,8 @@
+gliner2
+scikit-learn
+pandas
+matplotlib
+numpy
+torch
+jupyter
+notebook
